@@ -26,7 +26,16 @@ def fetch_companies_list(start=0):
     if response.status_code == 200:
         data = response.json()
         total = data['data']['data']['searchDashClustersByAll']['paging']['total']
-        included = [item for item in data['included'] if item['$type'] == 'com.linkedin.voyager.dash.organization.Company']
+        company_objects = [item for item in data['included'] if item.get('template') == 'UNIVERSAL']
+        included = []
+        for company in company_objects:
+            company_data = {}
+            company_data['id'] = company['trackingUrn'].split(":")[-1]
+            company_data['name'] = company['title']['text']
+            company_data['universalName'] = company['navigationUrl'].split("/")[-2]
+            included.append(company_data)
+        print("included: ", included)
+
         return total, included
     else:
         print(f"Failed to fetch companies list: {response.status_code}")
@@ -74,24 +83,26 @@ def fetch_company_details(company_urn):
         print(f"Finished fetch for {company_urn}")
 
 def main():
-    start = 0
+    fetch_companies_list(0)
 
-    while True:
-        total, included = fetch_companies_list(start)
-        if not included:
-            break
+    # start = 0
 
-        print(f"Fetched {len(included)} companies, fetching details sequentially...")
+    # while True:
+    #     total, included = fetch_companies_list(start)
+    #     if not included:
+    #         break
 
-        for company in included:
-            company_urn = company['entityUrn'].replace("fsd_company:", "fsd_organizationalPage:")
-            fetch_company_details(company_urn)
+    #     print(f"Fetched {len(included)} companies, fetching details sequentially...")
 
-        start += len(included)
-        print(f"Fetched {start} of {total} companies")
+    #     for company in included:
+    #         company_urn = company['entityUrn'].replace("fsd_company:", "fsd_organizationalPage:")
+    #         fetch_company_details(company_urn)
 
-        if start >= total:
-            break
+    #     start += len(included)
+    #     print(f"Fetched {start} of {total} companies")
+
+    #     if start >= total:
+    #         break
 
 if __name__ == "__main__":
     main()
