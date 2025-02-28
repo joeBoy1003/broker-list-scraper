@@ -1,0 +1,3983 @@
+{
+  "data": {
+    "data": {
+      "feedDashOrganizationalPageUpdatesByOrganizationalPageRelevanceFeed": {
+        "metadata": {
+          "paginationToken": "1442103605-1740608506452-b39c45f2b7c4135b5071d7d7c3253d9b",
+          "paginationTokenExpiryTime": 1740612106452,
+          "$recipeTypes": [
+            "com.linkedin.bd873e93418798928b1a9625663df6be"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.InfiniteScrollMetadata"
+        },
+        "paging": {
+          "count": 10,
+          "start": 3,
+          "total": 9,
+          "$recipeTypes": [
+            "com.linkedin.0dda36ceaa3e72aba339463389c8660c"
+          ],
+          "$type": "com.linkedin.restli.common.CollectionMetadata"
+        },
+        "*elements": [
+          "urn:li:fsd_update:(urn:li:activity:7272884352638742528,COMPANY_FEED_RELEVANCE,EMPTY,DEFAULT,false)",
+          "urn:li:fsd_update:(urn:li:activity:7244098777085579264,COMPANY_FEED_RELEVANCE,EMPTY,DEFAULT,false)",
+          "urn:li:fsd_update:(urn:li:activity:7207677316288700416,COMPANY_FEED_RELEVANCE,EMPTY,DEFAULT,false)",
+          "urn:li:fsd_update:(urn:li:activity:7183436087762055170,COMPANY_FEED_RELEVANCE,EMPTY,DEFAULT,false)",
+          "urn:li:fsd_update:(urn:li:activity:7172870026138447873,COMPANY_FEED_RELEVANCE,EMPTY,DEFAULT,false)",
+          "urn:li:fsd_update:(urn:li:activity:7172513295478779904,COMPANY_FEED_RELEVANCE,EMPTY,DEFAULT,false)"
+        ],
+        "$recipeTypes": [
+          "com.linkedin.48dba3730ffeead34a66418b1ef2b151"
+        ],
+        "$type": "com.linkedin.restli.common.CollectionResponse"
+      },
+      "$recipeTypes": [
+        "com.linkedin.9fb5f050759af8f05d298ae16b2db5e8"
+      ],
+      "$type": "com.linkedin.9fb5f050759af8f05d298ae16b2db5e8"
+    }
+  },
+  "included": [
+    {
+      "entityUrn": "urn:li:fsd_hashtag:(saudiflagday,urn:li:activity:7172870026138447873)",
+      "trackingUrn": "urn:li:hashtag:saudiflagday",
+      "actionTarget": "https://www.linkedin.com/search/results/all/?keywords=%23saudiflagday&origin=HASH_TAG_FROM_FEED",
+      "$recipeTypes": [
+        "com.linkedin.50f805d5b3bfe356c358f4a3d08bc6f3"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.Hashtag"
+    },
+    {
+      "entityUrn": "urn:li:fsd_hashtag:(ramadan_kareem,urn:li:activity:7172513295478779904)",
+      "trackingUrn": "urn:li:hashtag:ramadan_kareem",
+      "actionTarget": "https://www.linkedin.com/search/results/all/?keywords=%23ramadan_kareem&origin=HASH_TAG_FROM_FEED",
+      "$recipeTypes": [
+        "com.linkedin.50f805d5b3bfe356c358f4a3d08bc6f3"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.Hashtag"
+    },
+    {
+      "entityUrn": "urn:li:fsd_hashtag:(eid_adha_1445,urn:li:activity:7207677316288700416)",
+      "trackingUrn": "urn:li:hashtag:eid_adha_1445",
+      "actionTarget": "https://www.linkedin.com/search/results/all/?keywords=%23eid_adha_1445&origin=HASH_TAG_FROM_FEED",
+      "$recipeTypes": [
+        "com.linkedin.50f805d5b3bfe356c358f4a3d08bc6f3"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.Hashtag"
+    },
+    {
+      "entityUrn": "urn:li:fsd_hashtag:(eid_mubarak,urn:li:activity:7183436087762055170)",
+      "trackingUrn": "urn:li:hashtag:eid_mubarak",
+      "actionTarget": "https://www.linkedin.com/search/results/all/?keywords=%23eid_mubarak&origin=HASH_TAG_FROM_FEED",
+      "$recipeTypes": [
+        "com.linkedin.50f805d5b3bfe356c358f4a3d08bc6f3"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.Hashtag"
+    },
+    {
+      "entityUrn": "urn:li:fsd_hashtag:(national_day_94,urn:li:activity:7244098777085579264)",
+      "trackingUrn": "urn:li:hashtag:national_day_94",
+      "actionTarget": "https://www.linkedin.com/search/results/all/?keywords=%23national_day_94&origin=HASH_TAG_FROM_FEED",
+      "$recipeTypes": [
+        "com.linkedin.50f805d5b3bfe356c358f4a3d08bc6f3"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.Hashtag"
+    },
+    {
+      "entityUrn": "urn:li:fsd_hashtag:(sadirat,urn:li:activity:7183436087762055170)",
+      "trackingUrn": "urn:li:hashtag:sadirat",
+      "actionTarget": "https://www.linkedin.com/search/results/all/?keywords=%23sadirat&origin=HASH_TAG_FROM_FEED",
+      "$recipeTypes": [
+        "com.linkedin.50f805d5b3bfe356c358f4a3d08bc6f3"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.Hashtag"
+    },
+    {
+      "entityUrn": "urn:li:fsd_hashtag:(sadirat,urn:li:activity:7172870026138447873)",
+      "trackingUrn": "urn:li:hashtag:sadirat",
+      "actionTarget": "https://www.linkedin.com/search/results/all/?keywords=%23sadirat&origin=HASH_TAG_FROM_FEED",
+      "$recipeTypes": [
+        "com.linkedin.50f805d5b3bfe356c358f4a3d08bc6f3"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.Hashtag"
+    },
+    {
+      "entityUrn": "urn:li:fsd_hashtag:(saudiaarabia,urn:li:activity:7172513295478779904)",
+      "trackingUrn": "urn:li:hashtag:saudiaarabia",
+      "actionTarget": "https://www.linkedin.com/search/results/all/?keywords=%23saudiaarabia&origin=HASH_TAG_FROM_FEED",
+      "$recipeTypes": [
+        "com.linkedin.50f805d5b3bfe356c358f4a3d08bc6f3"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.Hashtag"
+    },
+    {
+      "entityUrn": "urn:li:fsd_hashtag:(eid2024,urn:li:activity:7183436087762055170)",
+      "trackingUrn": "urn:li:hashtag:eid2024",
+      "actionTarget": "https://www.linkedin.com/search/results/all/?keywords=%23eid2024&origin=HASH_TAG_FROM_FEED",
+      "$recipeTypes": [
+        "com.linkedin.50f805d5b3bfe356c358f4a3d08bc6f3"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.Hashtag"
+    },
+    {
+      "entityUrn": "urn:li:fsd_hashtag:(sadirat,urn:li:activity:7172513295478779904)",
+      "trackingUrn": "urn:li:hashtag:sadirat",
+      "actionTarget": "https://www.linkedin.com/search/results/all/?keywords=%23sadirat&origin=HASH_TAG_FROM_FEED",
+      "$recipeTypes": [
+        "com.linkedin.50f805d5b3bfe356c358f4a3d08bc6f3"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.Hashtag"
+    },
+    {
+      "entityUrn": "urn:li:fsd_hashtag:(saudi_34,urn:li:activity:7272884352638742528)",
+      "trackingUrn": "urn:li:hashtag:saudi_34",
+      "actionTarget": "https://www.linkedin.com/search/results/all/?keywords=%23saudi_34&origin=HASH_TAG_FROM_FEED",
+      "$recipeTypes": [
+        "com.linkedin.50f805d5b3bfe356c358f4a3d08bc6f3"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.Hashtag"
+    },
+    {
+      "reactionByOrganizationActor": null,
+      "numLikes": 8,
+      "$recipeTypes": [
+        "com.linkedin.527f1741349651bf6479aaf582d3c01d"
+      ],
+      "liked": false,
+      "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+      "urn": "urn:li:activity:7272884352638742528",
+      "numComments": 0,
+      "highlightedReactorName": null,
+      "reactionTypeCounts": [
+        {
+          "count": 7,
+          "reactionType": "LIKE",
+          "$recipeTypes": [
+            "com.linkedin.b5a2a781cfd41a7cb8d4f1d759d0ddad"
+          ],
+          "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+        },
+        {
+          "count": 1,
+          "reactionType": "EMPATHY",
+          "$recipeTypes": [
+            "com.linkedin.b5a2a781cfd41a7cb8d4f1d759d0ddad"
+          ],
+          "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+        }
+      ],
+      "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:activity:7272884352638742528",
+      "numShares": 0,
+      "numImpressions": null,
+      "reacted": null,
+      "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:activity:7272884352638742528"
+    },
+    {
+      "reactionByOrganizationActor": null,
+      "numLikes": 3,
+      "$recipeTypes": [
+        "com.linkedin.527f1741349651bf6479aaf582d3c01d"
+      ],
+      "liked": false,
+      "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+      "urn": "urn:li:activity:7244098777085579264",
+      "numComments": 0,
+      "highlightedReactorName": null,
+      "reactionTypeCounts": [
+        {
+          "count": 3,
+          "reactionType": "LIKE",
+          "$recipeTypes": [
+            "com.linkedin.b5a2a781cfd41a7cb8d4f1d759d0ddad"
+          ],
+          "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+        }
+      ],
+      "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:activity:7244098777085579264",
+      "numShares": 1,
+      "numImpressions": null,
+      "reacted": null,
+      "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:activity:7244098777085579264"
+    },
+    {
+      "reactionByOrganizationActor": null,
+      "numLikes": 3,
+      "$recipeTypes": [
+        "com.linkedin.527f1741349651bf6479aaf582d3c01d"
+      ],
+      "liked": false,
+      "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+      "urn": "urn:li:activity:7172870026138447873",
+      "numComments": 0,
+      "highlightedReactorName": null,
+      "reactionTypeCounts": [
+        {
+          "count": 3,
+          "reactionType": "LIKE",
+          "$recipeTypes": [
+            "com.linkedin.b5a2a781cfd41a7cb8d4f1d759d0ddad"
+          ],
+          "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+        }
+      ],
+      "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:activity:7172870026138447873",
+      "numShares": 0,
+      "numImpressions": null,
+      "reacted": null,
+      "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:activity:7172870026138447873"
+    },
+    {
+      "reactionByOrganizationActor": null,
+      "numLikes": 8,
+      "$recipeTypes": [
+        "com.linkedin.527f1741349651bf6479aaf582d3c01d"
+      ],
+      "liked": false,
+      "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+      "urn": "urn:li:activity:7207677316288700416",
+      "numComments": 0,
+      "highlightedReactorName": null,
+      "reactionTypeCounts": [
+        {
+          "count": 7,
+          "reactionType": "LIKE",
+          "$recipeTypes": [
+            "com.linkedin.b5a2a781cfd41a7cb8d4f1d759d0ddad"
+          ],
+          "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+        },
+        {
+          "count": 1,
+          "reactionType": "PRAISE",
+          "$recipeTypes": [
+            "com.linkedin.b5a2a781cfd41a7cb8d4f1d759d0ddad"
+          ],
+          "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+        }
+      ],
+      "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:activity:7207677316288700416",
+      "numShares": 2,
+      "numImpressions": null,
+      "reacted": null,
+      "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:activity:7207677316288700416"
+    },
+    {
+      "reactionByOrganizationActor": null,
+      "numLikes": 4,
+      "$recipeTypes": [
+        "com.linkedin.527f1741349651bf6479aaf582d3c01d"
+      ],
+      "liked": false,
+      "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+      "urn": "urn:li:activity:7183436087762055170",
+      "numComments": 0,
+      "highlightedReactorName": null,
+      "reactionTypeCounts": [
+        {
+          "count": 4,
+          "reactionType": "LIKE",
+          "$recipeTypes": [
+            "com.linkedin.b5a2a781cfd41a7cb8d4f1d759d0ddad"
+          ],
+          "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+        }
+      ],
+      "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:activity:7183436087762055170",
+      "numShares": 0,
+      "numImpressions": null,
+      "reacted": null,
+      "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:activity:7183436087762055170"
+    },
+    {
+      "reactionByOrganizationActor": null,
+      "numLikes": 4,
+      "$recipeTypes": [
+        "com.linkedin.527f1741349651bf6479aaf582d3c01d"
+      ],
+      "liked": false,
+      "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+      "urn": "urn:li:activity:7172513295478779904",
+      "numComments": 0,
+      "highlightedReactorName": null,
+      "reactionTypeCounts": [
+        {
+          "count": 4,
+          "reactionType": "LIKE",
+          "$recipeTypes": [
+            "com.linkedin.b5a2a781cfd41a7cb8d4f1d759d0ddad"
+          ],
+          "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+        }
+      ],
+      "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:activity:7172513295478779904",
+      "numShares": 1,
+      "numImpressions": null,
+      "reacted": null,
+      "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:activity:7172513295478779904"
+    },
+    {
+      "metadata": {
+        "actionsPosition": "ACTOR_COMPONENT",
+        "shareMediaUrn": null,
+        "actionTriggerEnabled": false,
+        "coachSummaryText": null,
+        "shareAudience": "PUBLIC",
+        "legoTrackingToken": null,
+        "backendUrn": "urn:li:activity:7172870026138447873",
+        "coachSummaryUrn": null,
+        "$recipeTypes": [
+          "com.linkedin.90f58701314ab6726d81d936616b5cb5"
+        ],
+        "trackingData": {
+          "sponsoredTracking": null,
+          "requestId": "dc843633-d31a-49ea-8727-2eaf71041b5f",
+          "backendUrn": null,
+          "$recipeTypes": [
+            "com.linkedin.f2c20e2fd1e14492206bbe57dff07df6"
+          ],
+          "trackingId": "WWFuLZgFX6BJxUel31cK0w==",
+          "$type": "com.linkedin.voyager.dash.feed.metadata.TrackingData"
+        },
+        "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata",
+        "*updateActions": "urn:li:fsd_updateActions:(urn:li:activity:7172870026138447873,COMPANY_FEED_RELEVANCE,EMPTY,urn:li:reason:-,urn:li:adCreative:-)",
+        "detailPageType": "FEED_DETAIL",
+        "shouldForceRefetchFromNetwork": false,
+        "shareUrn": "urn:li:share:7172870025400172545",
+        "excludedFromSeen": false,
+        "coachAction": null,
+        "rootShare": true,
+        "hidePostAction": null,
+        "group": null
+      },
+      "socialContent": {
+        "updateSaveState": null,
+        "hideCommentsCount": false,
+        "hideReactionsCount": false,
+        "hideSocialActivityCounts": false,
+        "hideShareAction": false,
+        "hideSendAction": false,
+        "$recipeTypes": [
+          "com.linkedin.ad076b6ef294ab47f0b5d8ce20705b98"
+        ],
+        "hideRepostsCount": false,
+        "$type": "com.linkedin.voyager.dash.social.SocialContent",
+        "hideViewsCount": false,
+        "hideReactAction": false,
+        "coachAction": null,
+        "hideCommentAction": false,
+        "shareUrl": "https://www.linkedin.com/posts/siec-sa_saudiflagday-sadirat-activity-7172870026138447873-P2Jz?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI",
+        "showContributionExperience": false
+      },
+      "showSocialDetail": true,
+      "footer": null,
+      "debugInfo": null,
+      "carouselContent": null,
+      "content": {
+        "toggleButtonComponent": null,
+        "feedDividerComponent": null,
+        "articleComponent": null,
+        "eventComponent": null,
+        "conversationsComponent": null,
+        "promoComponent": null,
+        "seeMoreComponent": null,
+        "reviewComponent": null,
+        "feedDiscoveryGridComponent": null,
+        "gentlePromptComponent": null,
+        "followPromptComponent": null,
+        "jobComponent": null,
+        "learningRecommendationComponent": null,
+        "miniUpdateContentComponent": null,
+        "buttonComponent": null,
+        "surveyComponent": null,
+        "actorComponent": null,
+        "celebrationComponent": null,
+        "documentComponent": null,
+        "creationStatusComponent": null,
+        "dynamicPollComponent": null,
+        "newsletterComponent": null,
+        "postCtaComponent": null,
+        "scheduledLiveContentComponent": null,
+        "entityComponent": null,
+        "externalVideoComponent": null,
+        "videoCarouselItemComponent": null,
+        "linkedInVideoComponent": null,
+        "textOverlayImageComponent": null,
+        "annotationComponent": null,
+        "imageComponent": {
+          "images": [
+            {
+              "attributes": [
+                {
+                  "scalingType": "ASPECT_FIT",
+                  "detailData": {
+                    "profilePictureWithoutFrame": null,
+                    "profilePictureWithRingStatus": null,
+                    "companyLogo": null,
+                    "icon": null,
+                    "systemImage": null,
+                    "nonEntityGroupLogo": null,
+                    "vectorImage": {
+                      "digitalmediaAsset": "urn:li:digitalmediaAsset:D4D22AQGikwbn315Dfw",
+                      "attribution": null,
+                      "c2paManifestData": null,
+                      "$recipeTypes": [
+                        "com.linkedin.0be1dc7e0c844935ea1610d002b24e25"
+                      ],
+                      "artifacts": [
+                        {
+                          "width": 1080,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "2048_1536/feedshare-shrink_2048_1536/0/1710145478723?e=1743638400&v=beta&t=gh_wzkgvf1ecmGFu6U9OzVm0mIB4WbdJDLtNW0aLA9c",
+                          "expiresAt": 1743638400000,
+                          "height": 1080,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 20,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "20/feedshare-shrink_20/0/1710145478777?e=1743638400&v=beta&t=WDnqzJO80--Q0HLzSVzNYRpp82XwBgPAmhPp2jJ9idk",
+                          "expiresAt": 1743638400000,
+                          "height": 20,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 1080,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "1280/feedshare-shrink_1280/0/1710145478777?e=1743638400&v=beta&t=RNPa77Gr6SspvhKW20-ReymuNdtP5wm2XLAybMSekd0",
+                          "expiresAt": 1743638400000,
+                          "height": 1080,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 480,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "480/feedshare-shrink_480/0/1710145478777?e=1743638400&v=beta&t=YZqzy0AqWq2KridzPzjM07zkW1vEiEH1ErOHvXHCDZg",
+                          "expiresAt": 1743638400000,
+                          "height": 480,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 160,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "160/feedshare-shrink_160/0/1710145478777?e=1743638400&v=beta&t=35D03he60fY4GVpwRjKVotvjZRk6W73Syz9OesS8U_g",
+                          "expiresAt": 1743638400000,
+                          "height": 160,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 800,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "800/feedshare-shrink_800/0/1710145478777?e=1743638400&v=beta&t=LnhszsaOK7x7LYtA5ya558jU9XcQgUzmsvUn8ajFdng",
+                          "expiresAt": 1743638400000,
+                          "height": 800,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        }
+                      ],
+                      "rootUrl": "https://media.licdn.com/dms/image/v2/D4D22AQGikwbn315Dfw/feedshare-shrink_",
+                      "$type": "com.linkedin.common.VectorImage"
+                    },
+                    "nonEntityProfessionalEventLogo": null,
+                    "profilePicture": null,
+                    "imageUrl": null,
+                    "professionalEventLogo": null,
+                    "nonEntityCompanyLogo": null,
+                    "nonEntitySchoolLogo": null,
+                    "groupLogo": null,
+                    "schoolLogo": null,
+                    "ghostImage": null,
+                    "nonEntityProfilePicture": null
+                  },
+                  "tintColor": null,
+                  "$recipeTypes": [
+                    "com.linkedin.3d23a5a4973c500083d9747ff2995b9f"
+                  ],
+                  "tapTargets": [],
+                  "displayAspectRatio": 1,
+                  "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                }
+              ],
+              "editableAccessibilityText": true,
+              "actionTarget": null,
+              "accessibilityTextAttributes": [],
+              "totalCount": null,
+              "accessibilityText": "",
+              "$recipeTypes": [
+                "com.linkedin.bf3cff1dd8302d48d928fda4315d1303"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+            }
+          ],
+          "largeCtaButton": null,
+          "multiphotoRenderingFormat": "COLLAGE",
+          "navigationContext": null,
+          "showTemplateCta": false,
+          "$recipeTypes": [
+            "com.linkedin.a232502158bcd017bcb31633982e6e01"
+          ],
+          "$type": "com.linkedin.voyager.dash.feed.component.image.ImageComponent"
+        },
+        "detailedSurveyComponent": null,
+        "showcaseComponent": null,
+        "pollComponent": null,
+        "feedDiscoveryEntityComponent": null,
+        "promptComponent": null,
+        "contextualActionComponent": null,
+        "announcementComponent": null,
+        "commentaryComponent": null,
+        "miniUpdateCommentaryComponent": null,
+        "slideshowComponent": null,
+        "callToActionComponent": null
+      },
+      "attachment": null,
+      "detailHeader": null,
+      "entityUrn": "urn:li:fsd_update:(urn:li:activity:7172870026138447873,COMPANY_FEED_RELEVANCE,EMPTY,DEFAULT,false)",
+      "leadGenFormContent": null,
+      "annotation": null,
+      "contextualHeader": null,
+      "resharedUpdate": null,
+      "interstitial": null,
+      "aggregatedContent": null,
+      "contextualDescription": null,
+      "$recipeTypes": [
+        "com.linkedin.c2a18f9be09924ee7fe2cccd1a7796f3"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.Update",
+      "actor": {
+        "image": {
+          "attributes": [
+            {
+              "scalingType": null,
+              "detailData": {
+                "profilePictureWithoutFrame": null,
+                "profilePictureWithRingStatus": null,
+                "companyLogo": null,
+                "icon": null,
+                "systemImage": null,
+                "nonEntityGroupLogo": null,
+                "vectorImage": null,
+                "nonEntityProfessionalEventLogo": null,
+                "profilePicture": null,
+                "imageUrl": null,
+                "professionalEventLogo": null,
+                "nonEntityCompanyLogo": {
+                  "*company": "urn:li:fsd_company:13257731",
+                  "$recipeTypes": [
+                    "com.linkedin.08ec3feec2559dbe33e4752d2344f287"
+                  ],
+                  "vectorImage": {
+                    "digitalmediaAsset": null,
+                    "attribution": null,
+                    "c2paManifestData": null,
+                    "$recipeTypes": [
+                      "com.linkedin.0be1dc7e0c844935ea1610d002b24e25"
+                    ],
+                    "artifacts": [
+                      {
+                        "width": 200,
+                        "$recipeTypes": [
+                          "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                        ],
+                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1687085371358/siec_sa_logo?e=1748476800&v=beta&t=6pyW0yJs1KIPM-jvA0iEElDfcVZpIYcDitLXPTN3uUE",
+                        "expiresAt": 1748476800000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                      },
+                      {
+                        "width": 100,
+                        "$recipeTypes": [
+                          "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                        ],
+                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1687085371358/siec_sa_logo?e=1748476800&v=beta&t=qWZ0A9HfhKX1MbLhS5OXMwLj2n56ns9kyWSlsl0AGoo",
+                        "expiresAt": 1748476800000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                      },
+                      {
+                        "width": 400,
+                        "$recipeTypes": [
+                          "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                        ],
+                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1687085371358/siec_sa_logo?e=1748476800&v=beta&t=7m4C37hLbYxW0Jkg0SjHG3vr5Lu4Pk3PqoczNMPIQN0",
+                        "expiresAt": 1748476800000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                      }
+                    ],
+                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHvuwPdjfTL_w/company-logo_",
+                    "$type": "com.linkedin.common.VectorImage"
+                  },
+                  "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                },
+                "nonEntitySchoolLogo": null,
+                "groupLogo": null,
+                "schoolLogo": null,
+                "ghostImage": null,
+                "nonEntityProfilePicture": null
+              },
+              "tintColor": null,
+              "$recipeTypes": [
+                "com.linkedin.3d23a5a4973c500083d9747ff2995b9f"
+              ],
+              "tapTargets": [],
+              "displayAspectRatio": null,
+              "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+            }
+          ],
+          "editableAccessibilityText": false,
+          "actionTarget": null,
+          "accessibilityTextAttributes": [],
+          "totalCount": null,
+          "accessibilityText": null,
+          "$recipeTypes": [
+            "com.linkedin.bf3cff1dd8302d48d928fda4315d1303"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+        },
+        "connectAction": null,
+        "supplementaryActorInfo": null,
+        "description": {
+          "textDirection": "USER_LOCALE",
+          "text": "11,432 followers",
+          "attributesV2": [],
+          "accessibilityTextAttributesV2": [],
+          "accessibilityText": "11,432 followers",
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "backendUrn": "urn:li:company:13257731",
+        "$recipeTypes": [
+          "com.linkedin.84f703c209ad64527b3b204585cdd493"
+        ],
+        "followAction": null,
+        "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+        "subDescriptionButton": null,
+        "name": {
+          "textDirection": "FIRST_STRONG",
+          "text": "Saudi Industrial Export Company",
+          "attributesV2": [
+            {
+              "start": 0,
+              "length": 31,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "*companyName": "urn:li:fsd_company:13257731",
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null,
+                "hashtag": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityTextAttributesV2": [
+            {
+              "start": 0,
+              "length": 31,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "*companyName": "urn:li:fsd_company:13257731",
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null,
+                "hashtag": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityText": "Saudi Industrial Export Company",
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "subDescription": {
+          "textDirection": "USER_LOCALE",
+          "text": "11mo •   ",
+          "attributesV2": [
+            {
+              "start": 7,
+              "length": 1,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "companyName": null,
+                "icon": "IC_GLOBE_16DP",
+                "epoch": null,
+                "systemImage": null,
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null,
+                "hashtag": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityTextAttributesV2": [],
+          "accessibilityText": "1 year ago",
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "navigationContext": {
+          "actionTarget": "https://www.linkedin.com/company/siec-sa/posts",
+          "urlViewingBehavior": "DEFAULT",
+          "trackingActionType": "viewAttributedCompany",
+          "accessibilityText": "View company: Saudi Industrial Export Company",
+          "sponsoredUrlAttributes": null,
+          "$recipeTypes": [
+            "com.linkedin.abe1236fe4bea17507ea3be49c045902"
+          ],
+          "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+        },
+        "ringStatus": null,
+        "groupMembershipForJoinAction": null,
+        "showSmallActorPortrait": false
+      },
+      "boostHeader": null,
+      "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:activity:7172870026138447873,urn:li:activity:7172870026138447873,urn:li:highlightedReply:-)",
+      "header": null,
+      "highlightedComments": [],
+      "preDashEntityUrn": "urn:li:fs_updateV2:(urn:li:activity:7172870026138447873,COMPANY_FEED_RELEVANCE,EMPTY,DEFAULT,false)",
+      "commentary": {
+        "numLines": 3,
+        "translation": null,
+        "navigationContext": null,
+        "metadataText": null,
+        "text": {
+          "textDirection": "FIRST_STRONG",
+          "text": "Happy Saudi Flag Day from Sadirat! \nWishing prosperity and peace as we celebrate the advancements and virtues represented by the Saudi flag.🇸🇦\n\n #SaudiFlagDay #Sadirat",
+          "attributesV2": [
+            {
+              "start": 145,
+              "length": 13,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "companyName": null,
+                "*hashtag": "urn:li:fsd_hashtag:(saudiflagday,urn:li:activity:7172870026138447873)",
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            },
+            {
+              "start": 159,
+              "length": 8,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "companyName": null,
+                "*hashtag": "urn:li:fsd_hashtag:(sadirat,urn:li:activity:7172870026138447873)",
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityTextAttributesV2": [],
+          "accessibilityText": null,
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "$recipeTypes": [
+          "com.linkedin.e95a2ad24af726dec9048375b348f167"
+        ],
+        "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+      },
+      "additionalContents": []
+    },
+    {
+      "metadata": {
+        "actionsPosition": "ACTOR_COMPONENT",
+        "shareMediaUrn": null,
+        "actionTriggerEnabled": false,
+        "coachSummaryText": null,
+        "shareAudience": "PUBLIC",
+        "legoTrackingToken": null,
+        "backendUrn": "urn:li:activity:7272884352638742528",
+        "coachSummaryUrn": null,
+        "$recipeTypes": [
+          "com.linkedin.90f58701314ab6726d81d936616b5cb5"
+        ],
+        "trackingData": {
+          "sponsoredTracking": null,
+          "requestId": "dc843633-d31a-49ea-8727-2eaf71041b5f",
+          "backendUrn": null,
+          "$recipeTypes": [
+            "com.linkedin.f2c20e2fd1e14492206bbe57dff07df6"
+          ],
+          "trackingId": "BA55VsDKe3AlnTSBp3CjWQ==",
+          "$type": "com.linkedin.voyager.dash.feed.metadata.TrackingData"
+        },
+        "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata",
+        "*updateActions": "urn:li:fsd_updateActions:(urn:li:activity:7272884352638742528,COMPANY_FEED_RELEVANCE,EMPTY,urn:li:reason:-,urn:li:adCreative:-)",
+        "detailPageType": "FEED_DETAIL",
+        "shouldForceRefetchFromNetwork": false,
+        "shareUrn": "urn:li:share:7272884351669796864",
+        "excludedFromSeen": false,
+        "coachAction": null,
+        "rootShare": true,
+        "hidePostAction": null,
+        "group": null
+      },
+      "socialContent": {
+        "updateSaveState": null,
+        "hideCommentsCount": false,
+        "hideReactionsCount": false,
+        "hideSocialActivityCounts": false,
+        "hideShareAction": false,
+        "hideSendAction": false,
+        "$recipeTypes": [
+          "com.linkedin.ad076b6ef294ab47f0b5d8ce20705b98"
+        ],
+        "hideRepostsCount": false,
+        "$type": "com.linkedin.voyager.dash.social.SocialContent",
+        "hideViewsCount": false,
+        "hideReactAction": false,
+        "coachAction": null,
+        "hideCommentAction": false,
+        "shareUrl": "https://www.linkedin.com/posts/siec-sa_saudiabr34-activity-7272884352638742528-gnj9?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI",
+        "showContributionExperience": false
+      },
+      "showSocialDetail": true,
+      "footer": null,
+      "debugInfo": null,
+      "carouselContent": null,
+      "content": {
+        "toggleButtonComponent": null,
+        "feedDividerComponent": null,
+        "articleComponent": null,
+        "eventComponent": null,
+        "conversationsComponent": null,
+        "promoComponent": null,
+        "seeMoreComponent": null,
+        "reviewComponent": null,
+        "feedDiscoveryGridComponent": null,
+        "gentlePromptComponent": null,
+        "followPromptComponent": null,
+        "jobComponent": null,
+        "learningRecommendationComponent": null,
+        "miniUpdateContentComponent": null,
+        "buttonComponent": null,
+        "surveyComponent": null,
+        "actorComponent": null,
+        "celebrationComponent": null,
+        "documentComponent": null,
+        "creationStatusComponent": null,
+        "dynamicPollComponent": null,
+        "newsletterComponent": null,
+        "postCtaComponent": null,
+        "scheduledLiveContentComponent": null,
+        "entityComponent": null,
+        "externalVideoComponent": null,
+        "videoCarouselItemComponent": null,
+        "linkedInVideoComponent": null,
+        "textOverlayImageComponent": null,
+        "annotationComponent": null,
+        "imageComponent": {
+          "images": [
+            {
+              "attributes": [
+                {
+                  "scalingType": "ASPECT_FIT",
+                  "detailData": {
+                    "profilePictureWithoutFrame": null,
+                    "profilePictureWithRingStatus": null,
+                    "companyLogo": null,
+                    "icon": null,
+                    "systemImage": null,
+                    "nonEntityGroupLogo": null,
+                    "vectorImage": {
+                      "digitalmediaAsset": "urn:li:digitalmediaAsset:D4D22AQEDrmuNI5XonQ",
+                      "attribution": null,
+                      "c2paManifestData": null,
+                      "$recipeTypes": [
+                        "com.linkedin.0be1dc7e0c844935ea1610d002b24e25"
+                      ],
+                      "artifacts": [
+                        {
+                          "width": 1080,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "1280/B4DZO55xFVGUAk-/0/1733990751822?e=1743638400&v=beta&t=VbU1dIzm23VT97I0rlJvOeUS3LB9augIjIIYnTpFyy0",
+                          "expiresAt": 1743638400000,
+                          "height": 1080,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 480,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "480/B4DZO55xFVGUAY-/0/1733990751822?e=1743638400&v=beta&t=ejqdmgtOIm92YcKl2BOKJsIcxVXMPMwv4xKe-XpPEdY",
+                          "expiresAt": 1743638400000,
+                          "height": 480,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 1080,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "2048_1536/B4DZO55xFVGUAo-/0/1733990751812?e=1743638400&v=beta&t=-EWz-qbAAP-vVtD8fxnxF0ckZ_WQqoYdlc9ziCsScp4",
+                          "expiresAt": 1743638400000,
+                          "height": 1080,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 20,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "20/B4DZO55xFVGUAs-/0/1733990751789?e=1743638400&v=beta&t=Ol6O5dhWhW8cCPN_AcAG7_inH-Jtv1Q_653ciAMCpbs",
+                          "expiresAt": 1743638400000,
+                          "height": 20,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 160,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "160/B4DZO55xFVGUAc-/0/1733990751822?e=1743638400&v=beta&t=4eaE6kkvc4jtTSBQ9O-ELwsYlQpvz1445wgcFzL0SYw",
+                          "expiresAt": 1743638400000,
+                          "height": 160,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 800,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "800/B4DZO55xFVGUAg-/0/1733990751789?e=1743638400&v=beta&t=O6bCTdRBFqeR4qZxNTroZG4cZpDTR_QDBDwoOTZWkSc",
+                          "expiresAt": 1743638400000,
+                          "height": 800,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        }
+                      ],
+                      "rootUrl": "https://media.licdn.com/dms/image/v2/D4D22AQEDrmuNI5XonQ/feedshare-shrink_",
+                      "$type": "com.linkedin.common.VectorImage"
+                    },
+                    "nonEntityProfessionalEventLogo": null,
+                    "profilePicture": null,
+                    "imageUrl": null,
+                    "professionalEventLogo": null,
+                    "nonEntityCompanyLogo": null,
+                    "nonEntitySchoolLogo": null,
+                    "groupLogo": null,
+                    "schoolLogo": null,
+                    "ghostImage": null,
+                    "nonEntityProfilePicture": null
+                  },
+                  "tintColor": null,
+                  "$recipeTypes": [
+                    "com.linkedin.3d23a5a4973c500083d9747ff2995b9f"
+                  ],
+                  "tapTargets": [],
+                  "displayAspectRatio": 1,
+                  "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                }
+              ],
+              "editableAccessibilityText": true,
+              "actionTarget": null,
+              "accessibilityTextAttributes": [],
+              "totalCount": null,
+              "accessibilityText": "",
+              "$recipeTypes": [
+                "com.linkedin.bf3cff1dd8302d48d928fda4315d1303"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+            }
+          ],
+          "largeCtaButton": null,
+          "multiphotoRenderingFormat": "COLLAGE",
+          "navigationContext": null,
+          "showTemplateCta": false,
+          "$recipeTypes": [
+            "com.linkedin.a232502158bcd017bcb31633982e6e01"
+          ],
+          "$type": "com.linkedin.voyager.dash.feed.component.image.ImageComponent"
+        },
+        "detailedSurveyComponent": null,
+        "showcaseComponent": null,
+        "pollComponent": null,
+        "feedDiscoveryEntityComponent": null,
+        "promptComponent": null,
+        "contextualActionComponent": null,
+        "announcementComponent": null,
+        "commentaryComponent": null,
+        "miniUpdateCommentaryComponent": null,
+        "slideshowComponent": null,
+        "callToActionComponent": null
+      },
+      "attachment": null,
+      "detailHeader": null,
+      "entityUrn": "urn:li:fsd_update:(urn:li:activity:7272884352638742528,COMPANY_FEED_RELEVANCE,EMPTY,DEFAULT,false)",
+      "leadGenFormContent": null,
+      "annotation": null,
+      "contextualHeader": null,
+      "resharedUpdate": null,
+      "interstitial": null,
+      "aggregatedContent": null,
+      "contextualDescription": null,
+      "$recipeTypes": [
+        "com.linkedin.c2a18f9be09924ee7fe2cccd1a7796f3"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.Update",
+      "actor": {
+        "image": {
+          "attributes": [
+            {
+              "scalingType": null,
+              "detailData": {
+                "profilePictureWithoutFrame": null,
+                "profilePictureWithRingStatus": null,
+                "companyLogo": null,
+                "icon": null,
+                "systemImage": null,
+                "nonEntityGroupLogo": null,
+                "vectorImage": null,
+                "nonEntityProfessionalEventLogo": null,
+                "profilePicture": null,
+                "imageUrl": null,
+                "professionalEventLogo": null,
+                "nonEntityCompanyLogo": {
+                  "*company": "urn:li:fsd_company:13257731",
+                  "$recipeTypes": [
+                    "com.linkedin.08ec3feec2559dbe33e4752d2344f287"
+                  ],
+                  "vectorImage": {
+                    "digitalmediaAsset": null,
+                    "attribution": null,
+                    "c2paManifestData": null,
+                    "$recipeTypes": [
+                      "com.linkedin.0be1dc7e0c844935ea1610d002b24e25"
+                    ],
+                    "artifacts": [
+                      {
+                        "width": 200,
+                        "$recipeTypes": [
+                          "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                        ],
+                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1687085371358/siec_sa_logo?e=1748476800&v=beta&t=6pyW0yJs1KIPM-jvA0iEElDfcVZpIYcDitLXPTN3uUE",
+                        "expiresAt": 1748476800000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                      },
+                      {
+                        "width": 100,
+                        "$recipeTypes": [
+                          "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                        ],
+                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1687085371358/siec_sa_logo?e=1748476800&v=beta&t=qWZ0A9HfhKX1MbLhS5OXMwLj2n56ns9kyWSlsl0AGoo",
+                        "expiresAt": 1748476800000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                      },
+                      {
+                        "width": 400,
+                        "$recipeTypes": [
+                          "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                        ],
+                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1687085371358/siec_sa_logo?e=1748476800&v=beta&t=7m4C37hLbYxW0Jkg0SjHG3vr5Lu4Pk3PqoczNMPIQN0",
+                        "expiresAt": 1748476800000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                      }
+                    ],
+                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHvuwPdjfTL_w/company-logo_",
+                    "$type": "com.linkedin.common.VectorImage"
+                  },
+                  "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                },
+                "nonEntitySchoolLogo": null,
+                "groupLogo": null,
+                "schoolLogo": null,
+                "ghostImage": null,
+                "nonEntityProfilePicture": null
+              },
+              "tintColor": null,
+              "$recipeTypes": [
+                "com.linkedin.3d23a5a4973c500083d9747ff2995b9f"
+              ],
+              "tapTargets": [],
+              "displayAspectRatio": null,
+              "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+            }
+          ],
+          "editableAccessibilityText": false,
+          "actionTarget": null,
+          "accessibilityTextAttributes": [],
+          "totalCount": null,
+          "accessibilityText": null,
+          "$recipeTypes": [
+            "com.linkedin.bf3cff1dd8302d48d928fda4315d1303"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+        },
+        "connectAction": null,
+        "supplementaryActorInfo": null,
+        "description": {
+          "textDirection": "USER_LOCALE",
+          "text": "11,432 followers",
+          "attributesV2": [],
+          "accessibilityTextAttributesV2": [],
+          "accessibilityText": "11,432 followers",
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "backendUrn": "urn:li:company:13257731",
+        "$recipeTypes": [
+          "com.linkedin.84f703c209ad64527b3b204585cdd493"
+        ],
+        "followAction": null,
+        "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+        "subDescriptionButton": null,
+        "name": {
+          "textDirection": "FIRST_STRONG",
+          "text": "Saudi Industrial Export Company",
+          "attributesV2": [
+            {
+              "start": 0,
+              "length": 31,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "*companyName": "urn:li:fsd_company:13257731",
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null,
+                "hashtag": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityTextAttributesV2": [
+            {
+              "start": 0,
+              "length": 31,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "*companyName": "urn:li:fsd_company:13257731",
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null,
+                "hashtag": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityText": "Saudi Industrial Export Company",
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "subDescription": {
+          "textDirection": "USER_LOCALE",
+          "text": "2mo •   ",
+          "attributesV2": [
+            {
+              "start": 6,
+              "length": 1,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "companyName": null,
+                "icon": "IC_GLOBE_16DP",
+                "epoch": null,
+                "systemImage": null,
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null,
+                "hashtag": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityTextAttributesV2": [],
+          "accessibilityText": "2 months ago",
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "navigationContext": {
+          "actionTarget": "https://www.linkedin.com/company/siec-sa/posts",
+          "urlViewingBehavior": "DEFAULT",
+          "trackingActionType": "viewAttributedCompany",
+          "accessibilityText": "View company: Saudi Industrial Export Company",
+          "sponsoredUrlAttributes": null,
+          "$recipeTypes": [
+            "com.linkedin.abe1236fe4bea17507ea3be49c045902"
+          ],
+          "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+        },
+        "ringStatus": null,
+        "groupMembershipForJoinAction": null,
+        "showSmallActorPortrait": false
+      },
+      "boostHeader": null,
+      "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:activity:7272884352638742528,urn:li:activity:7272884352638742528,urn:li:highlightedReply:-)",
+      "header": null,
+      "highlightedComments": [],
+      "preDashEntityUrn": "urn:li:fs_updateV2:(urn:li:activity:7272884352638742528,COMPANY_FEED_RELEVANCE,EMPTY,DEFAULT,false)",
+      "commentary": {
+        "numLines": 3,
+        "translation": null,
+        "navigationContext": null,
+        "metadataText": null,
+        "text": {
+          "textDirection": "FIRST_STRONG",
+          "text": "Welcome to Saudi 34 🌎\nUnder the visionary leadership of Crown Prince Mohammed bin Salman, Saudi Arabia is honored to host the 2034 FIFA World Cup.\nThis global celebration is inspired by ambition, unity, and a bold commitment to excellence. \n\n#Saudi_34",
+          "attributesV2": [
+            {
+              "start": 242,
+              "length": 9,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "companyName": null,
+                "*hashtag": "urn:li:fsd_hashtag:(saudi_34,urn:li:activity:7272884352638742528)",
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityTextAttributesV2": [],
+          "accessibilityText": null,
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "$recipeTypes": [
+          "com.linkedin.e95a2ad24af726dec9048375b348f167"
+        ],
+        "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+      },
+      "additionalContents": []
+    },
+    {
+      "metadata": {
+        "actionsPosition": "ACTOR_COMPONENT",
+        "shareMediaUrn": null,
+        "actionTriggerEnabled": false,
+        "coachSummaryText": null,
+        "shareAudience": "PUBLIC",
+        "legoTrackingToken": null,
+        "backendUrn": "urn:li:activity:7244098777085579264",
+        "coachSummaryUrn": null,
+        "$recipeTypes": [
+          "com.linkedin.90f58701314ab6726d81d936616b5cb5"
+        ],
+        "trackingData": {
+          "sponsoredTracking": null,
+          "requestId": "dc843633-d31a-49ea-8727-2eaf71041b5f",
+          "backendUrn": null,
+          "$recipeTypes": [
+            "com.linkedin.f2c20e2fd1e14492206bbe57dff07df6"
+          ],
+          "trackingId": "o8tc8gTq05Md2ZrQJyb8fA==",
+          "$type": "com.linkedin.voyager.dash.feed.metadata.TrackingData"
+        },
+        "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata",
+        "*updateActions": "urn:li:fsd_updateActions:(urn:li:activity:7244098777085579264,COMPANY_FEED_RELEVANCE,EMPTY,urn:li:reason:-,urn:li:adCreative:-)",
+        "detailPageType": "FEED_DETAIL",
+        "shouldForceRefetchFromNetwork": false,
+        "shareUrn": "urn:li:share:7244098776146075648",
+        "excludedFromSeen": false,
+        "coachAction": null,
+        "rootShare": true,
+        "hidePostAction": null,
+        "group": null
+      },
+      "socialContent": {
+        "updateSaveState": null,
+        "hideCommentsCount": false,
+        "hideReactionsCount": false,
+        "hideSocialActivityCounts": false,
+        "hideShareAction": false,
+        "hideSendAction": false,
+        "$recipeTypes": [
+          "com.linkedin.ad076b6ef294ab47f0b5d8ce20705b98"
+        ],
+        "hideRepostsCount": false,
+        "$type": "com.linkedin.voyager.dash.social.SocialContent",
+        "hideViewsCount": false,
+        "hideReactAction": false,
+        "coachAction": null,
+        "hideCommentAction": false,
+        "shareUrl": "https://www.linkedin.com/posts/siec-sa_nationalabrdayabr94-activity-7244098777085579264-gn7s?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI",
+        "showContributionExperience": false
+      },
+      "showSocialDetail": true,
+      "footer": null,
+      "debugInfo": null,
+      "carouselContent": null,
+      "content": {
+        "toggleButtonComponent": null,
+        "feedDividerComponent": null,
+        "articleComponent": null,
+        "eventComponent": null,
+        "conversationsComponent": null,
+        "promoComponent": null,
+        "seeMoreComponent": null,
+        "reviewComponent": null,
+        "feedDiscoveryGridComponent": null,
+        "gentlePromptComponent": null,
+        "followPromptComponent": null,
+        "jobComponent": null,
+        "learningRecommendationComponent": null,
+        "miniUpdateContentComponent": null,
+        "buttonComponent": null,
+        "surveyComponent": null,
+        "actorComponent": null,
+        "celebrationComponent": null,
+        "documentComponent": null,
+        "creationStatusComponent": null,
+        "dynamicPollComponent": null,
+        "newsletterComponent": null,
+        "postCtaComponent": null,
+        "scheduledLiveContentComponent": null,
+        "entityComponent": null,
+        "externalVideoComponent": null,
+        "videoCarouselItemComponent": null,
+        "linkedInVideoComponent": null,
+        "textOverlayImageComponent": null,
+        "annotationComponent": null,
+        "imageComponent": {
+          "images": [
+            {
+              "attributes": [
+                {
+                  "scalingType": "ASPECT_FIT",
+                  "detailData": {
+                    "profilePictureWithoutFrame": null,
+                    "profilePictureWithRingStatus": null,
+                    "companyLogo": null,
+                    "icon": null,
+                    "systemImage": null,
+                    "nonEntityGroupLogo": null,
+                    "vectorImage": {
+                      "digitalmediaAsset": "urn:li:digitalmediaAsset:D4D22AQEnMUUkpeJRzg",
+                      "attribution": null,
+                      "c2paManifestData": null,
+                      "$recipeTypes": [
+                        "com.linkedin.0be1dc7e0c844935ea1610d002b24e25"
+                      ],
+                      "artifacts": [
+                        {
+                          "width": 1080,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "2048_1536/feedshare-shrink_2048_1536/0/1727127736320?e=1743638400&v=beta&t=XOMWEgxYmZS6z_8I1bTfCxuMHx9p5ZrXNQG0UkrWGLI",
+                          "expiresAt": 1743638400000,
+                          "height": 1080,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 20,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "20/feedshare-shrink_20/0/1727127736297?e=1743638400&v=beta&t=N0QtVy1BRfiySWjmdS9nx9MpZJHeeha_zbutrRn3pI4",
+                          "expiresAt": 1743638400000,
+                          "height": 20,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 1080,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "1280/feedshare-shrink_1280/0/1727127736297?e=1743638400&v=beta&t=XXM_QnvT89IVxH7mNlfagF2osmbAsBbjFToU-SYcGNA",
+                          "expiresAt": 1743638400000,
+                          "height": 1080,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 480,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "480/feedshare-shrink_480/0/1727127736297?e=1743638400&v=beta&t=lDigv_pc6ywKeL9tPpH0uDhCoKN0NpbCFgdlI5KH2AY",
+                          "expiresAt": 1743638400000,
+                          "height": 480,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 160,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "160/feedshare-shrink_160/0/1727127736303?e=1743638400&v=beta&t=Bylh6DJj6mwv959CZ0U9LhknJdfIsPJnHBKjn5VhJps",
+                          "expiresAt": 1743638400000,
+                          "height": 160,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 800,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "800/feedshare-shrink_800/0/1727127736303?e=1743638400&v=beta&t=LlMoi4SSW2voEfEswKKtntNxOHxi60z6_JoyRH-Q-HU",
+                          "expiresAt": 1743638400000,
+                          "height": 800,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        }
+                      ],
+                      "rootUrl": "https://media.licdn.com/dms/image/v2/D4D22AQEnMUUkpeJRzg/feedshare-shrink_",
+                      "$type": "com.linkedin.common.VectorImage"
+                    },
+                    "nonEntityProfessionalEventLogo": null,
+                    "profilePicture": null,
+                    "imageUrl": null,
+                    "professionalEventLogo": null,
+                    "nonEntityCompanyLogo": null,
+                    "nonEntitySchoolLogo": null,
+                    "groupLogo": null,
+                    "schoolLogo": null,
+                    "ghostImage": null,
+                    "nonEntityProfilePicture": null
+                  },
+                  "tintColor": null,
+                  "$recipeTypes": [
+                    "com.linkedin.3d23a5a4973c500083d9747ff2995b9f"
+                  ],
+                  "tapTargets": [],
+                  "displayAspectRatio": 1,
+                  "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                }
+              ],
+              "editableAccessibilityText": true,
+              "actionTarget": null,
+              "accessibilityTextAttributes": [],
+              "totalCount": null,
+              "accessibilityText": "",
+              "$recipeTypes": [
+                "com.linkedin.bf3cff1dd8302d48d928fda4315d1303"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+            }
+          ],
+          "largeCtaButton": null,
+          "multiphotoRenderingFormat": "COLLAGE",
+          "navigationContext": null,
+          "showTemplateCta": false,
+          "$recipeTypes": [
+            "com.linkedin.a232502158bcd017bcb31633982e6e01"
+          ],
+          "$type": "com.linkedin.voyager.dash.feed.component.image.ImageComponent"
+        },
+        "detailedSurveyComponent": null,
+        "showcaseComponent": null,
+        "pollComponent": null,
+        "feedDiscoveryEntityComponent": null,
+        "promptComponent": null,
+        "contextualActionComponent": null,
+        "announcementComponent": null,
+        "commentaryComponent": null,
+        "miniUpdateCommentaryComponent": null,
+        "slideshowComponent": null,
+        "callToActionComponent": null
+      },
+      "attachment": null,
+      "detailHeader": null,
+      "entityUrn": "urn:li:fsd_update:(urn:li:activity:7244098777085579264,COMPANY_FEED_RELEVANCE,EMPTY,DEFAULT,false)",
+      "leadGenFormContent": null,
+      "annotation": null,
+      "contextualHeader": null,
+      "resharedUpdate": null,
+      "interstitial": null,
+      "aggregatedContent": null,
+      "contextualDescription": null,
+      "$recipeTypes": [
+        "com.linkedin.c2a18f9be09924ee7fe2cccd1a7796f3"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.Update",
+      "actor": {
+        "image": {
+          "attributes": [
+            {
+              "scalingType": null,
+              "detailData": {
+                "profilePictureWithoutFrame": null,
+                "profilePictureWithRingStatus": null,
+                "companyLogo": null,
+                "icon": null,
+                "systemImage": null,
+                "nonEntityGroupLogo": null,
+                "vectorImage": null,
+                "nonEntityProfessionalEventLogo": null,
+                "profilePicture": null,
+                "imageUrl": null,
+                "professionalEventLogo": null,
+                "nonEntityCompanyLogo": {
+                  "*company": "urn:li:fsd_company:13257731",
+                  "$recipeTypes": [
+                    "com.linkedin.08ec3feec2559dbe33e4752d2344f287"
+                  ],
+                  "vectorImage": {
+                    "digitalmediaAsset": null,
+                    "attribution": null,
+                    "c2paManifestData": null,
+                    "$recipeTypes": [
+                      "com.linkedin.0be1dc7e0c844935ea1610d002b24e25"
+                    ],
+                    "artifacts": [
+                      {
+                        "width": 200,
+                        "$recipeTypes": [
+                          "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                        ],
+                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1687085371358/siec_sa_logo?e=1748476800&v=beta&t=6pyW0yJs1KIPM-jvA0iEElDfcVZpIYcDitLXPTN3uUE",
+                        "expiresAt": 1748476800000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                      },
+                      {
+                        "width": 100,
+                        "$recipeTypes": [
+                          "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                        ],
+                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1687085371358/siec_sa_logo?e=1748476800&v=beta&t=qWZ0A9HfhKX1MbLhS5OXMwLj2n56ns9kyWSlsl0AGoo",
+                        "expiresAt": 1748476800000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                      },
+                      {
+                        "width": 400,
+                        "$recipeTypes": [
+                          "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                        ],
+                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1687085371358/siec_sa_logo?e=1748476800&v=beta&t=7m4C37hLbYxW0Jkg0SjHG3vr5Lu4Pk3PqoczNMPIQN0",
+                        "expiresAt": 1748476800000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                      }
+                    ],
+                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHvuwPdjfTL_w/company-logo_",
+                    "$type": "com.linkedin.common.VectorImage"
+                  },
+                  "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                },
+                "nonEntitySchoolLogo": null,
+                "groupLogo": null,
+                "schoolLogo": null,
+                "ghostImage": null,
+                "nonEntityProfilePicture": null
+              },
+              "tintColor": null,
+              "$recipeTypes": [
+                "com.linkedin.3d23a5a4973c500083d9747ff2995b9f"
+              ],
+              "tapTargets": [],
+              "displayAspectRatio": null,
+              "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+            }
+          ],
+          "editableAccessibilityText": false,
+          "actionTarget": null,
+          "accessibilityTextAttributes": [],
+          "totalCount": null,
+          "accessibilityText": null,
+          "$recipeTypes": [
+            "com.linkedin.bf3cff1dd8302d48d928fda4315d1303"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+        },
+        "connectAction": null,
+        "supplementaryActorInfo": null,
+        "description": {
+          "textDirection": "USER_LOCALE",
+          "text": "11,432 followers",
+          "attributesV2": [],
+          "accessibilityTextAttributesV2": [],
+          "accessibilityText": "11,432 followers",
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "backendUrn": "urn:li:company:13257731",
+        "$recipeTypes": [
+          "com.linkedin.84f703c209ad64527b3b204585cdd493"
+        ],
+        "followAction": null,
+        "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+        "subDescriptionButton": null,
+        "name": {
+          "textDirection": "FIRST_STRONG",
+          "text": "Saudi Industrial Export Company",
+          "attributesV2": [
+            {
+              "start": 0,
+              "length": 31,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "*companyName": "urn:li:fsd_company:13257731",
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null,
+                "hashtag": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityTextAttributesV2": [
+            {
+              "start": 0,
+              "length": 31,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "*companyName": "urn:li:fsd_company:13257731",
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null,
+                "hashtag": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityText": "Saudi Industrial Export Company",
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "subDescription": {
+          "textDirection": "USER_LOCALE",
+          "text": "5mo • Edited •   ",
+          "attributesV2": [
+            {
+              "start": 15,
+              "length": 1,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "companyName": null,
+                "icon": "IC_GLOBE_16DP",
+                "epoch": null,
+                "systemImage": null,
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null,
+                "hashtag": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityTextAttributesV2": [],
+          "accessibilityText": "5 months ago",
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "navigationContext": {
+          "actionTarget": "https://www.linkedin.com/company/siec-sa/posts",
+          "urlViewingBehavior": "DEFAULT",
+          "trackingActionType": "viewAttributedCompany",
+          "accessibilityText": "View company: Saudi Industrial Export Company",
+          "sponsoredUrlAttributes": null,
+          "$recipeTypes": [
+            "com.linkedin.abe1236fe4bea17507ea3be49c045902"
+          ],
+          "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+        },
+        "ringStatus": null,
+        "groupMembershipForJoinAction": null,
+        "showSmallActorPortrait": false
+      },
+      "boostHeader": null,
+      "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:activity:7244098777085579264,urn:li:activity:7244098777085579264,urn:li:highlightedReply:-)",
+      "header": null,
+      "highlightedComments": [],
+      "preDashEntityUrn": "urn:li:fs_updateV2:(urn:li:activity:7244098777085579264,COMPANY_FEED_RELEVANCE,EMPTY,DEFAULT,false)",
+      "commentary": {
+        "numLines": 3,
+        "translation": null,
+        "navigationContext": null,
+        "metadataText": null,
+        "text": {
+          "textDirection": "FIRST_STRONG",
+          "text": "Celebrating Saudi Arabia's economic leap and our collective ambition for a prosperous future. Happy National Day!\n\n#National_Day_94",
+          "attributesV2": [
+            {
+              "start": 115,
+              "length": 16,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "companyName": null,
+                "*hashtag": "urn:li:fsd_hashtag:(national_day_94,urn:li:activity:7244098777085579264)",
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityTextAttributesV2": [],
+          "accessibilityText": null,
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "$recipeTypes": [
+          "com.linkedin.e95a2ad24af726dec9048375b348f167"
+        ],
+        "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+      },
+      "additionalContents": []
+    },
+    {
+      "metadata": {
+        "actionsPosition": "ACTOR_COMPONENT",
+        "shareMediaUrn": null,
+        "actionTriggerEnabled": false,
+        "coachSummaryText": null,
+        "shareAudience": "PUBLIC",
+        "legoTrackingToken": null,
+        "backendUrn": "urn:li:activity:7183436087762055170",
+        "coachSummaryUrn": null,
+        "$recipeTypes": [
+          "com.linkedin.90f58701314ab6726d81d936616b5cb5"
+        ],
+        "trackingData": {
+          "sponsoredTracking": null,
+          "requestId": "dc843633-d31a-49ea-8727-2eaf71041b5f",
+          "backendUrn": null,
+          "$recipeTypes": [
+            "com.linkedin.f2c20e2fd1e14492206bbe57dff07df6"
+          ],
+          "trackingId": "sGuDKGXj7OZi0Kf78FM2pw==",
+          "$type": "com.linkedin.voyager.dash.feed.metadata.TrackingData"
+        },
+        "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata",
+        "*updateActions": "urn:li:fsd_updateActions:(urn:li:activity:7183436087762055170,COMPANY_FEED_RELEVANCE,EMPTY,urn:li:reason:-,urn:li:adCreative:-)",
+        "detailPageType": "FEED_DETAIL",
+        "shouldForceRefetchFromNetwork": false,
+        "shareUrn": "urn:li:share:7183436087028051968",
+        "excludedFromSeen": false,
+        "coachAction": null,
+        "rootShare": true,
+        "hidePostAction": null,
+        "group": null
+      },
+      "socialContent": {
+        "updateSaveState": null,
+        "hideCommentsCount": false,
+        "hideReactionsCount": false,
+        "hideSocialActivityCounts": false,
+        "hideShareAction": false,
+        "hideSendAction": false,
+        "$recipeTypes": [
+          "com.linkedin.ad076b6ef294ab47f0b5d8ce20705b98"
+        ],
+        "hideRepostsCount": false,
+        "$type": "com.linkedin.voyager.dash.social.SocialContent",
+        "hideViewsCount": false,
+        "hideReactAction": false,
+        "coachAction": null,
+        "hideCommentAction": false,
+        "shareUrl": "https://www.linkedin.com/posts/siec-sa_sadirat-eid2024-eidabrmubarak-activity-7183436087762055170-n_B5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI",
+        "showContributionExperience": false
+      },
+      "showSocialDetail": true,
+      "footer": null,
+      "debugInfo": null,
+      "carouselContent": null,
+      "content": {
+        "toggleButtonComponent": null,
+        "feedDividerComponent": null,
+        "articleComponent": null,
+        "eventComponent": null,
+        "conversationsComponent": null,
+        "promoComponent": null,
+        "seeMoreComponent": null,
+        "reviewComponent": null,
+        "feedDiscoveryGridComponent": null,
+        "gentlePromptComponent": null,
+        "followPromptComponent": null,
+        "jobComponent": null,
+        "learningRecommendationComponent": null,
+        "miniUpdateContentComponent": null,
+        "buttonComponent": null,
+        "surveyComponent": null,
+        "actorComponent": null,
+        "celebrationComponent": null,
+        "documentComponent": null,
+        "creationStatusComponent": null,
+        "dynamicPollComponent": null,
+        "newsletterComponent": null,
+        "postCtaComponent": null,
+        "scheduledLiveContentComponent": null,
+        "entityComponent": null,
+        "externalVideoComponent": null,
+        "videoCarouselItemComponent": null,
+        "linkedInVideoComponent": null,
+        "textOverlayImageComponent": null,
+        "annotationComponent": null,
+        "imageComponent": {
+          "images": [
+            {
+              "attributes": [
+                {
+                  "scalingType": "ASPECT_FIT",
+                  "detailData": {
+                    "profilePictureWithoutFrame": null,
+                    "profilePictureWithRingStatus": null,
+                    "companyLogo": null,
+                    "icon": null,
+                    "systemImage": null,
+                    "nonEntityGroupLogo": null,
+                    "vectorImage": {
+                      "digitalmediaAsset": "urn:li:digitalmediaAsset:D4D22AQELxTHrLM76TA",
+                      "attribution": null,
+                      "c2paManifestData": null,
+                      "$recipeTypes": [
+                        "com.linkedin.0be1dc7e0c844935ea1610d002b24e25"
+                      ],
+                      "artifacts": [
+                        {
+                          "width": 1080,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "2048_1536/feedshare-shrink_2048_1536/0/1712664623546?e=1743638400&v=beta&t=dzYensKS-CJdhojAUOF1UoRWQbXgX_l4DdbGdPnGUbs",
+                          "expiresAt": 1743638400000,
+                          "height": 1080,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 20,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "20/feedshare-shrink_20/0/1712664623522?e=1743638400&v=beta&t=rZ-olCFUi1eudDR7iKoZ4Bwn6CmQd37uicl9W-ajuI4",
+                          "expiresAt": 1743638400000,
+                          "height": 20,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 1080,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "1280/feedshare-shrink_1280/0/1712664623522?e=1743638400&v=beta&t=XsE1pEmOGJy9ybfyYY-12q0aEf5gqRWLFxT-WajfCp0",
+                          "expiresAt": 1743638400000,
+                          "height": 1080,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 480,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "480/feedshare-shrink_480/0/1712664623522?e=1743638400&v=beta&t=7VIjwU1EiTSsE6JtBinKWt7z4J_clNOa5bnRaaOkQxc",
+                          "expiresAt": 1743638400000,
+                          "height": 480,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 160,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "160/feedshare-shrink_160/0/1712664623522?e=1743638400&v=beta&t=1z16riqp9XzNux5_2bhOHMCbVge2HFcJ-v-3Ex1Ke0Y",
+                          "expiresAt": 1743638400000,
+                          "height": 160,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 800,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "800/feedshare-shrink_800/0/1712664623522?e=1743638400&v=beta&t=fs56yFKojV34uqk90uJKZ2eFU9KdUxF8cMpaLfrv1tg",
+                          "expiresAt": 1743638400000,
+                          "height": 800,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        }
+                      ],
+                      "rootUrl": "https://media.licdn.com/dms/image/v2/D4D22AQELxTHrLM76TA/feedshare-shrink_",
+                      "$type": "com.linkedin.common.VectorImage"
+                    },
+                    "nonEntityProfessionalEventLogo": null,
+                    "profilePicture": null,
+                    "imageUrl": null,
+                    "professionalEventLogo": null,
+                    "nonEntityCompanyLogo": null,
+                    "nonEntitySchoolLogo": null,
+                    "groupLogo": null,
+                    "schoolLogo": null,
+                    "ghostImage": null,
+                    "nonEntityProfilePicture": null
+                  },
+                  "tintColor": null,
+                  "$recipeTypes": [
+                    "com.linkedin.3d23a5a4973c500083d9747ff2995b9f"
+                  ],
+                  "tapTargets": [],
+                  "displayAspectRatio": 1,
+                  "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                }
+              ],
+              "editableAccessibilityText": true,
+              "actionTarget": null,
+              "accessibilityTextAttributes": [],
+              "totalCount": null,
+              "accessibilityText": "",
+              "$recipeTypes": [
+                "com.linkedin.bf3cff1dd8302d48d928fda4315d1303"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+            }
+          ],
+          "largeCtaButton": null,
+          "multiphotoRenderingFormat": "COLLAGE",
+          "navigationContext": null,
+          "showTemplateCta": false,
+          "$recipeTypes": [
+            "com.linkedin.a232502158bcd017bcb31633982e6e01"
+          ],
+          "$type": "com.linkedin.voyager.dash.feed.component.image.ImageComponent"
+        },
+        "detailedSurveyComponent": null,
+        "showcaseComponent": null,
+        "pollComponent": null,
+        "feedDiscoveryEntityComponent": null,
+        "promptComponent": null,
+        "contextualActionComponent": null,
+        "announcementComponent": null,
+        "commentaryComponent": null,
+        "miniUpdateCommentaryComponent": null,
+        "slideshowComponent": null,
+        "callToActionComponent": null
+      },
+      "attachment": null,
+      "detailHeader": null,
+      "entityUrn": "urn:li:fsd_update:(urn:li:activity:7183436087762055170,COMPANY_FEED_RELEVANCE,EMPTY,DEFAULT,false)",
+      "leadGenFormContent": null,
+      "annotation": null,
+      "contextualHeader": null,
+      "resharedUpdate": null,
+      "interstitial": null,
+      "aggregatedContent": null,
+      "contextualDescription": null,
+      "$recipeTypes": [
+        "com.linkedin.c2a18f9be09924ee7fe2cccd1a7796f3"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.Update",
+      "actor": {
+        "image": {
+          "attributes": [
+            {
+              "scalingType": null,
+              "detailData": {
+                "profilePictureWithoutFrame": null,
+                "profilePictureWithRingStatus": null,
+                "companyLogo": null,
+                "icon": null,
+                "systemImage": null,
+                "nonEntityGroupLogo": null,
+                "vectorImage": null,
+                "nonEntityProfessionalEventLogo": null,
+                "profilePicture": null,
+                "imageUrl": null,
+                "professionalEventLogo": null,
+                "nonEntityCompanyLogo": {
+                  "*company": "urn:li:fsd_company:13257731",
+                  "$recipeTypes": [
+                    "com.linkedin.08ec3feec2559dbe33e4752d2344f287"
+                  ],
+                  "vectorImage": {
+                    "digitalmediaAsset": null,
+                    "attribution": null,
+                    "c2paManifestData": null,
+                    "$recipeTypes": [
+                      "com.linkedin.0be1dc7e0c844935ea1610d002b24e25"
+                    ],
+                    "artifacts": [
+                      {
+                        "width": 200,
+                        "$recipeTypes": [
+                          "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                        ],
+                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1687085371358/siec_sa_logo?e=1748476800&v=beta&t=6pyW0yJs1KIPM-jvA0iEElDfcVZpIYcDitLXPTN3uUE",
+                        "expiresAt": 1748476800000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                      },
+                      {
+                        "width": 100,
+                        "$recipeTypes": [
+                          "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                        ],
+                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1687085371358/siec_sa_logo?e=1748476800&v=beta&t=qWZ0A9HfhKX1MbLhS5OXMwLj2n56ns9kyWSlsl0AGoo",
+                        "expiresAt": 1748476800000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                      },
+                      {
+                        "width": 400,
+                        "$recipeTypes": [
+                          "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                        ],
+                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1687085371358/siec_sa_logo?e=1748476800&v=beta&t=7m4C37hLbYxW0Jkg0SjHG3vr5Lu4Pk3PqoczNMPIQN0",
+                        "expiresAt": 1748476800000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                      }
+                    ],
+                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHvuwPdjfTL_w/company-logo_",
+                    "$type": "com.linkedin.common.VectorImage"
+                  },
+                  "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                },
+                "nonEntitySchoolLogo": null,
+                "groupLogo": null,
+                "schoolLogo": null,
+                "ghostImage": null,
+                "nonEntityProfilePicture": null
+              },
+              "tintColor": null,
+              "$recipeTypes": [
+                "com.linkedin.3d23a5a4973c500083d9747ff2995b9f"
+              ],
+              "tapTargets": [],
+              "displayAspectRatio": null,
+              "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+            }
+          ],
+          "editableAccessibilityText": false,
+          "actionTarget": null,
+          "accessibilityTextAttributes": [],
+          "totalCount": null,
+          "accessibilityText": null,
+          "$recipeTypes": [
+            "com.linkedin.bf3cff1dd8302d48d928fda4315d1303"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+        },
+        "connectAction": null,
+        "supplementaryActorInfo": null,
+        "description": {
+          "textDirection": "USER_LOCALE",
+          "text": "11,432 followers",
+          "attributesV2": [],
+          "accessibilityTextAttributesV2": [],
+          "accessibilityText": "11,432 followers",
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "backendUrn": "urn:li:company:13257731",
+        "$recipeTypes": [
+          "com.linkedin.84f703c209ad64527b3b204585cdd493"
+        ],
+        "followAction": null,
+        "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+        "subDescriptionButton": null,
+        "name": {
+          "textDirection": "FIRST_STRONG",
+          "text": "Saudi Industrial Export Company",
+          "attributesV2": [
+            {
+              "start": 0,
+              "length": 31,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "*companyName": "urn:li:fsd_company:13257731",
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null,
+                "hashtag": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityTextAttributesV2": [
+            {
+              "start": 0,
+              "length": 31,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "*companyName": "urn:li:fsd_company:13257731",
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null,
+                "hashtag": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityText": "Saudi Industrial Export Company",
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "subDescription": {
+          "textDirection": "USER_LOCALE",
+          "text": "10mo •   ",
+          "attributesV2": [
+            {
+              "start": 7,
+              "length": 1,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "companyName": null,
+                "icon": "IC_GLOBE_16DP",
+                "epoch": null,
+                "systemImage": null,
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null,
+                "hashtag": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityTextAttributesV2": [],
+          "accessibilityText": "11 months ago",
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "navigationContext": {
+          "actionTarget": "https://www.linkedin.com/company/siec-sa/posts",
+          "urlViewingBehavior": "DEFAULT",
+          "trackingActionType": "viewAttributedCompany",
+          "accessibilityText": "View company: Saudi Industrial Export Company",
+          "sponsoredUrlAttributes": null,
+          "$recipeTypes": [
+            "com.linkedin.abe1236fe4bea17507ea3be49c045902"
+          ],
+          "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+        },
+        "ringStatus": null,
+        "groupMembershipForJoinAction": null,
+        "showSmallActorPortrait": false
+      },
+      "boostHeader": null,
+      "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:activity:7183436087762055170,urn:li:activity:7183436087762055170,urn:li:highlightedReply:-)",
+      "header": null,
+      "highlightedComments": [],
+      "preDashEntityUrn": "urn:li:fs_updateV2:(urn:li:activity:7183436087762055170,COMPANY_FEED_RELEVANCE,EMPTY,DEFAULT,false)",
+      "commentary": {
+        "numLines": 3,
+        "translation": null,
+        "navigationContext": null,
+        "metadataText": null,
+        "text": {
+          "textDirection": "FIRST_STRONG",
+          "text": "#Sadirat extends its heartfelt Eid al-Fitr wishes to all our esteemed colleagues and valued clients.✨️\n\nWe wish you a joyous and blessed Eid al-Fitr ✨️\n\n#Eid2024 #Eid_Mubarak",
+          "attributesV2": [
+            {
+              "start": 0,
+              "length": 8,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "companyName": null,
+                "*hashtag": "urn:li:fsd_hashtag:(sadirat,urn:li:activity:7183436087762055170)",
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            },
+            {
+              "start": 153,
+              "length": 8,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "companyName": null,
+                "*hashtag": "urn:li:fsd_hashtag:(eid2024,urn:li:activity:7183436087762055170)",
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            },
+            {
+              "start": 162,
+              "length": 12,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "companyName": null,
+                "*hashtag": "urn:li:fsd_hashtag:(eid_mubarak,urn:li:activity:7183436087762055170)",
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityTextAttributesV2": [],
+          "accessibilityText": null,
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "$recipeTypes": [
+          "com.linkedin.e95a2ad24af726dec9048375b348f167"
+        ],
+        "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+      },
+      "additionalContents": []
+    },
+    {
+      "metadata": {
+        "actionsPosition": "ACTOR_COMPONENT",
+        "shareMediaUrn": null,
+        "actionTriggerEnabled": false,
+        "coachSummaryText": null,
+        "shareAudience": "PUBLIC",
+        "legoTrackingToken": null,
+        "backendUrn": "urn:li:activity:7172513295478779904",
+        "coachSummaryUrn": null,
+        "$recipeTypes": [
+          "com.linkedin.90f58701314ab6726d81d936616b5cb5"
+        ],
+        "trackingData": {
+          "sponsoredTracking": null,
+          "requestId": "dc843633-d31a-49ea-8727-2eaf71041b5f",
+          "backendUrn": null,
+          "$recipeTypes": [
+            "com.linkedin.f2c20e2fd1e14492206bbe57dff07df6"
+          ],
+          "trackingId": "nWQIEupkz/XQRVW/j1GHFQ==",
+          "$type": "com.linkedin.voyager.dash.feed.metadata.TrackingData"
+        },
+        "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata",
+        "*updateActions": "urn:li:fsd_updateActions:(urn:li:activity:7172513295478779904,COMPANY_FEED_RELEVANCE,EMPTY,urn:li:reason:-,urn:li:adCreative:-)",
+        "detailPageType": "FEED_DETAIL",
+        "shouldForceRefetchFromNetwork": false,
+        "shareUrn": "urn:li:share:7172513294409306112",
+        "excludedFromSeen": false,
+        "coachAction": null,
+        "rootShare": true,
+        "hidePostAction": null,
+        "group": null
+      },
+      "socialContent": {
+        "updateSaveState": null,
+        "hideCommentsCount": false,
+        "hideReactionsCount": false,
+        "hideSocialActivityCounts": false,
+        "hideShareAction": false,
+        "hideSendAction": false,
+        "$recipeTypes": [
+          "com.linkedin.ad076b6ef294ab47f0b5d8ce20705b98"
+        ],
+        "hideRepostsCount": false,
+        "$type": "com.linkedin.voyager.dash.social.SocialContent",
+        "hideViewsCount": false,
+        "hideReactAction": false,
+        "coachAction": null,
+        "hideCommentAction": false,
+        "shareUrl": "https://www.linkedin.com/posts/siec-sa_sadirat-ramadanabrkareem-saudiaarabia-activity-7172513295478779904-7P0S?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI",
+        "showContributionExperience": false
+      },
+      "showSocialDetail": true,
+      "footer": null,
+      "debugInfo": null,
+      "carouselContent": null,
+      "content": {
+        "toggleButtonComponent": null,
+        "feedDividerComponent": null,
+        "articleComponent": null,
+        "eventComponent": null,
+        "conversationsComponent": null,
+        "promoComponent": null,
+        "seeMoreComponent": null,
+        "reviewComponent": null,
+        "feedDiscoveryGridComponent": null,
+        "gentlePromptComponent": null,
+        "followPromptComponent": null,
+        "jobComponent": null,
+        "learningRecommendationComponent": null,
+        "miniUpdateContentComponent": null,
+        "buttonComponent": null,
+        "surveyComponent": null,
+        "actorComponent": null,
+        "celebrationComponent": null,
+        "documentComponent": null,
+        "creationStatusComponent": null,
+        "dynamicPollComponent": null,
+        "newsletterComponent": null,
+        "postCtaComponent": null,
+        "scheduledLiveContentComponent": null,
+        "entityComponent": null,
+        "externalVideoComponent": null,
+        "videoCarouselItemComponent": null,
+        "linkedInVideoComponent": null,
+        "textOverlayImageComponent": null,
+        "annotationComponent": null,
+        "imageComponent": {
+          "images": [
+            {
+              "attributes": [
+                {
+                  "scalingType": "ASPECT_FIT",
+                  "detailData": {
+                    "profilePictureWithoutFrame": null,
+                    "profilePictureWithRingStatus": null,
+                    "companyLogo": null,
+                    "icon": null,
+                    "systemImage": null,
+                    "nonEntityGroupLogo": null,
+                    "vectorImage": {
+                      "digitalmediaAsset": "urn:li:digitalmediaAsset:D4D22AQG1T4esEDYHLw",
+                      "attribution": null,
+                      "c2paManifestData": null,
+                      "$recipeTypes": [
+                        "com.linkedin.0be1dc7e0c844935ea1610d002b24e25"
+                      ],
+                      "artifacts": [
+                        {
+                          "width": 1080,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "2048_1536/feedshare-shrink_2048_1536/0/1710060427593?e=1743638400&v=beta&t=Y2njZzhmrPYk0y6xNAx6bGRDYSLvgw3pB-XyfoX1X0I",
+                          "expiresAt": 1743638400000,
+                          "height": 1080,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 20,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "20/feedshare-shrink_20/0/1710060427605?e=1743638400&v=beta&t=cmMtwyCFvIWPEzC44py-pW_KUABVCie6Cnk4oSl-u8Y",
+                          "expiresAt": 1743638400000,
+                          "height": 20,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 1080,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "1280/feedshare-shrink_1280/0/1710060427605?e=1743638400&v=beta&t=Rut_xTYtrldsbNMqNVFSCDNSS7MDpeb4Utu8OI3fOzc",
+                          "expiresAt": 1743638400000,
+                          "height": 1080,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 480,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "480/feedshare-shrink_480/0/1710060427605?e=1743638400&v=beta&t=4VN8oqfGbtmQ57aKP5yNcFzRKW92A7cvf3hohFzOow0",
+                          "expiresAt": 1743638400000,
+                          "height": 480,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 160,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "160/feedshare-shrink_160/0/1710060427605?e=1743638400&v=beta&t=RfSOhckwC0zO_9hFXkpJiDdZ1FgUifaBVHQST0RIdGI",
+                          "expiresAt": 1743638400000,
+                          "height": 160,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 800,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "800/feedshare-shrink_800/0/1710060427605?e=1743638400&v=beta&t=lh71Oz4HINWXraArXUgGjZKO1dSpatxonoGfF-eLOSI",
+                          "expiresAt": 1743638400000,
+                          "height": 800,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        }
+                      ],
+                      "rootUrl": "https://media.licdn.com/dms/image/v2/D4D22AQG1T4esEDYHLw/feedshare-shrink_",
+                      "$type": "com.linkedin.common.VectorImage"
+                    },
+                    "nonEntityProfessionalEventLogo": null,
+                    "profilePicture": null,
+                    "imageUrl": null,
+                    "professionalEventLogo": null,
+                    "nonEntityCompanyLogo": null,
+                    "nonEntitySchoolLogo": null,
+                    "groupLogo": null,
+                    "schoolLogo": null,
+                    "ghostImage": null,
+                    "nonEntityProfilePicture": null
+                  },
+                  "tintColor": null,
+                  "$recipeTypes": [
+                    "com.linkedin.3d23a5a4973c500083d9747ff2995b9f"
+                  ],
+                  "tapTargets": [],
+                  "displayAspectRatio": 1,
+                  "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                }
+              ],
+              "editableAccessibilityText": true,
+              "actionTarget": null,
+              "accessibilityTextAttributes": [],
+              "totalCount": null,
+              "accessibilityText": "",
+              "$recipeTypes": [
+                "com.linkedin.bf3cff1dd8302d48d928fda4315d1303"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+            }
+          ],
+          "largeCtaButton": null,
+          "multiphotoRenderingFormat": "COLLAGE",
+          "navigationContext": null,
+          "showTemplateCta": false,
+          "$recipeTypes": [
+            "com.linkedin.a232502158bcd017bcb31633982e6e01"
+          ],
+          "$type": "com.linkedin.voyager.dash.feed.component.image.ImageComponent"
+        },
+        "detailedSurveyComponent": null,
+        "showcaseComponent": null,
+        "pollComponent": null,
+        "feedDiscoveryEntityComponent": null,
+        "promptComponent": null,
+        "contextualActionComponent": null,
+        "announcementComponent": null,
+        "commentaryComponent": null,
+        "miniUpdateCommentaryComponent": null,
+        "slideshowComponent": null,
+        "callToActionComponent": null
+      },
+      "attachment": null,
+      "detailHeader": null,
+      "entityUrn": "urn:li:fsd_update:(urn:li:activity:7172513295478779904,COMPANY_FEED_RELEVANCE,EMPTY,DEFAULT,false)",
+      "leadGenFormContent": null,
+      "annotation": null,
+      "contextualHeader": null,
+      "resharedUpdate": null,
+      "interstitial": null,
+      "aggregatedContent": null,
+      "contextualDescription": null,
+      "$recipeTypes": [
+        "com.linkedin.c2a18f9be09924ee7fe2cccd1a7796f3"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.Update",
+      "actor": {
+        "image": {
+          "attributes": [
+            {
+              "scalingType": null,
+              "detailData": {
+                "profilePictureWithoutFrame": null,
+                "profilePictureWithRingStatus": null,
+                "companyLogo": null,
+                "icon": null,
+                "systemImage": null,
+                "nonEntityGroupLogo": null,
+                "vectorImage": null,
+                "nonEntityProfessionalEventLogo": null,
+                "profilePicture": null,
+                "imageUrl": null,
+                "professionalEventLogo": null,
+                "nonEntityCompanyLogo": {
+                  "*company": "urn:li:fsd_company:13257731",
+                  "$recipeTypes": [
+                    "com.linkedin.08ec3feec2559dbe33e4752d2344f287"
+                  ],
+                  "vectorImage": {
+                    "digitalmediaAsset": null,
+                    "attribution": null,
+                    "c2paManifestData": null,
+                    "$recipeTypes": [
+                      "com.linkedin.0be1dc7e0c844935ea1610d002b24e25"
+                    ],
+                    "artifacts": [
+                      {
+                        "width": 200,
+                        "$recipeTypes": [
+                          "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                        ],
+                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1687085371358/siec_sa_logo?e=1748476800&v=beta&t=6pyW0yJs1KIPM-jvA0iEElDfcVZpIYcDitLXPTN3uUE",
+                        "expiresAt": 1748476800000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                      },
+                      {
+                        "width": 100,
+                        "$recipeTypes": [
+                          "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                        ],
+                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1687085371358/siec_sa_logo?e=1748476800&v=beta&t=qWZ0A9HfhKX1MbLhS5OXMwLj2n56ns9kyWSlsl0AGoo",
+                        "expiresAt": 1748476800000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                      },
+                      {
+                        "width": 400,
+                        "$recipeTypes": [
+                          "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                        ],
+                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1687085371358/siec_sa_logo?e=1748476800&v=beta&t=7m4C37hLbYxW0Jkg0SjHG3vr5Lu4Pk3PqoczNMPIQN0",
+                        "expiresAt": 1748476800000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                      }
+                    ],
+                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHvuwPdjfTL_w/company-logo_",
+                    "$type": "com.linkedin.common.VectorImage"
+                  },
+                  "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                },
+                "nonEntitySchoolLogo": null,
+                "groupLogo": null,
+                "schoolLogo": null,
+                "ghostImage": null,
+                "nonEntityProfilePicture": null
+              },
+              "tintColor": null,
+              "$recipeTypes": [
+                "com.linkedin.3d23a5a4973c500083d9747ff2995b9f"
+              ],
+              "tapTargets": [],
+              "displayAspectRatio": null,
+              "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+            }
+          ],
+          "editableAccessibilityText": false,
+          "actionTarget": null,
+          "accessibilityTextAttributes": [],
+          "totalCount": null,
+          "accessibilityText": null,
+          "$recipeTypes": [
+            "com.linkedin.bf3cff1dd8302d48d928fda4315d1303"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+        },
+        "connectAction": null,
+        "supplementaryActorInfo": null,
+        "description": {
+          "textDirection": "USER_LOCALE",
+          "text": "11,432 followers",
+          "attributesV2": [],
+          "accessibilityTextAttributesV2": [],
+          "accessibilityText": "11,432 followers",
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "backendUrn": "urn:li:company:13257731",
+        "$recipeTypes": [
+          "com.linkedin.84f703c209ad64527b3b204585cdd493"
+        ],
+        "followAction": null,
+        "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+        "subDescriptionButton": null,
+        "name": {
+          "textDirection": "FIRST_STRONG",
+          "text": "Saudi Industrial Export Company",
+          "attributesV2": [
+            {
+              "start": 0,
+              "length": 31,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "*companyName": "urn:li:fsd_company:13257731",
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null,
+                "hashtag": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityTextAttributesV2": [
+            {
+              "start": 0,
+              "length": 31,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "*companyName": "urn:li:fsd_company:13257731",
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null,
+                "hashtag": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityText": "Saudi Industrial Export Company",
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "subDescription": {
+          "textDirection": "USER_LOCALE",
+          "text": "11mo •   ",
+          "attributesV2": [
+            {
+              "start": 7,
+              "length": 1,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "companyName": null,
+                "icon": "IC_GLOBE_16DP",
+                "epoch": null,
+                "systemImage": null,
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null,
+                "hashtag": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityTextAttributesV2": [],
+          "accessibilityText": "1 year ago",
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "navigationContext": {
+          "actionTarget": "https://www.linkedin.com/company/siec-sa/posts",
+          "urlViewingBehavior": "DEFAULT",
+          "trackingActionType": "viewAttributedCompany",
+          "accessibilityText": "View company: Saudi Industrial Export Company",
+          "sponsoredUrlAttributes": null,
+          "$recipeTypes": [
+            "com.linkedin.abe1236fe4bea17507ea3be49c045902"
+          ],
+          "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+        },
+        "ringStatus": null,
+        "groupMembershipForJoinAction": null,
+        "showSmallActorPortrait": false
+      },
+      "boostHeader": null,
+      "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:activity:7172513295478779904,urn:li:activity:7172513295478779904,urn:li:highlightedReply:-)",
+      "header": null,
+      "highlightedComments": [],
+      "preDashEntityUrn": "urn:li:fs_updateV2:(urn:li:activity:7172513295478779904,COMPANY_FEED_RELEVANCE,EMPTY,DEFAULT,false)",
+      "commentary": {
+        "numLines": 3,
+        "translation": null,
+        "navigationContext": null,
+        "metadataText": null,
+        "text": {
+          "textDirection": "FIRST_STRONG",
+          "text": "Ramadan Greetings from #Sadirat 🌙!\n\nAs the holy month of Ramadan begins, we extend our warmest wishes for peace, prosperity, and blessings to you. May this sacred time be filled with reflection, spirituality, and unity.\n\n#Ramadan_Kareem #saudiaarabia",
+          "attributesV2": [
+            {
+              "start": 23,
+              "length": 8,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "companyName": null,
+                "*hashtag": "urn:li:fsd_hashtag:(sadirat,urn:li:activity:7172513295478779904)",
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            },
+            {
+              "start": 221,
+              "length": 15,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "companyName": null,
+                "*hashtag": "urn:li:fsd_hashtag:(ramadan_kareem,urn:li:activity:7172513295478779904)",
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            },
+            {
+              "start": 237,
+              "length": 13,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "companyName": null,
+                "*hashtag": "urn:li:fsd_hashtag:(saudiaarabia,urn:li:activity:7172513295478779904)",
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityTextAttributesV2": [],
+          "accessibilityText": null,
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "$recipeTypes": [
+          "com.linkedin.e95a2ad24af726dec9048375b348f167"
+        ],
+        "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+      },
+      "additionalContents": []
+    },
+    {
+      "metadata": {
+        "actionsPosition": "ACTOR_COMPONENT",
+        "shareMediaUrn": null,
+        "actionTriggerEnabled": false,
+        "coachSummaryText": null,
+        "shareAudience": "PUBLIC",
+        "legoTrackingToken": null,
+        "backendUrn": "urn:li:activity:7207677316288700416",
+        "coachSummaryUrn": null,
+        "$recipeTypes": [
+          "com.linkedin.90f58701314ab6726d81d936616b5cb5"
+        ],
+        "trackingData": {
+          "sponsoredTracking": null,
+          "requestId": "dc843633-d31a-49ea-8727-2eaf71041b5f",
+          "backendUrn": null,
+          "$recipeTypes": [
+            "com.linkedin.f2c20e2fd1e14492206bbe57dff07df6"
+          ],
+          "trackingId": "D06KgsNt5OvS5gxqyBGoYQ==",
+          "$type": "com.linkedin.voyager.dash.feed.metadata.TrackingData"
+        },
+        "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata",
+        "*updateActions": "urn:li:fsd_updateActions:(urn:li:activity:7207677316288700416,COMPANY_FEED_RELEVANCE,EMPTY,urn:li:reason:-,urn:li:adCreative:-)",
+        "detailPageType": "FEED_DETAIL",
+        "shouldForceRefetchFromNetwork": false,
+        "shareUrn": "urn:li:share:7207677315462402048",
+        "excludedFromSeen": false,
+        "coachAction": null,
+        "rootShare": true,
+        "hidePostAction": null,
+        "group": null
+      },
+      "socialContent": {
+        "updateSaveState": null,
+        "hideCommentsCount": false,
+        "hideReactionsCount": false,
+        "hideSocialActivityCounts": false,
+        "hideShareAction": false,
+        "hideSendAction": false,
+        "$recipeTypes": [
+          "com.linkedin.ad076b6ef294ab47f0b5d8ce20705b98"
+        ],
+        "hideRepostsCount": false,
+        "$type": "com.linkedin.voyager.dash.social.SocialContent",
+        "hideViewsCount": false,
+        "hideReactAction": false,
+        "coachAction": null,
+        "hideCommentAction": false,
+        "shareUrl": "https://www.linkedin.com/posts/siec-sa_eidabradhaabr1445-activity-7207677316288700416-Zw7r?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI",
+        "showContributionExperience": false
+      },
+      "showSocialDetail": true,
+      "footer": null,
+      "debugInfo": null,
+      "carouselContent": null,
+      "content": {
+        "toggleButtonComponent": null,
+        "feedDividerComponent": null,
+        "articleComponent": null,
+        "eventComponent": null,
+        "conversationsComponent": null,
+        "promoComponent": null,
+        "seeMoreComponent": null,
+        "reviewComponent": null,
+        "feedDiscoveryGridComponent": null,
+        "gentlePromptComponent": null,
+        "followPromptComponent": null,
+        "jobComponent": null,
+        "learningRecommendationComponent": null,
+        "miniUpdateContentComponent": null,
+        "buttonComponent": null,
+        "surveyComponent": null,
+        "actorComponent": null,
+        "celebrationComponent": null,
+        "documentComponent": null,
+        "creationStatusComponent": null,
+        "dynamicPollComponent": null,
+        "newsletterComponent": null,
+        "postCtaComponent": null,
+        "scheduledLiveContentComponent": null,
+        "entityComponent": null,
+        "externalVideoComponent": null,
+        "videoCarouselItemComponent": null,
+        "linkedInVideoComponent": null,
+        "textOverlayImageComponent": null,
+        "annotationComponent": null,
+        "imageComponent": {
+          "images": [
+            {
+              "attributes": [
+                {
+                  "scalingType": "ASPECT_FIT",
+                  "detailData": {
+                    "profilePictureWithoutFrame": null,
+                    "profilePictureWithRingStatus": null,
+                    "companyLogo": null,
+                    "icon": null,
+                    "systemImage": null,
+                    "nonEntityGroupLogo": null,
+                    "vectorImage": {
+                      "digitalmediaAsset": "urn:li:digitalmediaAsset:D4D22AQF2WvapWwJyag",
+                      "attribution": null,
+                      "c2paManifestData": null,
+                      "$recipeTypes": [
+                        "com.linkedin.0be1dc7e0c844935ea1610d002b24e25"
+                      ],
+                      "artifacts": [
+                        {
+                          "width": 1080,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "2048_1536/feedshare-shrink_2048_1536/0/1718444183378?e=1743638400&v=beta&t=K9oJ0aK7nh54O3vQtrfzkS2HGHjWa0fVle5jplXuXrk",
+                          "expiresAt": 1743638400000,
+                          "height": 1080,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 20,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "20/feedshare-shrink_20/0/1718444183377?e=1743638400&v=beta&t=tIfDZJY1LfJoVkO4n6MYQTU6-of0K3uQmavI7REbZok",
+                          "expiresAt": 1743638400000,
+                          "height": 20,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 1080,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "1280/feedshare-shrink_1280/0/1718444183377?e=1743638400&v=beta&t=PNTg57uLYxYMAlFb0rGTVmkmb0qNTWWbl5c3sEiWauY",
+                          "expiresAt": 1743638400000,
+                          "height": 1080,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 480,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "480/feedshare-shrink_480/0/1718444183377?e=1743638400&v=beta&t=YmHA3pQ8rYW1NVTW8HD7bzkh_NaZiwNclfM3LpEe6Ms",
+                          "expiresAt": 1743638400000,
+                          "height": 480,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 160,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "160/feedshare-shrink_160/0/1718444183363?e=1743638400&v=beta&t=d10RUZSTl43iz67MArJ-TNDF_lbYxl9En82ASGBu3cI",
+                          "expiresAt": 1743638400000,
+                          "height": 160,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        },
+                        {
+                          "width": 800,
+                          "$recipeTypes": [
+                            "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                          ],
+                          "fileIdentifyingUrlPathSegment": "800/feedshare-shrink_800/0/1718444183363?e=1743638400&v=beta&t=DRAtVFGh7VaNm-EDQz7xfwryvCcKUulLrLQgFslLESA",
+                          "expiresAt": 1743638400000,
+                          "height": 800,
+                          "$type": "com.linkedin.common.VectorArtifact"
+                        }
+                      ],
+                      "rootUrl": "https://media.licdn.com/dms/image/v2/D4D22AQF2WvapWwJyag/feedshare-shrink_",
+                      "$type": "com.linkedin.common.VectorImage"
+                    },
+                    "nonEntityProfessionalEventLogo": null,
+                    "profilePicture": null,
+                    "imageUrl": null,
+                    "professionalEventLogo": null,
+                    "nonEntityCompanyLogo": null,
+                    "nonEntitySchoolLogo": null,
+                    "groupLogo": null,
+                    "schoolLogo": null,
+                    "ghostImage": null,
+                    "nonEntityProfilePicture": null
+                  },
+                  "tintColor": null,
+                  "$recipeTypes": [
+                    "com.linkedin.3d23a5a4973c500083d9747ff2995b9f"
+                  ],
+                  "tapTargets": [],
+                  "displayAspectRatio": 1,
+                  "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                }
+              ],
+              "editableAccessibilityText": true,
+              "actionTarget": null,
+              "accessibilityTextAttributes": [],
+              "totalCount": null,
+              "accessibilityText": "",
+              "$recipeTypes": [
+                "com.linkedin.bf3cff1dd8302d48d928fda4315d1303"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+            }
+          ],
+          "largeCtaButton": null,
+          "multiphotoRenderingFormat": "COLLAGE",
+          "navigationContext": null,
+          "showTemplateCta": false,
+          "$recipeTypes": [
+            "com.linkedin.a232502158bcd017bcb31633982e6e01"
+          ],
+          "$type": "com.linkedin.voyager.dash.feed.component.image.ImageComponent"
+        },
+        "detailedSurveyComponent": null,
+        "showcaseComponent": null,
+        "pollComponent": null,
+        "feedDiscoveryEntityComponent": null,
+        "promptComponent": null,
+        "contextualActionComponent": null,
+        "announcementComponent": null,
+        "commentaryComponent": null,
+        "miniUpdateCommentaryComponent": null,
+        "slideshowComponent": null,
+        "callToActionComponent": null
+      },
+      "attachment": null,
+      "detailHeader": null,
+      "entityUrn": "urn:li:fsd_update:(urn:li:activity:7207677316288700416,COMPANY_FEED_RELEVANCE,EMPTY,DEFAULT,false)",
+      "leadGenFormContent": null,
+      "annotation": null,
+      "contextualHeader": null,
+      "resharedUpdate": null,
+      "interstitial": null,
+      "aggregatedContent": null,
+      "contextualDescription": null,
+      "$recipeTypes": [
+        "com.linkedin.c2a18f9be09924ee7fe2cccd1a7796f3"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.Update",
+      "actor": {
+        "image": {
+          "attributes": [
+            {
+              "scalingType": null,
+              "detailData": {
+                "profilePictureWithoutFrame": null,
+                "profilePictureWithRingStatus": null,
+                "companyLogo": null,
+                "icon": null,
+                "systemImage": null,
+                "nonEntityGroupLogo": null,
+                "vectorImage": null,
+                "nonEntityProfessionalEventLogo": null,
+                "profilePicture": null,
+                "imageUrl": null,
+                "professionalEventLogo": null,
+                "nonEntityCompanyLogo": {
+                  "*company": "urn:li:fsd_company:13257731",
+                  "$recipeTypes": [
+                    "com.linkedin.08ec3feec2559dbe33e4752d2344f287"
+                  ],
+                  "vectorImage": {
+                    "digitalmediaAsset": null,
+                    "attribution": null,
+                    "c2paManifestData": null,
+                    "$recipeTypes": [
+                      "com.linkedin.0be1dc7e0c844935ea1610d002b24e25"
+                    ],
+                    "artifacts": [
+                      {
+                        "width": 200,
+                        "$recipeTypes": [
+                          "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                        ],
+                        "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1687085371358/siec_sa_logo?e=1748476800&v=beta&t=6pyW0yJs1KIPM-jvA0iEElDfcVZpIYcDitLXPTN3uUE",
+                        "expiresAt": 1748476800000,
+                        "height": 200,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                      },
+                      {
+                        "width": 100,
+                        "$recipeTypes": [
+                          "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                        ],
+                        "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1687085371358/siec_sa_logo?e=1748476800&v=beta&t=qWZ0A9HfhKX1MbLhS5OXMwLj2n56ns9kyWSlsl0AGoo",
+                        "expiresAt": 1748476800000,
+                        "height": 100,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                      },
+                      {
+                        "width": 400,
+                        "$recipeTypes": [
+                          "com.linkedin.7301349f6bf3c9b763f86c1bf37ce99a"
+                        ],
+                        "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1687085371358/siec_sa_logo?e=1748476800&v=beta&t=7m4C37hLbYxW0Jkg0SjHG3vr5Lu4Pk3PqoczNMPIQN0",
+                        "expiresAt": 1748476800000,
+                        "height": 400,
+                        "$type": "com.linkedin.common.VectorArtifact"
+                      }
+                    ],
+                    "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQHvuwPdjfTL_w/company-logo_",
+                    "$type": "com.linkedin.common.VectorImage"
+                  },
+                  "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                },
+                "nonEntitySchoolLogo": null,
+                "groupLogo": null,
+                "schoolLogo": null,
+                "ghostImage": null,
+                "nonEntityProfilePicture": null
+              },
+              "tintColor": null,
+              "$recipeTypes": [
+                "com.linkedin.3d23a5a4973c500083d9747ff2995b9f"
+              ],
+              "tapTargets": [],
+              "displayAspectRatio": null,
+              "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+            }
+          ],
+          "editableAccessibilityText": false,
+          "actionTarget": null,
+          "accessibilityTextAttributes": [],
+          "totalCount": null,
+          "accessibilityText": null,
+          "$recipeTypes": [
+            "com.linkedin.bf3cff1dd8302d48d928fda4315d1303"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+        },
+        "connectAction": null,
+        "supplementaryActorInfo": null,
+        "description": {
+          "textDirection": "USER_LOCALE",
+          "text": "11,432 followers",
+          "attributesV2": [],
+          "accessibilityTextAttributesV2": [],
+          "accessibilityText": "11,432 followers",
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "backendUrn": "urn:li:company:13257731",
+        "$recipeTypes": [
+          "com.linkedin.84f703c209ad64527b3b204585cdd493"
+        ],
+        "followAction": null,
+        "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+        "subDescriptionButton": null,
+        "name": {
+          "textDirection": "FIRST_STRONG",
+          "text": "Saudi Industrial Export Company",
+          "attributesV2": [
+            {
+              "start": 0,
+              "length": 31,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "*companyName": "urn:li:fsd_company:13257731",
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null,
+                "hashtag": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityTextAttributesV2": [
+            {
+              "start": 0,
+              "length": 31,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "*companyName": "urn:li:fsd_company:13257731",
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null,
+                "hashtag": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityText": "Saudi Industrial Export Company",
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "subDescription": {
+          "textDirection": "USER_LOCALE",
+          "text": "8mo •   ",
+          "attributesV2": [
+            {
+              "start": 6,
+              "length": 1,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "companyName": null,
+                "icon": "IC_GLOBE_16DP",
+                "epoch": null,
+                "systemImage": null,
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null,
+                "hashtag": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityTextAttributesV2": [],
+          "accessibilityText": "9 months ago",
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "navigationContext": {
+          "actionTarget": "https://www.linkedin.com/company/siec-sa/posts",
+          "urlViewingBehavior": "DEFAULT",
+          "trackingActionType": "viewAttributedCompany",
+          "accessibilityText": "View company: Saudi Industrial Export Company",
+          "sponsoredUrlAttributes": null,
+          "$recipeTypes": [
+            "com.linkedin.abe1236fe4bea17507ea3be49c045902"
+          ],
+          "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+        },
+        "ringStatus": null,
+        "groupMembershipForJoinAction": null,
+        "showSmallActorPortrait": false
+      },
+      "boostHeader": null,
+      "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:activity:7207677316288700416,urn:li:activity:7207677316288700416,urn:li:highlightedReply:-)",
+      "header": null,
+      "highlightedComments": [],
+      "preDashEntityUrn": "urn:li:fs_updateV2:(urn:li:activity:7207677316288700416,COMPANY_FEED_RELEVANCE,EMPTY,DEFAULT,false)",
+      "commentary": {
+        "numLines": 3,
+        "translation": null,
+        "navigationContext": null,
+        "metadataText": null,
+        "text": {
+          "textDirection": "FIRST_STRONG",
+          "text": "SIEC extends its heartfelt wishes for a blessed Eid Al-Adha. May Allah fill your hearts with joy and happiness, and shower you with prosperity and blessings.\n\nMay Saudi Arabia forever stand as the bastion of success, the vanguard of change, and the catalyst of progress.\n\nHappy Eid!\n\n#Eid_Adha_1445",
+          "attributesV2": [
+            {
+              "start": 284,
+              "length": 14,
+              "detailData": {
+                "jobPostingName": null,
+                "hyperlink": null,
+                "profileFamiliarName": null,
+                "color": null,
+                "companyName": null,
+                "*hashtag": "urn:li:fsd_hashtag:(eid_adha_1445,urn:li:activity:7207677316288700416)",
+                "icon": null,
+                "epoch": null,
+                "systemImage": null,
+                "textLink": null,
+                "listItemStyle": null,
+                "groupName": null,
+                "hyperlinkOpenExternally": null,
+                "listStyle": null,
+                "profileFullName": null,
+                "stringFieldReference": null,
+                "learningCourseName": null,
+                "profileMention": null,
+                "style": null,
+                "schoolName": null
+              },
+              "$recipeTypes": [
+                "com.linkedin.318d656e8297f931b40ac1cad9529599"
+              ],
+              "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+            }
+          ],
+          "accessibilityTextAttributesV2": [],
+          "accessibilityText": null,
+          "$recipeTypes": [
+            "com.linkedin.d162b67de7e7e563bc6da1b825d4f426"
+          ],
+          "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+        },
+        "$recipeTypes": [
+          "com.linkedin.e95a2ad24af726dec9048375b348f167"
+        ],
+        "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+      },
+      "additionalContents": []
+    },
+    {
+      "entityUrn": "urn:li:fsd_updateActions:(urn:li:activity:7207677316288700416,COMPANY_FEED_RELEVANCE,EMPTY,urn:li:reason:-,urn:li:adCreative:-)",
+      "preDashEntityUrn": "urn:li:fs_updateV2Actions:(urn:li:activity:7207677316288700416,COMPANY_FEED_RELEVANCE,EMPTY,-,-)",
+      "$recipeTypes": [
+        "com.linkedin.28a1f8c5bf9969dcc9c32c358e6236fd"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.controlmenu.UpdateActions"
+    },
+    {
+      "entityUrn": "urn:li:fsd_updateActions:(urn:li:activity:7183436087762055170,COMPANY_FEED_RELEVANCE,EMPTY,urn:li:reason:-,urn:li:adCreative:-)",
+      "preDashEntityUrn": "urn:li:fs_updateV2Actions:(urn:li:activity:7183436087762055170,COMPANY_FEED_RELEVANCE,EMPTY,-,-)",
+      "$recipeTypes": [
+        "com.linkedin.28a1f8c5bf9969dcc9c32c358e6236fd"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.controlmenu.UpdateActions"
+    },
+    {
+      "entityUrn": "urn:li:fsd_updateActions:(urn:li:activity:7272884352638742528,COMPANY_FEED_RELEVANCE,EMPTY,urn:li:reason:-,urn:li:adCreative:-)",
+      "preDashEntityUrn": "urn:li:fs_updateV2Actions:(urn:li:activity:7272884352638742528,COMPANY_FEED_RELEVANCE,EMPTY,-,-)",
+      "$recipeTypes": [
+        "com.linkedin.28a1f8c5bf9969dcc9c32c358e6236fd"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.controlmenu.UpdateActions"
+    },
+    {
+      "entityUrn": "urn:li:fsd_updateActions:(urn:li:activity:7172513295478779904,COMPANY_FEED_RELEVANCE,EMPTY,urn:li:reason:-,urn:li:adCreative:-)",
+      "preDashEntityUrn": "urn:li:fs_updateV2Actions:(urn:li:activity:7172513295478779904,COMPANY_FEED_RELEVANCE,EMPTY,-,-)",
+      "$recipeTypes": [
+        "com.linkedin.28a1f8c5bf9969dcc9c32c358e6236fd"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.controlmenu.UpdateActions"
+    },
+    {
+      "entityUrn": "urn:li:fsd_updateActions:(urn:li:activity:7244098777085579264,COMPANY_FEED_RELEVANCE,EMPTY,urn:li:reason:-,urn:li:adCreative:-)",
+      "preDashEntityUrn": "urn:li:fs_updateV2Actions:(urn:li:activity:7244098777085579264,COMPANY_FEED_RELEVANCE,EMPTY,-,-)",
+      "$recipeTypes": [
+        "com.linkedin.28a1f8c5bf9969dcc9c32c358e6236fd"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.controlmenu.UpdateActions"
+    },
+    {
+      "entityUrn": "urn:li:fsd_updateActions:(urn:li:activity:7172870026138447873,COMPANY_FEED_RELEVANCE,EMPTY,urn:li:reason:-,urn:li:adCreative:-)",
+      "preDashEntityUrn": "urn:li:fs_updateV2Actions:(urn:li:activity:7172870026138447873,COMPANY_FEED_RELEVANCE,EMPTY,-,-)",
+      "$recipeTypes": [
+        "com.linkedin.28a1f8c5bf9969dcc9c32c358e6236fd"
+      ],
+      "$type": "com.linkedin.voyager.dash.feed.controlmenu.UpdateActions"
+    },
+    {
+      "name": "Saudi Industrial Export Company",
+      "entityUrn": "urn:li:fsd_company:13257731",
+      "$recipeTypes": [
+        "com.linkedin.b4335c526cba54fc30fa70179f80fbff"
+      ],
+      "url": "https://www.linkedin.com/company/siec-sa/",
+      "$type": "com.linkedin.voyager.dash.organization.Company"
+    },
+    {
+      "hideSocialCountsIfAllowed": false,
+      "threadUrn": "urn:li:activity:7272884352638742528",
+      "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:activity:7272884352638742528",
+      "quickComments": [],
+      "socialPermissionsPersonalTopicUrn": null,
+      "showPremiumAnalytics": false,
+      "$recipeTypes": [
+        "com.linkedin.e85f5a0f1e4714ac12c0913db289e5c9"
+      ],
+      "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+      "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:activity:7272884352638742528,urn:li:fsd_profile:ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI)",
+      "feedDetailSocialActionPromptType": null,
+      "allowedCommentersScope": "ALL",
+      "reactionsOnCommentsTopicUrn": null,
+      "entityUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7272884352638742528,urn:li:activity:7272884352638742528,urn:li:highlightedReply:-)",
+      "socialUpdateType": null,
+      "reactionSummariesTopicUrn": null,
+      "commentsTopicUrn": null,
+      "reactionsTopicUrn": null,
+      "reshareUpdateUrn": null,
+      "socialDetailsTopicUrn": null,
+      "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:activity:7272884352638742528",
+      "commentSocialPermissionsTopicUrn": null
+    },
+    {
+      "hideSocialCountsIfAllowed": false,
+      "threadUrn": "urn:li:activity:7172513295478779904",
+      "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:activity:7172513295478779904",
+      "quickComments": [],
+      "socialPermissionsPersonalTopicUrn": null,
+      "showPremiumAnalytics": false,
+      "$recipeTypes": [
+        "com.linkedin.e85f5a0f1e4714ac12c0913db289e5c9"
+      ],
+      "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+      "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:activity:7172513295478779904,urn:li:fsd_profile:ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI)",
+      "feedDetailSocialActionPromptType": null,
+      "allowedCommentersScope": "ALL",
+      "reactionsOnCommentsTopicUrn": null,
+      "entityUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7172513295478779904,urn:li:activity:7172513295478779904,urn:li:highlightedReply:-)",
+      "socialUpdateType": null,
+      "reactionSummariesTopicUrn": null,
+      "commentsTopicUrn": null,
+      "reactionsTopicUrn": null,
+      "reshareUpdateUrn": null,
+      "socialDetailsTopicUrn": null,
+      "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:activity:7172513295478779904",
+      "commentSocialPermissionsTopicUrn": null
+    },
+    {
+      "hideSocialCountsIfAllowed": false,
+      "threadUrn": "urn:li:activity:7207677316288700416",
+      "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:activity:7207677316288700416",
+      "quickComments": [],
+      "socialPermissionsPersonalTopicUrn": null,
+      "showPremiumAnalytics": false,
+      "$recipeTypes": [
+        "com.linkedin.e85f5a0f1e4714ac12c0913db289e5c9"
+      ],
+      "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+      "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:activity:7207677316288700416,urn:li:fsd_profile:ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI)",
+      "feedDetailSocialActionPromptType": null,
+      "allowedCommentersScope": "ALL",
+      "reactionsOnCommentsTopicUrn": null,
+      "entityUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7207677316288700416,urn:li:activity:7207677316288700416,urn:li:highlightedReply:-)",
+      "socialUpdateType": null,
+      "reactionSummariesTopicUrn": null,
+      "commentsTopicUrn": null,
+      "reactionsTopicUrn": null,
+      "reshareUpdateUrn": null,
+      "socialDetailsTopicUrn": null,
+      "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:activity:7207677316288700416",
+      "commentSocialPermissionsTopicUrn": null
+    },
+    {
+      "hideSocialCountsIfAllowed": false,
+      "threadUrn": "urn:li:activity:7172870026138447873",
+      "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:activity:7172870026138447873",
+      "quickComments": [],
+      "socialPermissionsPersonalTopicUrn": null,
+      "showPremiumAnalytics": false,
+      "$recipeTypes": [
+        "com.linkedin.e85f5a0f1e4714ac12c0913db289e5c9"
+      ],
+      "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+      "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:activity:7172870026138447873,urn:li:fsd_profile:ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI)",
+      "feedDetailSocialActionPromptType": null,
+      "allowedCommentersScope": "ALL",
+      "reactionsOnCommentsTopicUrn": null,
+      "entityUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7172870026138447873,urn:li:activity:7172870026138447873,urn:li:highlightedReply:-)",
+      "socialUpdateType": null,
+      "reactionSummariesTopicUrn": null,
+      "commentsTopicUrn": null,
+      "reactionsTopicUrn": null,
+      "reshareUpdateUrn": null,
+      "socialDetailsTopicUrn": null,
+      "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:activity:7172870026138447873",
+      "commentSocialPermissionsTopicUrn": null
+    },
+    {
+      "hideSocialCountsIfAllowed": false,
+      "threadUrn": "urn:li:activity:7244098777085579264",
+      "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:activity:7244098777085579264",
+      "quickComments": [],
+      "socialPermissionsPersonalTopicUrn": null,
+      "showPremiumAnalytics": false,
+      "$recipeTypes": [
+        "com.linkedin.e85f5a0f1e4714ac12c0913db289e5c9"
+      ],
+      "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+      "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:activity:7244098777085579264,urn:li:fsd_profile:ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI)",
+      "feedDetailSocialActionPromptType": null,
+      "allowedCommentersScope": "ALL",
+      "reactionsOnCommentsTopicUrn": null,
+      "entityUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7244098777085579264,urn:li:activity:7244098777085579264,urn:li:highlightedReply:-)",
+      "socialUpdateType": null,
+      "reactionSummariesTopicUrn": null,
+      "commentsTopicUrn": null,
+      "reactionsTopicUrn": null,
+      "reshareUpdateUrn": null,
+      "socialDetailsTopicUrn": null,
+      "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:activity:7244098777085579264",
+      "commentSocialPermissionsTopicUrn": null
+    },
+    {
+      "hideSocialCountsIfAllowed": false,
+      "threadUrn": "urn:li:activity:7183436087762055170",
+      "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:activity:7183436087762055170",
+      "quickComments": [],
+      "socialPermissionsPersonalTopicUrn": null,
+      "showPremiumAnalytics": false,
+      "$recipeTypes": [
+        "com.linkedin.e85f5a0f1e4714ac12c0913db289e5c9"
+      ],
+      "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+      "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:activity:7183436087762055170,urn:li:fsd_profile:ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI)",
+      "feedDetailSocialActionPromptType": null,
+      "allowedCommentersScope": "ALL",
+      "reactionsOnCommentsTopicUrn": null,
+      "entityUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7183436087762055170,urn:li:activity:7183436087762055170,urn:li:highlightedReply:-)",
+      "socialUpdateType": null,
+      "reactionSummariesTopicUrn": null,
+      "commentsTopicUrn": null,
+      "reactionsTopicUrn": null,
+      "reshareUpdateUrn": null,
+      "socialDetailsTopicUrn": null,
+      "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:activity:7183436087762055170",
+      "commentSocialPermissionsTopicUrn": null
+    },
+    {
+      "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:activity:7272884352638742528,urn:li:fsd_profile:ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI)",
+      "messagePermission": "PUBLIC",
+      "canShare": true,
+      "canReact": true,
+      "canPostComments": true,
+      "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:activity:7272884352638742528,urn:li:fs_profile:(ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI,en_US))",
+      "$recipeTypes": [
+        "com.linkedin.f7b72e99f12c808f4f15c6b1bdd3b90c"
+      ],
+      "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+    },
+    {
+      "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:activity:7172870026138447873,urn:li:fsd_profile:ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI)",
+      "messagePermission": "PUBLIC",
+      "canShare": true,
+      "canReact": true,
+      "canPostComments": true,
+      "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:activity:7172870026138447873,urn:li:fs_profile:(ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI,en_US))",
+      "$recipeTypes": [
+        "com.linkedin.f7b72e99f12c808f4f15c6b1bdd3b90c"
+      ],
+      "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+    },
+    {
+      "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:activity:7207677316288700416,urn:li:fsd_profile:ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI)",
+      "messagePermission": "PUBLIC",
+      "canShare": true,
+      "canReact": true,
+      "canPostComments": true,
+      "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:activity:7207677316288700416,urn:li:fs_profile:(ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI,en_US))",
+      "$recipeTypes": [
+        "com.linkedin.f7b72e99f12c808f4f15c6b1bdd3b90c"
+      ],
+      "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+    },
+    {
+      "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:activity:7183436087762055170,urn:li:fsd_profile:ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI)",
+      "messagePermission": "PUBLIC",
+      "canShare": true,
+      "canReact": true,
+      "canPostComments": true,
+      "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:activity:7183436087762055170,urn:li:fs_profile:(ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI,en_US))",
+      "$recipeTypes": [
+        "com.linkedin.f7b72e99f12c808f4f15c6b1bdd3b90c"
+      ],
+      "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+    },
+    {
+      "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:activity:7172513295478779904,urn:li:fsd_profile:ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI)",
+      "messagePermission": "PUBLIC",
+      "canShare": true,
+      "canReact": true,
+      "canPostComments": true,
+      "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:activity:7172513295478779904,urn:li:fs_profile:(ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI,en_US))",
+      "$recipeTypes": [
+        "com.linkedin.f7b72e99f12c808f4f15c6b1bdd3b90c"
+      ],
+      "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+    },
+    {
+      "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:activity:7244098777085579264,urn:li:fsd_profile:ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI)",
+      "messagePermission": "PUBLIC",
+      "canShare": true,
+      "canReact": true,
+      "canPostComments": true,
+      "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:activity:7244098777085579264,urn:li:fs_profile:(ACoAAFX0wTUB04ksYQzuzdEgmC8zKZR2mMuAzlI,en_US))",
+      "$recipeTypes": [
+        "com.linkedin.f7b72e99f12c808f4f15c6b1bdd3b90c"
+      ],
+      "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+    }
+  ]
+}

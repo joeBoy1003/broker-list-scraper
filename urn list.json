@@ -1,0 +1,3222 @@
+{
+    "data": {
+        "data": {
+            "searchDashClustersByAll": {
+                "metadata": {
+                    "entityResultAttributes": null,
+                    "bserpPaginationContext": null,
+                    "totalResultCount": 8077,
+                    "searchAlert": null,
+                    "secondaryFilterCluster": null,
+                    "$recipeTypes": [
+                        "com.linkedin.dfce49e2c6bb412fb4161cbbc7190d0d"
+                    ],
+                    "lazyRightRail": null,
+                    "queryType": null,
+                    "$type": "com.linkedin.voyager.dash.search.SearchClusterCollectionMetadata",
+                    "primaryResultType": "COMPANIES",
+                    "paginationToken": null,
+                    "primaryFilterCluster": null,
+                    "blockedQuery": false,
+                    "entityActionButtonStyle": null,
+                    "searchId": "da49949b-b308-44fe-b7a5-8f9a7431844a",
+                    "filterAppliedCount": 0,
+                    "clusterTitleFontSize": null,
+                    "simpleInsightAttributes": null,
+                    "desktopNavigationPanelTrackingId": null,
+                    "knowledgeCardRightRail": null
+                },
+                "paging": {
+                    "count": 10,
+                    "start": 0,
+                    "total": 1000,
+                    "$recipeTypes": [
+                        "com.linkedin.81b214c2cdd4f02cdb7d827958d2f3a1"
+                    ],
+                    "$type": "com.linkedin.restli.common.CollectionMetadata"
+                },
+                "$recipeTypes": [
+                    "com.linkedin.5f1d22f924ecb6a031ee124b8b767900"
+                ],
+                "elements": [
+                    {
+                        "image": null,
+                        "quickFilterActions": [],
+                        "clusterRenderType": "LIST",
+                        "dismissable": false,
+                        "totalResultCount": null,
+                        "controlName": null,
+                        "description": null,
+                        "title": null,
+                        "$recipeTypes": [
+                            "com.linkedin.5c853aba2154c55483e72bf6cdfaaf3e"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.search.SearchClusterViewModel",
+                        "actionTypeName": null,
+                        "navigationText": null,
+                        "feature": null,
+                        "navigationCardAction": null,
+                        "position": 1,
+                        "items": [
+                            {
+                                "item": {
+                                    "entityResult": null,
+                                    "cluster": null,
+                                    "fifComponentCard": null,
+                                    "bannerCard": null,
+                                    "searchAlert": null,
+                                    "upsellSlot": null,
+                                    "coachRealtimeResponse": null,
+                                    "searchSuggestionCard": null,
+                                    "coachPromptCluster": null,
+                                    "feedbackCard": null,
+                                    "knowledgeCardV2": null,
+                                    "keywordsSuggestionCard": null,
+                                    "queryClarificationCard": null,
+                                    "topicalQuestionCard": null,
+                                    "simpleTextV2": {
+                                        "showDashes": false,
+                                        "textAlignment": "LEFT",
+                                        "numDashes": 0,
+                                        "text": {
+                                            "textDirection": "USER_LOCALE",
+                                            "text": "About 8,000 results",
+                                            "attributesV2": [],
+                                            "accessibilityTextAttributesV2": [],
+                                            "accessibilityText": null,
+                                            "$recipeTypes": [
+                                                "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                                            ],
+                                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                                        },
+                                        "$recipeTypes": [
+                                            "com.linkedin.5bbb553a55f0e4d13343716ac69b5f48"
+                                        ],
+                                        "$type": "com.linkedin.voyager.dash.search.SimpleText"
+                                    },
+                                    "promoCard": null,
+                                    "searchFeedUpdate": null,
+                                    "searchQuestionAndAnswerCard": null,
+                                    "centeredText": null,
+                                    "simpleImage": null
+                                },
+                                "position": 1,
+                                "$recipeTypes": [
+                                    "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+                            }
+                        ],
+                        "results": [],
+                        "trackingId": "û¿m\u001bYKi uÍ\u0010-$"
+                    },
+                    {
+                        "image": null,
+                        "quickFilterActions": [],
+                        "clusterRenderType": "LIST",
+                        "dismissable": false,
+                        "totalResultCount": null,
+                        "controlName": null,
+                        "description": null,
+                        "title": null,
+                        "$recipeTypes": [
+                            "com.linkedin.5c853aba2154c55483e72bf6cdfaaf3e"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.search.SearchClusterViewModel",
+                        "actionTypeName": null,
+                        "navigationText": null,
+                        "feature": null,
+                        "navigationCardAction": null,
+                        "position": 2,
+                        "items": [
+                            {
+                                "item": {
+                                    "cluster": null,
+                                    "fifComponentCard": null,
+                                    "bannerCard": null,
+                                    "searchAlert": null,
+                                    "upsellSlot": null,
+                                    "coachRealtimeResponse": null,
+                                    "searchSuggestionCard": null,
+                                    "coachPromptCluster": null,
+                                    "feedbackCard": null,
+                                    "knowledgeCardV2": null,
+                                    "keywordsSuggestionCard": null,
+                                    "queryClarificationCard": null,
+                                    "topicalQuestionCard": null,
+                                    "*entityResult": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:37530211,SEARCH_SRP,DEFAULT)",
+                                    "simpleTextV2": null,
+                                    "promoCard": null,
+                                    "searchFeedUpdate": null,
+                                    "searchQuestionAndAnswerCard": null,
+                                    "centeredText": null,
+                                    "simpleImage": null
+                                },
+                                "position": 1,
+                                "$recipeTypes": [
+                                    "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+                            },
+                            {
+                                "item": {
+                                    "cluster": null,
+                                    "fifComponentCard": null,
+                                    "bannerCard": null,
+                                    "searchAlert": null,
+                                    "upsellSlot": null,
+                                    "coachRealtimeResponse": null,
+                                    "searchSuggestionCard": null,
+                                    "coachPromptCluster": null,
+                                    "feedbackCard": null,
+                                    "knowledgeCardV2": null,
+                                    "keywordsSuggestionCard": null,
+                                    "queryClarificationCard": null,
+                                    "topicalQuestionCard": null,
+                                    "*entityResult": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:271832,SEARCH_SRP,DEFAULT)",
+                                    "simpleTextV2": null,
+                                    "promoCard": null,
+                                    "searchFeedUpdate": null,
+                                    "searchQuestionAndAnswerCard": null,
+                                    "centeredText": null,
+                                    "simpleImage": null
+                                },
+                                "position": 2,
+                                "$recipeTypes": [
+                                    "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+                            },
+                            {
+                                "item": {
+                                    "cluster": null,
+                                    "fifComponentCard": null,
+                                    "bannerCard": null,
+                                    "searchAlert": null,
+                                    "upsellSlot": null,
+                                    "coachRealtimeResponse": null,
+                                    "searchSuggestionCard": null,
+                                    "coachPromptCluster": null,
+                                    "feedbackCard": null,
+                                    "knowledgeCardV2": null,
+                                    "keywordsSuggestionCard": null,
+                                    "queryClarificationCard": null,
+                                    "topicalQuestionCard": null,
+                                    "*entityResult": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:28697566,SEARCH_SRP,DEFAULT)",
+                                    "simpleTextV2": null,
+                                    "promoCard": null,
+                                    "searchFeedUpdate": null,
+                                    "searchQuestionAndAnswerCard": null,
+                                    "centeredText": null,
+                                    "simpleImage": null
+                                },
+                                "position": 3,
+                                "$recipeTypes": [
+                                    "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+                            },
+                            {
+                                "item": {
+                                    "cluster": null,
+                                    "fifComponentCard": null,
+                                    "bannerCard": null,
+                                    "searchAlert": null,
+                                    "upsellSlot": null,
+                                    "coachRealtimeResponse": null,
+                                    "searchSuggestionCard": null,
+                                    "coachPromptCluster": null,
+                                    "feedbackCard": null,
+                                    "knowledgeCardV2": null,
+                                    "keywordsSuggestionCard": null,
+                                    "queryClarificationCard": null,
+                                    "topicalQuestionCard": null,
+                                    "*entityResult": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:68562546,SEARCH_SRP,DEFAULT)",
+                                    "simpleTextV2": null,
+                                    "promoCard": null,
+                                    "searchFeedUpdate": null,
+                                    "searchQuestionAndAnswerCard": null,
+                                    "centeredText": null,
+                                    "simpleImage": null
+                                },
+                                "position": 4,
+                                "$recipeTypes": [
+                                    "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+                            },
+                            {
+                                "item": {
+                                    "cluster": null,
+                                    "fifComponentCard": null,
+                                    "bannerCard": null,
+                                    "searchAlert": null,
+                                    "upsellSlot": null,
+                                    "coachRealtimeResponse": null,
+                                    "searchSuggestionCard": null,
+                                    "coachPromptCluster": null,
+                                    "feedbackCard": null,
+                                    "knowledgeCardV2": null,
+                                    "keywordsSuggestionCard": null,
+                                    "queryClarificationCard": null,
+                                    "topicalQuestionCard": null,
+                                    "*entityResult": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:10998,SEARCH_SRP,DEFAULT)",
+                                    "simpleTextV2": null,
+                                    "promoCard": null,
+                                    "searchFeedUpdate": null,
+                                    "searchQuestionAndAnswerCard": null,
+                                    "centeredText": null,
+                                    "simpleImage": null
+                                },
+                                "position": 5,
+                                "$recipeTypes": [
+                                    "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+                            },
+                            {
+                                "item": {
+                                    "cluster": null,
+                                    "fifComponentCard": null,
+                                    "bannerCard": null,
+                                    "searchAlert": null,
+                                    "upsellSlot": null,
+                                    "coachRealtimeResponse": null,
+                                    "searchSuggestionCard": null,
+                                    "coachPromptCluster": null,
+                                    "feedbackCard": null,
+                                    "knowledgeCardV2": null,
+                                    "keywordsSuggestionCard": null,
+                                    "queryClarificationCard": null,
+                                    "topicalQuestionCard": null,
+                                    "*entityResult": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:35804,SEARCH_SRP,DEFAULT)",
+                                    "simpleTextV2": null,
+                                    "promoCard": null,
+                                    "searchFeedUpdate": null,
+                                    "searchQuestionAndAnswerCard": null,
+                                    "centeredText": null,
+                                    "simpleImage": null
+                                },
+                                "position": 6,
+                                "$recipeTypes": [
+                                    "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+                            },
+                            {
+                                "item": {
+                                    "cluster": null,
+                                    "fifComponentCard": null,
+                                    "bannerCard": null,
+                                    "searchAlert": null,
+                                    "upsellSlot": null,
+                                    "coachRealtimeResponse": null,
+                                    "searchSuggestionCard": null,
+                                    "coachPromptCluster": null,
+                                    "feedbackCard": null,
+                                    "knowledgeCardV2": null,
+                                    "keywordsSuggestionCard": null,
+                                    "queryClarificationCard": null,
+                                    "topicalQuestionCard": null,
+                                    "*entityResult": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:18410,SEARCH_SRP,DEFAULT)",
+                                    "simpleTextV2": null,
+                                    "promoCard": null,
+                                    "searchFeedUpdate": null,
+                                    "searchQuestionAndAnswerCard": null,
+                                    "centeredText": null,
+                                    "simpleImage": null
+                                },
+                                "position": 7,
+                                "$recipeTypes": [
+                                    "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+                            },
+                            {
+                                "item": {
+                                    "cluster": null,
+                                    "fifComponentCard": null,
+                                    "bannerCard": null,
+                                    "searchAlert": null,
+                                    "upsellSlot": null,
+                                    "coachRealtimeResponse": null,
+                                    "searchSuggestionCard": null,
+                                    "coachPromptCluster": null,
+                                    "feedbackCard": null,
+                                    "knowledgeCardV2": null,
+                                    "keywordsSuggestionCard": null,
+                                    "queryClarificationCard": null,
+                                    "topicalQuestionCard": null,
+                                    "*entityResult": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:142074,SEARCH_SRP,DEFAULT)",
+                                    "simpleTextV2": null,
+                                    "promoCard": null,
+                                    "searchFeedUpdate": null,
+                                    "searchQuestionAndAnswerCard": null,
+                                    "centeredText": null,
+                                    "simpleImage": null
+                                },
+                                "position": 8,
+                                "$recipeTypes": [
+                                    "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+                            },
+                            {
+                                "item": {
+                                    "cluster": null,
+                                    "fifComponentCard": null,
+                                    "bannerCard": null,
+                                    "searchAlert": null,
+                                    "upsellSlot": null,
+                                    "coachRealtimeResponse": null,
+                                    "searchSuggestionCard": null,
+                                    "coachPromptCluster": null,
+                                    "feedbackCard": null,
+                                    "knowledgeCardV2": null,
+                                    "keywordsSuggestionCard": null,
+                                    "queryClarificationCard": null,
+                                    "topicalQuestionCard": null,
+                                    "*entityResult": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:14631800,SEARCH_SRP,DEFAULT)",
+                                    "simpleTextV2": null,
+                                    "promoCard": null,
+                                    "searchFeedUpdate": null,
+                                    "searchQuestionAndAnswerCard": null,
+                                    "centeredText": null,
+                                    "simpleImage": null
+                                },
+                                "position": 9,
+                                "$recipeTypes": [
+                                    "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+                            },
+                            {
+                                "item": {
+                                    "cluster": null,
+                                    "fifComponentCard": null,
+                                    "bannerCard": null,
+                                    "searchAlert": null,
+                                    "upsellSlot": null,
+                                    "coachRealtimeResponse": null,
+                                    "searchSuggestionCard": null,
+                                    "coachPromptCluster": null,
+                                    "feedbackCard": null,
+                                    "knowledgeCardV2": null,
+                                    "keywordsSuggestionCard": null,
+                                    "queryClarificationCard": null,
+                                    "topicalQuestionCard": null,
+                                    "*entityResult": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:3688218,SEARCH_SRP,DEFAULT)",
+                                    "simpleTextV2": null,
+                                    "promoCard": null,
+                                    "searchFeedUpdate": null,
+                                    "searchQuestionAndAnswerCard": null,
+                                    "centeredText": null,
+                                    "simpleImage": null
+                                },
+                                "position": 10,
+                                "$recipeTypes": [
+                                    "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+                            }
+                        ],
+                        "results": [],
+                        "trackingId": "b\tè?ÛnF@Á\u0006\nC4o"
+                    },
+                    {
+                        "image": null,
+                        "quickFilterActions": [],
+                        "clusterRenderType": "LIST",
+                        "dismissable": false,
+                        "totalResultCount": null,
+                        "controlName": null,
+                        "description": null,
+                        "title": null,
+                        "$recipeTypes": [
+                            "com.linkedin.5c853aba2154c55483e72bf6cdfaaf3e"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.search.SearchClusterViewModel",
+                        "actionTypeName": null,
+                        "navigationText": null,
+                        "feature": null,
+                        "navigationCardAction": null,
+                        "position": 3,
+                        "items": [
+                            {
+                                "item": {
+                                    "entityResult": null,
+                                    "cluster": null,
+                                    "fifComponentCard": null,
+                                    "bannerCard": null,
+                                    "searchAlert": null,
+                                    "*feedbackCard": "urn:li:fsd_feedbackCard:SRP_FEEDBACK_COMPANIES",
+                                    "upsellSlot": null,
+                                    "coachRealtimeResponse": null,
+                                    "searchSuggestionCard": null,
+                                    "coachPromptCluster": null,
+                                    "knowledgeCardV2": null,
+                                    "keywordsSuggestionCard": null,
+                                    "queryClarificationCard": null,
+                                    "topicalQuestionCard": null,
+                                    "simpleTextV2": null,
+                                    "promoCard": null,
+                                    "searchFeedUpdate": null,
+                                    "searchQuestionAndAnswerCard": null,
+                                    "centeredText": null,
+                                    "simpleImage": null
+                                },
+                                "position": 11,
+                                "$recipeTypes": [
+                                    "com.linkedin.edd11a570456ce19ca1f5ec3c9bb03c1"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchItem"
+                            }
+                        ],
+                        "results": [],
+                        "trackingId": "ûÃGu\u0003uCÇ"
+                    }
+                ],
+                "$type": "com.linkedin.restli.common.CollectionResponse"
+            },
+            "$recipeTypes": [
+                "com.linkedin.c293aa010e51bae32433eeb13b1682fa"
+            ],
+            "$type": "com.linkedin.c293aa010e51bae32433eeb13b1682fa"
+        }
+    },
+    "included": [
+        {
+            "entityUrn": "urn:li:fsd_company:271832",
+            "$recipeTypes": [
+                "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:10998",
+            "$recipeTypes": [
+                "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:142074",
+            "$recipeTypes": [
+                "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:28697566",
+            "$recipeTypes": [
+                "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:18410",
+            "$recipeTypes": [
+                "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:14631800",
+            "$recipeTypes": [
+                "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:35804",
+            "$recipeTypes": [
+                "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:37530211",
+            "$recipeTypes": [
+                "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:68562546",
+            "$recipeTypes": [
+                "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_company:3688218",
+            "$recipeTypes": [
+                "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "template": "UNIVERSAL",
+            "actorNavigationContext": null,
+            "bserpEntityNavigationalUrl": "https://www.linkedin.com/search/results/all/?keywords=Dubai%20Electricity%20%26%20Water%20Authority%20-%20DEWA&origin=ENTITY_SEARCH_HOME_HISTORY&heroEntityKey=urn%3Ali%3Aorganization%3A35804",
+            "trackingUrn": "urn:li:company:35804",
+            "controlName": null,
+            "interstitialComponent": null,
+            "primaryActions": [],
+            "entityCustomTrackingInfo": null,
+            "badgeData": null,
+            "title": {
+                "textDirection": "USER_LOCALE",
+                "text": "Dubai Electricity & Water Authority - DEWA",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "overflowActions": [],
+            "*lazyLoadedActions": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:35804,COMPANIES,SEARCH_SRP)",
+            "searchActionType": null,
+            "actorInsights": [],
+            "insightsResolutionResults": [],
+            "badgeIcon": null,
+            "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:35804,SEARCH_SRP,DEFAULT)",
+            "showAdditionalCluster": false,
+            "ringStatus": null,
+            "primarySubtitle": {
+                "textDirection": "USER_LOCALE",
+                "text": "Utilities • Dubai, Dubai",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "badgeText": null,
+            "trackingId": "FKvfgW6oRcKjnSJVHUB0cg==",
+            "summary": {
+                "textDirection": "USER_LOCALE",
+                "text": "Dubai Electricity and Water Authority (DEWA), established on 1 January 1992, stands at the forefront of sustainable energy and water management. With a dedicated workforce of over 11,000 employees, we ensure reliable services across the entire chain of electricity and water production, transmission, and distribution...",
+                "attributesV2": [
+                    {
+                        "start": 0,
+                        "length": 5,
+                        "detailData": {
+                            "jobPostingName": null,
+                            "hyperlink": null,
+                            "profileFamiliarName": null,
+                            "color": null,
+                            "companyName": null,
+                            "icon": null,
+                            "epoch": null,
+                            "systemImage": null,
+                            "textLink": null,
+                            "listItemStyle": null,
+                            "groupName": null,
+                            "hyperlinkOpenExternally": null,
+                            "listStyle": null,
+                            "profileFullName": null,
+                            "stringFieldReference": null,
+                            "learningCourseName": null,
+                            "profileMention": null,
+                            "style": "BOLD",
+                            "schoolName": null,
+                            "hashtag": null
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+                    }
+                ],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "addEntityToSearchHistory": true,
+            "actorNavigationUrl": null,
+            "image": {
+                "attributes": [
+                    {
+                        "scalingType": null,
+                        "detailData": {
+                            "profilePictureWithoutFrame": null,
+                            "profilePictureWithRingStatus": null,
+                            "companyLogo": null,
+                            "icon": null,
+                            "systemImage": null,
+                            "nonEntityGroupLogo": null,
+                            "vectorImage": null,
+                            "nonEntityProfessionalEventLogo": null,
+                            "profilePicture": null,
+                            "imageUrl": null,
+                            "professionalEventLogo": null,
+                            "nonEntityCompanyLogo": {
+                                "*company": "urn:li:fsd_company:35804",
+                                "$recipeTypes": [
+                                    "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c"
+                                ],
+                                "vectorImage": {
+                                    "digitalmediaAsset": null,
+                                    "attribution": null,
+                                    "c2paManifestData": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9"
+                                    ],
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "$recipeTypes": [
+                                                "com.linkedin.f0f435b4425ee2990eba8f0a4d614944"
+                                            ],
+                                            "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D4D0BAQGvbCpfrSWc2w/company-logo_100_100/company-logo_100_100/0/1704205332146?e=1748476800&v=beta&t=P0pR-teBut9EtQGYaTzLsnUlepJdDYWxTV60G4gdPLE",
+                                            "expiresAt": 1748476800000,
+                                            "height": 100,
+                                            "$type": "com.linkedin.common.VectorArtifact"
+                                        }
+                                    ],
+                                    "rootUrl": "",
+                                    "$type": "com.linkedin.common.VectorImage"
+                                },
+                                "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                            },
+                            "nonEntitySchoolLogo": null,
+                            "groupLogo": null,
+                            "schoolLogo": null,
+                            "ghostImage": null,
+                            "nonEntityProfilePicture": null
+                        },
+                        "tintColor": null,
+                        "$recipeTypes": [
+                            "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+                        ],
+                        "tapTargets": [],
+                        "displayAspectRatio": null,
+                        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                    }
+                ],
+                "editableAccessibilityText": false,
+                "actionTarget": null,
+                "accessibilityTextAttributes": [],
+                "totalCount": null,
+                "accessibilityText": "Dubai Electricity & Water Authority - DEWA",
+                "$recipeTypes": [
+                    "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+            },
+            "secondarySubtitle": {
+                "textDirection": "USER_LOCALE",
+                "text": "631K followers",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "navigationUrl": "https://www.linkedin.com/company/dewaofficial/",
+            "entityEmbeddedObject": null,
+            "unreadIndicatorDetails": null,
+            "$recipeTypes": [
+                "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109"
+            ],
+            "target": null,
+            "$type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+            "actorTrackingUrn": null,
+            "navigationContext": {
+                "openExternally": false,
+                "$recipeTypes": [
+                    "com.linkedin.55ee9afd4182671fe7e271f615659525"
+                ],
+                "url": "https://www.linkedin.com/company/dewaofficial/",
+                "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+            }
+        },
+        {
+            "template": "UNIVERSAL",
+            "actorNavigationContext": null,
+            "bserpEntityNavigationalUrl": "https://www.linkedin.com/search/results/all/?keywords=Dubai%20Properties%20%28DP%29&origin=ENTITY_SEARCH_HOME_HISTORY&heroEntityKey=urn%3Ali%3Aorganization%3A3688218",
+            "trackingUrn": "urn:li:company:3688218",
+            "controlName": null,
+            "interstitialComponent": null,
+            "primaryActions": [],
+            "entityCustomTrackingInfo": null,
+            "badgeData": null,
+            "title": {
+                "textDirection": "USER_LOCALE",
+                "text": "Dubai Properties (DP)",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "overflowActions": [],
+            "*lazyLoadedActions": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:3688218,COMPANIES,SEARCH_SRP)",
+            "searchActionType": null,
+            "actorInsights": [],
+            "insightsResolutionResults": [],
+            "badgeIcon": null,
+            "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:3688218,SEARCH_SRP,DEFAULT)",
+            "showAdditionalCluster": false,
+            "ringStatus": null,
+            "primarySubtitle": {
+                "textDirection": "USER_LOCALE",
+                "text": "Real Estate • Dubai",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "badgeText": null,
+            "trackingId": "XKvI+v+PQea40jxihJxYJQ==",
+            "summary": {
+                "textDirection": "USER_LOCALE",
+                "text": "Dubai Properties leverages its impressive legacy as a reliable developer to elevate Dubai’s status as a global icon. With almost two decades of expertise designing and developing sought-after residential master communities across waterfront, urban, and suburban locations, Dubai Properties addresses every aspect...",
+                "attributesV2": [
+                    {
+                        "start": 0,
+                        "length": 5,
+                        "detailData": {
+                            "jobPostingName": null,
+                            "hyperlink": null,
+                            "profileFamiliarName": null,
+                            "color": null,
+                            "companyName": null,
+                            "icon": null,
+                            "epoch": null,
+                            "systemImage": null,
+                            "textLink": null,
+                            "listItemStyle": null,
+                            "groupName": null,
+                            "hyperlinkOpenExternally": null,
+                            "listStyle": null,
+                            "profileFullName": null,
+                            "stringFieldReference": null,
+                            "learningCourseName": null,
+                            "profileMention": null,
+                            "style": "BOLD",
+                            "schoolName": null,
+                            "hashtag": null
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+                    },
+                    {
+                        "start": 273,
+                        "length": 5,
+                        "detailData": {
+                            "jobPostingName": null,
+                            "hyperlink": null,
+                            "profileFamiliarName": null,
+                            "color": null,
+                            "companyName": null,
+                            "icon": null,
+                            "epoch": null,
+                            "systemImage": null,
+                            "textLink": null,
+                            "listItemStyle": null,
+                            "groupName": null,
+                            "hyperlinkOpenExternally": null,
+                            "listStyle": null,
+                            "profileFullName": null,
+                            "stringFieldReference": null,
+                            "learningCourseName": null,
+                            "profileMention": null,
+                            "style": "BOLD",
+                            "schoolName": null,
+                            "hashtag": null
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+                    }
+                ],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "addEntityToSearchHistory": true,
+            "actorNavigationUrl": null,
+            "image": {
+                "attributes": [
+                    {
+                        "scalingType": null,
+                        "detailData": {
+                            "profilePictureWithoutFrame": null,
+                            "profilePictureWithRingStatus": null,
+                            "companyLogo": null,
+                            "icon": null,
+                            "systemImage": null,
+                            "nonEntityGroupLogo": null,
+                            "vectorImage": null,
+                            "nonEntityProfessionalEventLogo": null,
+                            "profilePicture": null,
+                            "imageUrl": null,
+                            "professionalEventLogo": null,
+                            "nonEntityCompanyLogo": {
+                                "*company": "urn:li:fsd_company:3688218",
+                                "$recipeTypes": [
+                                    "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c"
+                                ],
+                                "vectorImage": {
+                                    "digitalmediaAsset": null,
+                                    "attribution": null,
+                                    "c2paManifestData": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9"
+                                    ],
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "$recipeTypes": [
+                                                "com.linkedin.f0f435b4425ee2990eba8f0a4d614944"
+                                            ],
+                                            "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/C4D0BAQEU34osmXrFoA/company-logo_100_100/company-logo_100_100/0/1633525251531/dpuae_logo?e=1748476800&v=beta&t=7YTPlwQ5pKOSWAOJds8lOZ0z7IXGsdbx8wDJbcwm6Rc",
+                                            "expiresAt": 1748476800000,
+                                            "height": 100,
+                                            "$type": "com.linkedin.common.VectorArtifact"
+                                        }
+                                    ],
+                                    "rootUrl": "",
+                                    "$type": "com.linkedin.common.VectorImage"
+                                },
+                                "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                            },
+                            "nonEntitySchoolLogo": null,
+                            "groupLogo": null,
+                            "schoolLogo": null,
+                            "ghostImage": null,
+                            "nonEntityProfilePicture": null
+                        },
+                        "tintColor": null,
+                        "$recipeTypes": [
+                            "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+                        ],
+                        "tapTargets": [],
+                        "displayAspectRatio": null,
+                        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                    }
+                ],
+                "editableAccessibilityText": false,
+                "actionTarget": null,
+                "accessibilityTextAttributes": [],
+                "totalCount": null,
+                "accessibilityText": "Dubai Properties (DP)",
+                "$recipeTypes": [
+                    "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+            },
+            "secondarySubtitle": {
+                "textDirection": "USER_LOCALE",
+                "text": "294K followers",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "navigationUrl": "https://www.linkedin.com/company/dpuae/",
+            "entityEmbeddedObject": null,
+            "unreadIndicatorDetails": null,
+            "$recipeTypes": [
+                "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109"
+            ],
+            "target": null,
+            "$type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+            "actorTrackingUrn": null,
+            "navigationContext": {
+                "openExternally": false,
+                "$recipeTypes": [
+                    "com.linkedin.55ee9afd4182671fe7e271f615659525"
+                ],
+                "url": "https://www.linkedin.com/company/dpuae/",
+                "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+            }
+        },
+        {
+            "template": "UNIVERSAL",
+            "actorNavigationContext": null,
+            "bserpEntityNavigationalUrl": "https://www.linkedin.com/search/results/all/?keywords=Dubai%20Department%20of%20Economy%20and%20Tourism&origin=ENTITY_SEARCH_HOME_HISTORY&heroEntityKey=urn%3Ali%3Aorganization%3A142074",
+            "trackingUrn": "urn:li:company:142074",
+            "controlName": null,
+            "interstitialComponent": null,
+            "primaryActions": [],
+            "entityCustomTrackingInfo": null,
+            "badgeData": null,
+            "title": {
+                "textDirection": "USER_LOCALE",
+                "text": "Dubai Department of Economy and Tourism",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "overflowActions": [],
+            "*lazyLoadedActions": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:142074,COMPANIES,SEARCH_SRP)",
+            "searchActionType": null,
+            "actorInsights": [],
+            "insightsResolutionResults": [
+                {
+                    "jobPostingInsight": null,
+                    "relationshipsInsight": null,
+                    "serviceProviderRatingInsight": null,
+                    "simpleInsight": {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": "ASPECT_FIT",
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": "IC_BRIEFCASE_16DP",
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": null,
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "controlName": null,
+                        "navigationUrl": "https://www.linkedin.com/jobs/search?geoId=92000000&f_C=142074",
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "12 jobs",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.bd9a707a5b119c1f331373113f57344a"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.search.SimpleInsight",
+                        "searchActionType": "SEE_JOBS_AT_COMPANY",
+                        "subtitleMaxNumLines": 1,
+                        "titleFontSize": null,
+                        "subtitle": null,
+                        "subtitleFontSize": null,
+                        "titleMaxNumLines": 1
+                    },
+                    "jobPostingFooterInsight": null,
+                    "socialActivityCountsInsight": null,
+                    "labelsInsight": null,
+                    "premiumCustomCtaInsight": null
+                }
+            ],
+            "badgeIcon": null,
+            "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:142074,SEARCH_SRP,DEFAULT)",
+            "showAdditionalCluster": false,
+            "ringStatus": null,
+            "primarySubtitle": {
+                "textDirection": "USER_LOCALE",
+                "text": "Government Administration • Dubai, Dubai",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "badgeText": null,
+            "trackingId": "iAErOTHtR6mw8eX50jrEIQ==",
+            "summary": {
+                "textDirection": "USER_LOCALE",
+                "text": "With the ultimate vision of making Dubai the world’s leading commercial centre, investment hub and tourism destination, Dubai Department of Economy and Tourism...",
+                "attributesV2": [
+                    {
+                        "start": 35,
+                        "length": 5,
+                        "detailData": {
+                            "jobPostingName": null,
+                            "hyperlink": null,
+                            "profileFamiliarName": null,
+                            "color": null,
+                            "companyName": null,
+                            "icon": null,
+                            "epoch": null,
+                            "systemImage": null,
+                            "textLink": null,
+                            "listItemStyle": null,
+                            "groupName": null,
+                            "hyperlinkOpenExternally": null,
+                            "listStyle": null,
+                            "profileFullName": null,
+                            "stringFieldReference": null,
+                            "learningCourseName": null,
+                            "profileMention": null,
+                            "style": "BOLD",
+                            "schoolName": null,
+                            "hashtag": null
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+                    },
+                    {
+                        "start": 120,
+                        "length": 5,
+                        "detailData": {
+                            "jobPostingName": null,
+                            "hyperlink": null,
+                            "profileFamiliarName": null,
+                            "color": null,
+                            "companyName": null,
+                            "icon": null,
+                            "epoch": null,
+                            "systemImage": null,
+                            "textLink": null,
+                            "listItemStyle": null,
+                            "groupName": null,
+                            "hyperlinkOpenExternally": null,
+                            "listStyle": null,
+                            "profileFullName": null,
+                            "stringFieldReference": null,
+                            "learningCourseName": null,
+                            "profileMention": null,
+                            "style": "BOLD",
+                            "schoolName": null,
+                            "hashtag": null
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+                    }
+                ],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "addEntityToSearchHistory": true,
+            "actorNavigationUrl": null,
+            "image": {
+                "attributes": [
+                    {
+                        "scalingType": null,
+                        "detailData": {
+                            "profilePictureWithoutFrame": null,
+                            "profilePictureWithRingStatus": null,
+                            "companyLogo": null,
+                            "icon": null,
+                            "systemImage": null,
+                            "nonEntityGroupLogo": null,
+                            "vectorImage": null,
+                            "nonEntityProfessionalEventLogo": null,
+                            "profilePicture": null,
+                            "imageUrl": null,
+                            "professionalEventLogo": null,
+                            "nonEntityCompanyLogo": {
+                                "*company": "urn:li:fsd_company:142074",
+                                "$recipeTypes": [
+                                    "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c"
+                                ],
+                                "vectorImage": {
+                                    "digitalmediaAsset": null,
+                                    "attribution": null,
+                                    "c2paManifestData": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9"
+                                    ],
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "$recipeTypes": [
+                                                "com.linkedin.f0f435b4425ee2990eba8f0a4d614944"
+                                            ],
+                                            "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/C4D0BAQEdKH43Hzo4Fw/company-logo_100_100/company-logo_100_100/0/1677144964445/dubaieconomytourism_logo?e=1748476800&v=beta&t=EhIa8BJkF9_0uyQ9vzb1UuPgcn_oLnAberYA2g_SGhU",
+                                            "expiresAt": 1748476800000,
+                                            "height": 100,
+                                            "$type": "com.linkedin.common.VectorArtifact"
+                                        }
+                                    ],
+                                    "rootUrl": "",
+                                    "$type": "com.linkedin.common.VectorImage"
+                                },
+                                "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                            },
+                            "nonEntitySchoolLogo": null,
+                            "groupLogo": null,
+                            "schoolLogo": null,
+                            "ghostImage": null,
+                            "nonEntityProfilePicture": null
+                        },
+                        "tintColor": null,
+                        "$recipeTypes": [
+                            "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+                        ],
+                        "tapTargets": [],
+                        "displayAspectRatio": null,
+                        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                    }
+                ],
+                "editableAccessibilityText": false,
+                "actionTarget": null,
+                "accessibilityTextAttributes": [],
+                "totalCount": null,
+                "accessibilityText": "Dubai Department of Economy and Tourism",
+                "$recipeTypes": [
+                    "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+            },
+            "secondarySubtitle": {
+                "textDirection": "USER_LOCALE",
+                "text": "412K followers",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "navigationUrl": "https://www.linkedin.com/company/dubaieconomytourism/",
+            "entityEmbeddedObject": null,
+            "unreadIndicatorDetails": null,
+            "$recipeTypes": [
+                "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109"
+            ],
+            "target": null,
+            "$type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+            "actorTrackingUrn": null,
+            "navigationContext": {
+                "openExternally": false,
+                "$recipeTypes": [
+                    "com.linkedin.55ee9afd4182671fe7e271f615659525"
+                ],
+                "url": "https://www.linkedin.com/company/dubaieconomytourism/",
+                "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+            }
+        },
+        {
+            "template": "UNIVERSAL",
+            "actorNavigationContext": null,
+            "bserpEntityNavigationalUrl": "https://www.linkedin.com/search/results/all/?keywords=Dubai%20Vacancy%20%7C%20Dubai%20Jobs%20%7C%20Gulf%20Careers&origin=ENTITY_SEARCH_HOME_HISTORY&heroEntityKey=urn%3Ali%3Aorganization%3A37530211",
+            "trackingUrn": "urn:li:company:37530211",
+            "controlName": null,
+            "interstitialComponent": null,
+            "primaryActions": [],
+            "entityCustomTrackingInfo": null,
+            "badgeData": null,
+            "title": {
+                "textDirection": "USER_LOCALE",
+                "text": "Dubai Vacancy | Dubai Jobs | Gulf Careers",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "overflowActions": [],
+            "*lazyLoadedActions": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:37530211,COMPANIES,SEARCH_SRP)",
+            "searchActionType": null,
+            "actorInsights": [],
+            "insightsResolutionResults": [],
+            "badgeIcon": null,
+            "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:37530211,SEARCH_SRP,DEFAULT)",
+            "showAdditionalCluster": false,
+            "ringStatus": null,
+            "primarySubtitle": {
+                "textDirection": "USER_LOCALE",
+                "text": "Staffing and Recruiting • Dubai, Dubai",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "badgeText": null,
+            "trackingId": "YzE9qfTtRiui01XSBRJdNQ==",
+            "summary": {
+                "textDirection": "USER_LOCALE",
+                "text": "Dubai Careers | Dubai Jobs | Gulf Jobs | Oman Careers | Bahrain Jobs | Qatar Jobs | U.A.E. Jobs",
+                "attributesV2": [
+                    {
+                        "start": 0,
+                        "length": 5,
+                        "detailData": {
+                            "jobPostingName": null,
+                            "hyperlink": null,
+                            "profileFamiliarName": null,
+                            "color": null,
+                            "companyName": null,
+                            "icon": null,
+                            "epoch": null,
+                            "systemImage": null,
+                            "textLink": null,
+                            "listItemStyle": null,
+                            "groupName": null,
+                            "hyperlinkOpenExternally": null,
+                            "listStyle": null,
+                            "profileFullName": null,
+                            "stringFieldReference": null,
+                            "learningCourseName": null,
+                            "profileMention": null,
+                            "style": "BOLD",
+                            "schoolName": null,
+                            "hashtag": null
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+                    },
+                    {
+                        "start": 16,
+                        "length": 5,
+                        "detailData": {
+                            "jobPostingName": null,
+                            "hyperlink": null,
+                            "profileFamiliarName": null,
+                            "color": null,
+                            "companyName": null,
+                            "icon": null,
+                            "epoch": null,
+                            "systemImage": null,
+                            "textLink": null,
+                            "listItemStyle": null,
+                            "groupName": null,
+                            "hyperlinkOpenExternally": null,
+                            "listStyle": null,
+                            "profileFullName": null,
+                            "stringFieldReference": null,
+                            "learningCourseName": null,
+                            "profileMention": null,
+                            "style": "BOLD",
+                            "schoolName": null,
+                            "hashtag": null
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+                    }
+                ],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "addEntityToSearchHistory": true,
+            "actorNavigationUrl": null,
+            "image": {
+                "attributes": [
+                    {
+                        "scalingType": null,
+                        "detailData": {
+                            "profilePictureWithoutFrame": null,
+                            "profilePictureWithRingStatus": null,
+                            "companyLogo": null,
+                            "icon": null,
+                            "systemImage": null,
+                            "nonEntityGroupLogo": null,
+                            "vectorImage": null,
+                            "nonEntityProfessionalEventLogo": null,
+                            "profilePicture": null,
+                            "imageUrl": null,
+                            "professionalEventLogo": null,
+                            "nonEntityCompanyLogo": {
+                                "*company": "urn:li:fsd_company:37530211",
+                                "$recipeTypes": [
+                                    "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c"
+                                ],
+                                "vectorImage": {
+                                    "digitalmediaAsset": null,
+                                    "attribution": null,
+                                    "c2paManifestData": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9"
+                                    ],
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "$recipeTypes": [
+                                                "com.linkedin.f0f435b4425ee2990eba8f0a4d614944"
+                                            ],
+                                            "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/C4E0BAQHhU-AbXM80qw/company-logo_100_100/company-logo_100_100/0/1630653504528/dubai_vacancy_dubai_jobs_gulf_careers_logo?e=1748476800&v=beta&t=XejydIXfq-73YBWimgEBeDCYw5z4jfHNIdc0epNGM1A",
+                                            "expiresAt": 1748476800000,
+                                            "height": 100,
+                                            "$type": "com.linkedin.common.VectorArtifact"
+                                        }
+                                    ],
+                                    "rootUrl": "",
+                                    "$type": "com.linkedin.common.VectorImage"
+                                },
+                                "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                            },
+                            "nonEntitySchoolLogo": null,
+                            "groupLogo": null,
+                            "schoolLogo": null,
+                            "ghostImage": null,
+                            "nonEntityProfilePicture": null
+                        },
+                        "tintColor": null,
+                        "$recipeTypes": [
+                            "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+                        ],
+                        "tapTargets": [],
+                        "displayAspectRatio": null,
+                        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                    }
+                ],
+                "editableAccessibilityText": false,
+                "actionTarget": null,
+                "accessibilityTextAttributes": [],
+                "totalCount": null,
+                "accessibilityText": "Dubai Vacancy | Dubai Jobs | Gulf Careers",
+                "$recipeTypes": [
+                    "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+            },
+            "secondarySubtitle": {
+                "textDirection": "USER_LOCALE",
+                "text": "915K followers",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "navigationUrl": "https://www.linkedin.com/company/dubai-vacancy-dubai-jobs-gulf-careers/",
+            "entityEmbeddedObject": null,
+            "unreadIndicatorDetails": null,
+            "$recipeTypes": [
+                "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109"
+            ],
+            "target": null,
+            "$type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+            "actorTrackingUrn": null,
+            "navigationContext": {
+                "openExternally": false,
+                "$recipeTypes": [
+                    "com.linkedin.55ee9afd4182671fe7e271f615659525"
+                ],
+                "url": "https://www.linkedin.com/company/dubai-vacancy-dubai-jobs-gulf-careers/",
+                "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+            }
+        },
+        {
+            "template": "UNIVERSAL",
+            "actorNavigationContext": null,
+            "bserpEntityNavigationalUrl": "https://www.linkedin.com/search/results/all/?keywords=Dubai%20Airports&origin=ENTITY_SEARCH_HOME_HISTORY&heroEntityKey=urn%3Ali%3Aorganization%3A271832",
+            "trackingUrn": "urn:li:company:271832",
+            "controlName": null,
+            "interstitialComponent": null,
+            "primaryActions": [],
+            "entityCustomTrackingInfo": null,
+            "badgeData": null,
+            "title": {
+                "textDirection": "USER_LOCALE",
+                "text": "Dubai Airports",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "overflowActions": [],
+            "*lazyLoadedActions": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:271832,COMPANIES,SEARCH_SRP)",
+            "searchActionType": null,
+            "actorInsights": [],
+            "insightsResolutionResults": [
+                {
+                    "jobPostingInsight": null,
+                    "relationshipsInsight": null,
+                    "serviceProviderRatingInsight": null,
+                    "simpleInsight": {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": "ASPECT_FIT",
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": "IC_BRIEFCASE_16DP",
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": null,
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "controlName": null,
+                        "navigationUrl": "https://www.linkedin.com/jobs/search?geoId=92000000&f_C=271832",
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "3 jobs",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.bd9a707a5b119c1f331373113f57344a"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.search.SimpleInsight",
+                        "searchActionType": "SEE_JOBS_AT_COMPANY",
+                        "subtitleMaxNumLines": 1,
+                        "titleFontSize": null,
+                        "subtitle": null,
+                        "subtitleFontSize": null,
+                        "titleMaxNumLines": 1
+                    },
+                    "jobPostingFooterInsight": null,
+                    "socialActivityCountsInsight": null,
+                    "labelsInsight": null,
+                    "premiumCustomCtaInsight": null
+                }
+            ],
+            "badgeIcon": null,
+            "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:271832,SEARCH_SRP,DEFAULT)",
+            "showAdditionalCluster": false,
+            "ringStatus": null,
+            "primarySubtitle": {
+                "textDirection": "USER_LOCALE",
+                "text": "Airlines and Aviation • Dubai",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "badgeText": null,
+            "trackingId": "t0WpgTrSQnWL6/PpiJ8DHw==",
+            "summary": {
+                "textDirection": "USER_LOCALE",
+                "text": "We manage DXB, the world’s busiest airport, and Dubai World Central (DWC), Dubai’s airport of the future.",
+                "attributesV2": [
+                    {
+                        "start": 48,
+                        "length": 5,
+                        "detailData": {
+                            "jobPostingName": null,
+                            "hyperlink": null,
+                            "profileFamiliarName": null,
+                            "color": null,
+                            "companyName": null,
+                            "icon": null,
+                            "epoch": null,
+                            "systemImage": null,
+                            "textLink": null,
+                            "listItemStyle": null,
+                            "groupName": null,
+                            "hyperlinkOpenExternally": null,
+                            "listStyle": null,
+                            "profileFullName": null,
+                            "stringFieldReference": null,
+                            "learningCourseName": null,
+                            "profileMention": null,
+                            "style": "BOLD",
+                            "schoolName": null,
+                            "hashtag": null
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+                    }
+                ],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "addEntityToSearchHistory": true,
+            "actorNavigationUrl": null,
+            "image": {
+                "attributes": [
+                    {
+                        "scalingType": null,
+                        "detailData": {
+                            "profilePictureWithoutFrame": null,
+                            "profilePictureWithRingStatus": null,
+                            "companyLogo": null,
+                            "icon": null,
+                            "systemImage": null,
+                            "nonEntityGroupLogo": null,
+                            "vectorImage": null,
+                            "nonEntityProfessionalEventLogo": null,
+                            "profilePicture": null,
+                            "imageUrl": null,
+                            "professionalEventLogo": null,
+                            "nonEntityCompanyLogo": {
+                                "*company": "urn:li:fsd_company:271832",
+                                "$recipeTypes": [
+                                    "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c"
+                                ],
+                                "vectorImage": {
+                                    "digitalmediaAsset": null,
+                                    "attribution": null,
+                                    "c2paManifestData": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9"
+                                    ],
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "$recipeTypes": [
+                                                "com.linkedin.f0f435b4425ee2990eba8f0a4d614944"
+                                            ],
+                                            "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D4D0BAQE7XGiCtaPoWg/company-logo_100_100/company-logo_100_100/0/1690186770663?e=1748476800&v=beta&t=aX-ImNU_fG9Hw0uVHwyuD4wCKJMsQH2_Y4ubQtLXoiI",
+                                            "expiresAt": 1748476800000,
+                                            "height": 100,
+                                            "$type": "com.linkedin.common.VectorArtifact"
+                                        }
+                                    ],
+                                    "rootUrl": "",
+                                    "$type": "com.linkedin.common.VectorImage"
+                                },
+                                "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                            },
+                            "nonEntitySchoolLogo": null,
+                            "groupLogo": null,
+                            "schoolLogo": null,
+                            "ghostImage": null,
+                            "nonEntityProfilePicture": null
+                        },
+                        "tintColor": null,
+                        "$recipeTypes": [
+                            "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+                        ],
+                        "tapTargets": [],
+                        "displayAspectRatio": null,
+                        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                    }
+                ],
+                "editableAccessibilityText": false,
+                "actionTarget": null,
+                "accessibilityTextAttributes": [],
+                "totalCount": null,
+                "accessibilityText": "Dubai Airports",
+                "$recipeTypes": [
+                    "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+            },
+            "secondarySubtitle": {
+                "textDirection": "USER_LOCALE",
+                "text": "1M followers",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "navigationUrl": "https://www.linkedin.com/company/dubaiairports/",
+            "entityEmbeddedObject": null,
+            "unreadIndicatorDetails": null,
+            "$recipeTypes": [
+                "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109"
+            ],
+            "target": null,
+            "$type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+            "actorTrackingUrn": null,
+            "navigationContext": {
+                "openExternally": false,
+                "$recipeTypes": [
+                    "com.linkedin.55ee9afd4182671fe7e271f615659525"
+                ],
+                "url": "https://www.linkedin.com/company/dubaiairports/",
+                "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+            }
+        },
+        {
+            "template": "UNIVERSAL",
+            "actorNavigationContext": null,
+            "bserpEntityNavigationalUrl": "https://www.linkedin.com/search/results/all/?keywords=Dubai%20Islamic%20Bank&origin=ENTITY_SEARCH_HOME_HISTORY&heroEntityKey=urn%3Ali%3Aorganization%3A10998",
+            "trackingUrn": "urn:li:company:10998",
+            "controlName": null,
+            "interstitialComponent": null,
+            "primaryActions": [],
+            "entityCustomTrackingInfo": null,
+            "badgeData": null,
+            "title": {
+                "textDirection": "USER_LOCALE",
+                "text": "Dubai Islamic Bank",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "overflowActions": [],
+            "*lazyLoadedActions": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:10998,COMPANIES,SEARCH_SRP)",
+            "searchActionType": null,
+            "actorInsights": [],
+            "insightsResolutionResults": [
+                {
+                    "jobPostingInsight": null,
+                    "relationshipsInsight": null,
+                    "serviceProviderRatingInsight": null,
+                    "simpleInsight": {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": "ASPECT_FIT",
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": "IC_BRIEFCASE_16DP",
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": null,
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "controlName": null,
+                        "navigationUrl": "https://www.linkedin.com/jobs/search?geoId=92000000&f_C=10998",
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "5 jobs",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.bd9a707a5b119c1f331373113f57344a"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.search.SimpleInsight",
+                        "searchActionType": "SEE_JOBS_AT_COMPANY",
+                        "subtitleMaxNumLines": 1,
+                        "titleFontSize": null,
+                        "subtitle": null,
+                        "subtitleFontSize": null,
+                        "titleMaxNumLines": 1
+                    },
+                    "jobPostingFooterInsight": null,
+                    "socialActivityCountsInsight": null,
+                    "labelsInsight": null,
+                    "premiumCustomCtaInsight": null
+                }
+            ],
+            "badgeIcon": null,
+            "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:10998,SEARCH_SRP,DEFAULT)",
+            "showAdditionalCluster": false,
+            "ringStatus": null,
+            "primarySubtitle": {
+                "textDirection": "USER_LOCALE",
+                "text": "Banking • Dubai",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "badgeText": null,
+            "trackingId": "h4M9O1wnQXmQUXEwmhKVjQ==",
+            "summary": {
+                "textDirection": "USER_LOCALE",
+                "text": "Dubai Islamic Bank (Public Joint Stock Company) is the world’s first Islamic bank founded in 1975. Dubai Islamic Bank combines the best of traditional Islamic values with technology and innovation in order to position for sustainable success. Dubai Islamic Bank (Public Joint Stock Company) has established itself as...",
+                "attributesV2": [
+                    {
+                        "start": 0,
+                        "length": 5,
+                        "detailData": {
+                            "jobPostingName": null,
+                            "hyperlink": null,
+                            "profileFamiliarName": null,
+                            "color": null,
+                            "companyName": null,
+                            "icon": null,
+                            "epoch": null,
+                            "systemImage": null,
+                            "textLink": null,
+                            "listItemStyle": null,
+                            "groupName": null,
+                            "hyperlinkOpenExternally": null,
+                            "listStyle": null,
+                            "profileFullName": null,
+                            "stringFieldReference": null,
+                            "learningCourseName": null,
+                            "profileMention": null,
+                            "style": "BOLD",
+                            "schoolName": null,
+                            "hashtag": null
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+                    },
+                    {
+                        "start": 99,
+                        "length": 5,
+                        "detailData": {
+                            "jobPostingName": null,
+                            "hyperlink": null,
+                            "profileFamiliarName": null,
+                            "color": null,
+                            "companyName": null,
+                            "icon": null,
+                            "epoch": null,
+                            "systemImage": null,
+                            "textLink": null,
+                            "listItemStyle": null,
+                            "groupName": null,
+                            "hyperlinkOpenExternally": null,
+                            "listStyle": null,
+                            "profileFullName": null,
+                            "stringFieldReference": null,
+                            "learningCourseName": null,
+                            "profileMention": null,
+                            "style": "BOLD",
+                            "schoolName": null,
+                            "hashtag": null
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+                    },
+                    {
+                        "start": 243,
+                        "length": 5,
+                        "detailData": {
+                            "jobPostingName": null,
+                            "hyperlink": null,
+                            "profileFamiliarName": null,
+                            "color": null,
+                            "companyName": null,
+                            "icon": null,
+                            "epoch": null,
+                            "systemImage": null,
+                            "textLink": null,
+                            "listItemStyle": null,
+                            "groupName": null,
+                            "hyperlinkOpenExternally": null,
+                            "listStyle": null,
+                            "profileFullName": null,
+                            "stringFieldReference": null,
+                            "learningCourseName": null,
+                            "profileMention": null,
+                            "style": "BOLD",
+                            "schoolName": null,
+                            "hashtag": null
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+                    }
+                ],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "addEntityToSearchHistory": true,
+            "actorNavigationUrl": null,
+            "image": {
+                "attributes": [
+                    {
+                        "scalingType": null,
+                        "detailData": {
+                            "profilePictureWithoutFrame": null,
+                            "profilePictureWithRingStatus": null,
+                            "companyLogo": null,
+                            "icon": null,
+                            "systemImage": null,
+                            "nonEntityGroupLogo": null,
+                            "vectorImage": null,
+                            "nonEntityProfessionalEventLogo": null,
+                            "profilePicture": null,
+                            "imageUrl": null,
+                            "professionalEventLogo": null,
+                            "nonEntityCompanyLogo": {
+                                "*company": "urn:li:fsd_company:10998",
+                                "$recipeTypes": [
+                                    "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c"
+                                ],
+                                "vectorImage": {
+                                    "digitalmediaAsset": null,
+                                    "attribution": null,
+                                    "c2paManifestData": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9"
+                                    ],
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "$recipeTypes": [
+                                                "com.linkedin.f0f435b4425ee2990eba8f0a4d614944"
+                                            ],
+                                            "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/C4D0BAQFil1g3NyCv-Q/company-logo_100_100/company-logo_100_100/0/1653902535131?e=1748476800&v=beta&t=bDf8fzNem5BeWjRulPwZgKmKlmeOwRCzdD2rMCJiOJA",
+                                            "expiresAt": 1748476800000,
+                                            "height": 100,
+                                            "$type": "com.linkedin.common.VectorArtifact"
+                                        }
+                                    ],
+                                    "rootUrl": "",
+                                    "$type": "com.linkedin.common.VectorImage"
+                                },
+                                "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                            },
+                            "nonEntitySchoolLogo": null,
+                            "groupLogo": null,
+                            "schoolLogo": null,
+                            "ghostImage": null,
+                            "nonEntityProfilePicture": null
+                        },
+                        "tintColor": null,
+                        "$recipeTypes": [
+                            "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+                        ],
+                        "tapTargets": [],
+                        "displayAspectRatio": null,
+                        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                    }
+                ],
+                "editableAccessibilityText": false,
+                "actionTarget": null,
+                "accessibilityTextAttributes": [],
+                "totalCount": null,
+                "accessibilityText": "Dubai Islamic Bank",
+                "$recipeTypes": [
+                    "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+            },
+            "secondarySubtitle": {
+                "textDirection": "USER_LOCALE",
+                "text": "769K followers",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "navigationUrl": "https://www.linkedin.com/company/dubai-islamic-bank/",
+            "entityEmbeddedObject": null,
+            "unreadIndicatorDetails": null,
+            "$recipeTypes": [
+                "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109"
+            ],
+            "target": null,
+            "$type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+            "actorTrackingUrn": null,
+            "navigationContext": {
+                "openExternally": false,
+                "$recipeTypes": [
+                    "com.linkedin.55ee9afd4182671fe7e271f615659525"
+                ],
+                "url": "https://www.linkedin.com/company/dubai-islamic-bank/",
+                "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+            }
+        },
+        {
+            "template": "UNIVERSAL",
+            "actorNavigationContext": null,
+            "bserpEntityNavigationalUrl": "https://www.linkedin.com/search/results/all/?keywords=Jobs%20In%20Dubai%20-%20applydubjob%2Ecom&origin=ENTITY_SEARCH_HOME_HISTORY&heroEntityKey=urn%3Ali%3Aorganization%3A68562546",
+            "trackingUrn": "urn:li:company:68562546",
+            "controlName": null,
+            "interstitialComponent": null,
+            "primaryActions": [],
+            "entityCustomTrackingInfo": null,
+            "badgeData": null,
+            "title": {
+                "textDirection": "USER_LOCALE",
+                "text": "Jobs In Dubai - applydubjob.com",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "overflowActions": [],
+            "*lazyLoadedActions": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:68562546,COMPANIES,SEARCH_SRP)",
+            "searchActionType": null,
+            "actorInsights": [],
+            "insightsResolutionResults": [
+                {
+                    "jobPostingInsight": null,
+                    "relationshipsInsight": null,
+                    "serviceProviderRatingInsight": null,
+                    "simpleInsight": {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": null,
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": null,
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": {
+                                            "digitalmediaAsset": null,
+                                            "attribution": null,
+                                            "c2paManifestData": null,
+                                            "$recipeTypes": [
+                                                "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9"
+                                            ],
+                                            "artifacts": [
+                                                {
+                                                    "width": 100,
+                                                    "$recipeTypes": [
+                                                        "com.linkedin.f0f435b4425ee2990eba8f0a4d614944"
+                                                    ],
+                                                    "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D4E0BAQFxUrPiEOjhEA/company-logo_100_100/company-logo_100_100/0/1736286822930?e=1748476800&v=beta&t=BUqQj5fKLuV2Ff-SkOumoDztPcZ8lG5KS398PJ46sfk",
+                                                    "expiresAt": 1748476800000,
+                                                    "height": 100,
+                                                    "$type": "com.linkedin.common.VectorArtifact"
+                                                }
+                                            ],
+                                            "rootUrl": "",
+                                            "$type": "com.linkedin.common.VectorImage"
+                                        },
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": null,
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "controlName": null,
+                        "navigationUrl": "https://www.linkedin.com/company/applydubjobs/about",
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Join Semasocial to connect, share, and grow your professional network globally.",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.bd9a707a5b119c1f331373113f57344a"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.search.SimpleInsight",
+                        "searchActionType": null,
+                        "subtitleMaxNumLines": 1,
+                        "titleFontSize": null,
+                        "subtitle": null,
+                        "subtitleFontSize": null,
+                        "titleMaxNumLines": 1
+                    },
+                    "jobPostingFooterInsight": null,
+                    "socialActivityCountsInsight": null,
+                    "labelsInsight": null,
+                    "premiumCustomCtaInsight": null
+                },
+                {
+                    "jobPostingInsight": null,
+                    "relationshipsInsight": null,
+                    "serviceProviderRatingInsight": null,
+                    "simpleInsight": null,
+                    "jobPostingFooterInsight": null,
+                    "socialActivityCountsInsight": null,
+                    "premiumCustomCtaInsight": {
+                        "searchActionType": "PREMIUM_VISIT_WEBSITE",
+                        "titleFontSize": "SMALL",
+                        "navigationContext": {
+                            "openExternally": false,
+                            "$recipeTypes": [
+                                "com.linkedin.55ee9afd4182671fe7e271f615659525"
+                            ],
+                            "url": "https://applydubjob.com",
+                            "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+                        },
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "Visit website",
+                            "attributesV2": [
+                                {
+                                    "start": 0,
+                                    "length": 13,
+                                    "detailData": {
+                                        "jobPostingName": null,
+                                        "hyperlink": null,
+                                        "profileFamiliarName": null,
+                                        "color": null,
+                                        "companyName": null,
+                                        "icon": null,
+                                        "epoch": null,
+                                        "systemImage": null,
+                                        "textLink": null,
+                                        "listItemStyle": null,
+                                        "groupName": null,
+                                        "hyperlinkOpenExternally": null,
+                                        "listStyle": null,
+                                        "profileFullName": null,
+                                        "stringFieldReference": null,
+                                        "learningCourseName": null,
+                                        "profileMention": null,
+                                        "style": "BOLD",
+                                        "schoolName": null,
+                                        "hashtag": null
+                                    },
+                                    "$recipeTypes": [
+                                        "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+                                    ],
+                                    "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+                                }
+                            ],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": "Visit website",
+                            "$recipeTypes": [
+                                "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.e7255825e31731ce221bd0a581bbdd47"
+                        ],
+                        "titleMaxNumLines": 1,
+                        "$type": "com.linkedin.voyager.dash.search.premium.PremiumCustomCtaInsight"
+                    },
+                    "labelsInsight": null
+                }
+            ],
+            "badgeIcon": {
+                "attributes": [
+                    {
+                        "scalingType": null,
+                        "detailData": {
+                            "profilePictureWithoutFrame": null,
+                            "profilePictureWithRingStatus": null,
+                            "companyLogo": null,
+                            "icon": "IC_LINKEDIN_PREMIUM_GOLD_ICON_16DP",
+                            "systemImage": null,
+                            "nonEntityGroupLogo": null,
+                            "vectorImage": null,
+                            "nonEntityProfessionalEventLogo": null,
+                            "profilePicture": null,
+                            "imageUrl": null,
+                            "professionalEventLogo": null,
+                            "nonEntityCompanyLogo": null,
+                            "nonEntitySchoolLogo": null,
+                            "groupLogo": null,
+                            "schoolLogo": null,
+                            "ghostImage": null,
+                            "nonEntityProfilePicture": null
+                        },
+                        "tintColor": null,
+                        "$recipeTypes": [
+                            "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+                        ],
+                        "tapTargets": [],
+                        "displayAspectRatio": null,
+                        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                    }
+                ],
+                "editableAccessibilityText": false,
+                "actionTarget": null,
+                "accessibilityTextAttributes": [],
+                "totalCount": null,
+                "accessibilityText": "Premium page",
+                "$recipeTypes": [
+                    "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+            },
+            "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:68562546,SEARCH_SRP,DEFAULT)",
+            "showAdditionalCluster": false,
+            "ringStatus": null,
+            "primarySubtitle": {
+                "textDirection": "USER_LOCALE",
+                "text": "Staffing and Recruiting • Dubai",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "badgeText": null,
+            "trackingId": "/g+N30N3QSSXe3Gc8v3qwg==",
+            "summary": {
+                "textDirection": "USER_LOCALE",
+                "text": "Find your dream job in Dubai, Abu Dhabi, Sharjah, and UAE. Opportunities await – start your journey today!",
+                "attributesV2": [
+                    {
+                        "start": 23,
+                        "length": 5,
+                        "detailData": {
+                            "jobPostingName": null,
+                            "hyperlink": null,
+                            "profileFamiliarName": null,
+                            "color": null,
+                            "companyName": null,
+                            "icon": null,
+                            "epoch": null,
+                            "systemImage": null,
+                            "textLink": null,
+                            "listItemStyle": null,
+                            "groupName": null,
+                            "hyperlinkOpenExternally": null,
+                            "listStyle": null,
+                            "profileFullName": null,
+                            "stringFieldReference": null,
+                            "learningCourseName": null,
+                            "profileMention": null,
+                            "style": "BOLD",
+                            "schoolName": null,
+                            "hashtag": null
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+                    }
+                ],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "addEntityToSearchHistory": true,
+            "actorNavigationUrl": null,
+            "image": {
+                "attributes": [
+                    {
+                        "scalingType": null,
+                        "detailData": {
+                            "profilePictureWithoutFrame": null,
+                            "profilePictureWithRingStatus": null,
+                            "companyLogo": null,
+                            "icon": null,
+                            "systemImage": null,
+                            "nonEntityGroupLogo": null,
+                            "vectorImage": null,
+                            "nonEntityProfessionalEventLogo": null,
+                            "profilePicture": null,
+                            "imageUrl": null,
+                            "professionalEventLogo": null,
+                            "nonEntityCompanyLogo": {
+                                "*company": "urn:li:fsd_company:68562546",
+                                "$recipeTypes": [
+                                    "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c"
+                                ],
+                                "vectorImage": {
+                                    "digitalmediaAsset": null,
+                                    "attribution": null,
+                                    "c2paManifestData": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9"
+                                    ],
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "$recipeTypes": [
+                                                "com.linkedin.f0f435b4425ee2990eba8f0a4d614944"
+                                            ],
+                                            "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/C560BAQFbwJKYXjwdSg/company-logo_100_100/company-logo_100_100/0/1643792658245?e=1748476800&v=beta&t=mw4r1hX-FEQYCD19bUNPd431IdrFp3duRNpHhF2yKe0",
+                                            "expiresAt": 1748476800000,
+                                            "height": 100,
+                                            "$type": "com.linkedin.common.VectorArtifact"
+                                        }
+                                    ],
+                                    "rootUrl": "",
+                                    "$type": "com.linkedin.common.VectorImage"
+                                },
+                                "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                            },
+                            "nonEntitySchoolLogo": null,
+                            "groupLogo": null,
+                            "schoolLogo": null,
+                            "ghostImage": null,
+                            "nonEntityProfilePicture": null
+                        },
+                        "tintColor": null,
+                        "$recipeTypes": [
+                            "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+                        ],
+                        "tapTargets": [],
+                        "displayAspectRatio": null,
+                        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                    }
+                ],
+                "editableAccessibilityText": false,
+                "actionTarget": null,
+                "accessibilityTextAttributes": [],
+                "totalCount": null,
+                "accessibilityText": "Jobs In Dubai - applydubjob.com",
+                "$recipeTypes": [
+                    "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+            },
+            "secondarySubtitle": {
+                "textDirection": "USER_LOCALE",
+                "text": "1M followers",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "navigationUrl": "https://www.linkedin.com/company/applydubjobs/",
+            "entityEmbeddedObject": null,
+            "unreadIndicatorDetails": null,
+            "$recipeTypes": [
+                "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109"
+            ],
+            "target": null,
+            "$type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+            "actorTrackingUrn": null,
+            "navigationContext": {
+                "openExternally": false,
+                "$recipeTypes": [
+                    "com.linkedin.55ee9afd4182671fe7e271f615659525"
+                ],
+                "url": "https://www.linkedin.com/company/applydubjobs/",
+                "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+            }
+        },
+        {
+            "template": "UNIVERSAL",
+            "actorNavigationContext": null,
+            "bserpEntityNavigationalUrl": "https://www.linkedin.com/search/results/all/?keywords=Dubai%20Vacancy%20%7C%20Dubai%20Jobs%20%7C%20Gulf%20Careers&origin=ENTITY_SEARCH_HOME_HISTORY&heroEntityKey=urn%3Ali%3Aorganization%3A14631800",
+            "trackingUrn": "urn:li:company:14631800",
+            "controlName": null,
+            "interstitialComponent": null,
+            "primaryActions": [],
+            "entityCustomTrackingInfo": null,
+            "badgeData": null,
+            "title": {
+                "textDirection": "USER_LOCALE",
+                "text": "Dubai Vacancy | Dubai Jobs | Gulf Careers",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "overflowActions": [],
+            "*lazyLoadedActions": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:14631800,COMPANIES,SEARCH_SRP)",
+            "searchActionType": null,
+            "actorInsights": [],
+            "insightsResolutionResults": [],
+            "badgeIcon": null,
+            "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:14631800,SEARCH_SRP,DEFAULT)",
+            "showAdditionalCluster": false,
+            "ringStatus": null,
+            "primarySubtitle": {
+                "textDirection": "USER_LOCALE",
+                "text": "Staffing and Recruiting • Dubai, Dubai",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "badgeText": null,
+            "trackingId": "XI4bkQmYQrKD51Vvh4Ot3w==",
+            "summary": {
+                "textDirection": "USER_LOCALE",
+                "text": "Dubai Jobs | Dubai Vacancy | Dubai Careers | Gulf Jobs",
+                "attributesV2": [
+                    {
+                        "start": 0,
+                        "length": 5,
+                        "detailData": {
+                            "jobPostingName": null,
+                            "hyperlink": null,
+                            "profileFamiliarName": null,
+                            "color": null,
+                            "companyName": null,
+                            "icon": null,
+                            "epoch": null,
+                            "systemImage": null,
+                            "textLink": null,
+                            "listItemStyle": null,
+                            "groupName": null,
+                            "hyperlinkOpenExternally": null,
+                            "listStyle": null,
+                            "profileFullName": null,
+                            "stringFieldReference": null,
+                            "learningCourseName": null,
+                            "profileMention": null,
+                            "style": "BOLD",
+                            "schoolName": null,
+                            "hashtag": null
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+                    },
+                    {
+                        "start": 13,
+                        "length": 5,
+                        "detailData": {
+                            "jobPostingName": null,
+                            "hyperlink": null,
+                            "profileFamiliarName": null,
+                            "color": null,
+                            "companyName": null,
+                            "icon": null,
+                            "epoch": null,
+                            "systemImage": null,
+                            "textLink": null,
+                            "listItemStyle": null,
+                            "groupName": null,
+                            "hyperlinkOpenExternally": null,
+                            "listStyle": null,
+                            "profileFullName": null,
+                            "stringFieldReference": null,
+                            "learningCourseName": null,
+                            "profileMention": null,
+                            "style": "BOLD",
+                            "schoolName": null,
+                            "hashtag": null
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+                    },
+                    {
+                        "start": 29,
+                        "length": 5,
+                        "detailData": {
+                            "jobPostingName": null,
+                            "hyperlink": null,
+                            "profileFamiliarName": null,
+                            "color": null,
+                            "companyName": null,
+                            "icon": null,
+                            "epoch": null,
+                            "systemImage": null,
+                            "textLink": null,
+                            "listItemStyle": null,
+                            "groupName": null,
+                            "hyperlinkOpenExternally": null,
+                            "listStyle": null,
+                            "profileFullName": null,
+                            "stringFieldReference": null,
+                            "learningCourseName": null,
+                            "profileMention": null,
+                            "style": "BOLD",
+                            "schoolName": null,
+                            "hashtag": null
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+                    }
+                ],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "addEntityToSearchHistory": true,
+            "actorNavigationUrl": null,
+            "image": {
+                "attributes": [
+                    {
+                        "scalingType": null,
+                        "detailData": {
+                            "profilePictureWithoutFrame": null,
+                            "profilePictureWithRingStatus": null,
+                            "companyLogo": null,
+                            "icon": null,
+                            "systemImage": null,
+                            "nonEntityGroupLogo": null,
+                            "vectorImage": null,
+                            "nonEntityProfessionalEventLogo": null,
+                            "profilePicture": null,
+                            "imageUrl": null,
+                            "professionalEventLogo": null,
+                            "nonEntityCompanyLogo": {
+                                "*company": "urn:li:fsd_company:14631800",
+                                "$recipeTypes": [
+                                    "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c"
+                                ],
+                                "vectorImage": {
+                                    "digitalmediaAsset": null,
+                                    "attribution": null,
+                                    "c2paManifestData": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9"
+                                    ],
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "$recipeTypes": [
+                                                "com.linkedin.f0f435b4425ee2990eba8f0a4d614944"
+                                            ],
+                                            "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/C560BAQEIhZOMaXZqYw/company-logo_100_100/company-logo_100_100/0/1630648567838/hospitality_jobs_hospitality_jobs_logo?e=1748476800&v=beta&t=1SvuquXHYjUtZIlGgv-Li1ydVsNDEgK9lb0ib2Zcs28",
+                                            "expiresAt": 1748476800000,
+                                            "height": 100,
+                                            "$type": "com.linkedin.common.VectorArtifact"
+                                        }
+                                    ],
+                                    "rootUrl": "",
+                                    "$type": "com.linkedin.common.VectorImage"
+                                },
+                                "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                            },
+                            "nonEntitySchoolLogo": null,
+                            "groupLogo": null,
+                            "schoolLogo": null,
+                            "ghostImage": null,
+                            "nonEntityProfilePicture": null
+                        },
+                        "tintColor": null,
+                        "$recipeTypes": [
+                            "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+                        ],
+                        "tapTargets": [],
+                        "displayAspectRatio": null,
+                        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                    }
+                ],
+                "editableAccessibilityText": false,
+                "actionTarget": null,
+                "accessibilityTextAttributes": [],
+                "totalCount": null,
+                "accessibilityText": "Dubai Vacancy | Dubai Jobs | Gulf Careers",
+                "$recipeTypes": [
+                    "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+            },
+            "secondarySubtitle": {
+                "textDirection": "USER_LOCALE",
+                "text": "410K followers",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "navigationUrl": "https://www.linkedin.com/company/hospitality-jobs-hospitality-jobs/",
+            "entityEmbeddedObject": null,
+            "unreadIndicatorDetails": null,
+            "$recipeTypes": [
+                "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109"
+            ],
+            "target": null,
+            "$type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+            "actorTrackingUrn": null,
+            "navigationContext": {
+                "openExternally": false,
+                "$recipeTypes": [
+                    "com.linkedin.55ee9afd4182671fe7e271f615659525"
+                ],
+                "url": "https://www.linkedin.com/company/hospitality-jobs-hospitality-jobs/",
+                "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+            }
+        },
+        {
+            "template": "UNIVERSAL",
+            "actorNavigationContext": null,
+            "bserpEntityNavigationalUrl": "https://www.linkedin.com/search/results/all/?keywords=Dubai%20Vacancy%20%7C%20Dubai%20Jobs%20%7C%20Gulf%20Careers%20%7C%20Gulf%20Jobs&origin=ENTITY_SEARCH_HOME_HISTORY&heroEntityKey=urn%3Ali%3Aorganization%3A28697566",
+            "trackingUrn": "urn:li:company:28697566",
+            "controlName": null,
+            "interstitialComponent": null,
+            "primaryActions": [],
+            "entityCustomTrackingInfo": null,
+            "badgeData": null,
+            "title": {
+                "textDirection": "USER_LOCALE",
+                "text": "Dubai Vacancy | Dubai Jobs | Gulf Careers | Gulf Jobs",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "overflowActions": [],
+            "*lazyLoadedActions": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:28697566,COMPANIES,SEARCH_SRP)",
+            "searchActionType": null,
+            "actorInsights": [],
+            "insightsResolutionResults": [],
+            "badgeIcon": null,
+            "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:28697566,SEARCH_SRP,DEFAULT)",
+            "showAdditionalCluster": false,
+            "ringStatus": null,
+            "primarySubtitle": {
+                "textDirection": "USER_LOCALE",
+                "text": "Hospitality • Marsa Dubai, Dubai",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "badgeText": null,
+            "trackingId": "g5gJAIKeSa6G0tF6uNRczw==",
+            "summary": {
+                "textDirection": "USER_LOCALE",
+                "text": "Follow us for Jobs in UAE, especially in Dubai",
+                "attributesV2": [
+                    {
+                        "start": 41,
+                        "length": 5,
+                        "detailData": {
+                            "jobPostingName": null,
+                            "hyperlink": null,
+                            "profileFamiliarName": null,
+                            "color": null,
+                            "companyName": null,
+                            "icon": null,
+                            "epoch": null,
+                            "systemImage": null,
+                            "textLink": null,
+                            "listItemStyle": null,
+                            "groupName": null,
+                            "hyperlinkOpenExternally": null,
+                            "listStyle": null,
+                            "profileFullName": null,
+                            "stringFieldReference": null,
+                            "learningCourseName": null,
+                            "profileMention": null,
+                            "style": "BOLD",
+                            "schoolName": null,
+                            "hashtag": null
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+                    }
+                ],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "addEntityToSearchHistory": true,
+            "actorNavigationUrl": null,
+            "image": {
+                "attributes": [
+                    {
+                        "scalingType": null,
+                        "detailData": {
+                            "profilePictureWithoutFrame": null,
+                            "profilePictureWithRingStatus": null,
+                            "companyLogo": null,
+                            "icon": null,
+                            "systemImage": null,
+                            "nonEntityGroupLogo": null,
+                            "vectorImage": null,
+                            "nonEntityProfessionalEventLogo": null,
+                            "profilePicture": null,
+                            "imageUrl": null,
+                            "professionalEventLogo": null,
+                            "nonEntityCompanyLogo": {
+                                "*company": "urn:li:fsd_company:28697566",
+                                "$recipeTypes": [
+                                    "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c"
+                                ],
+                                "vectorImage": {
+                                    "digitalmediaAsset": null,
+                                    "attribution": null,
+                                    "c2paManifestData": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9"
+                                    ],
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "$recipeTypes": [
+                                                "com.linkedin.f0f435b4425ee2990eba8f0a4d614944"
+                                            ],
+                                            "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/C4D0BAQGWyjAifV9P-A/company-logo_100_100/company-logo_100_100/0/1630481165550/dubai_vacancy_logo?e=1748476800&v=beta&t=iCxoKmfyTLl7uc0nreyvlbSBhfAH4o2sCC-666oITog",
+                                            "expiresAt": 1748476800000,
+                                            "height": 100,
+                                            "$type": "com.linkedin.common.VectorArtifact"
+                                        }
+                                    ],
+                                    "rootUrl": "",
+                                    "$type": "com.linkedin.common.VectorImage"
+                                },
+                                "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                            },
+                            "nonEntitySchoolLogo": null,
+                            "groupLogo": null,
+                            "schoolLogo": null,
+                            "ghostImage": null,
+                            "nonEntityProfilePicture": null
+                        },
+                        "tintColor": null,
+                        "$recipeTypes": [
+                            "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+                        ],
+                        "tapTargets": [],
+                        "displayAspectRatio": null,
+                        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                    }
+                ],
+                "editableAccessibilityText": false,
+                "actionTarget": null,
+                "accessibilityTextAttributes": [],
+                "totalCount": null,
+                "accessibilityText": "Dubai Vacancy | Dubai Jobs | Gulf Careers | Gulf Jobs",
+                "$recipeTypes": [
+                    "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+            },
+            "secondarySubtitle": {
+                "textDirection": "USER_LOCALE",
+                "text": "987K followers",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "navigationUrl": "https://www.linkedin.com/company/dubai-vacancy/",
+            "entityEmbeddedObject": null,
+            "unreadIndicatorDetails": null,
+            "$recipeTypes": [
+                "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109"
+            ],
+            "target": null,
+            "$type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+            "actorTrackingUrn": null,
+            "navigationContext": {
+                "openExternally": false,
+                "$recipeTypes": [
+                    "com.linkedin.55ee9afd4182671fe7e271f615659525"
+                ],
+                "url": "https://www.linkedin.com/company/dubai-vacancy/",
+                "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+            }
+        },
+        {
+            "template": "UNIVERSAL",
+            "actorNavigationContext": null,
+            "bserpEntityNavigationalUrl": "https://www.linkedin.com/search/results/all/?keywords=Dubai%20Holding&origin=ENTITY_SEARCH_HOME_HISTORY&heroEntityKey=urn%3Ali%3Aorganization%3A18410",
+            "trackingUrn": "urn:li:company:18410",
+            "controlName": null,
+            "interstitialComponent": null,
+            "primaryActions": [],
+            "entityCustomTrackingInfo": null,
+            "badgeData": null,
+            "title": {
+                "textDirection": "USER_LOCALE",
+                "text": "Dubai Holding",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "overflowActions": [],
+            "*lazyLoadedActions": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:18410,COMPANIES,SEARCH_SRP)",
+            "searchActionType": null,
+            "actorInsights": [],
+            "insightsResolutionResults": [
+                {
+                    "jobPostingInsight": null,
+                    "relationshipsInsight": null,
+                    "serviceProviderRatingInsight": null,
+                    "simpleInsight": {
+                        "image": {
+                            "attributes": [
+                                {
+                                    "scalingType": "ASPECT_FIT",
+                                    "detailData": {
+                                        "profilePictureWithoutFrame": null,
+                                        "profilePictureWithRingStatus": null,
+                                        "companyLogo": null,
+                                        "icon": "IC_BRIEFCASE_16DP",
+                                        "systemImage": null,
+                                        "nonEntityGroupLogo": null,
+                                        "vectorImage": null,
+                                        "nonEntityProfessionalEventLogo": null,
+                                        "profilePicture": null,
+                                        "imageUrl": null,
+                                        "professionalEventLogo": null,
+                                        "nonEntityCompanyLogo": null,
+                                        "nonEntitySchoolLogo": null,
+                                        "groupLogo": null,
+                                        "schoolLogo": null,
+                                        "ghostImage": null,
+                                        "nonEntityProfilePicture": null
+                                    },
+                                    "tintColor": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+                                    ],
+                                    "tapTargets": [],
+                                    "displayAspectRatio": null,
+                                    "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                                }
+                            ],
+                            "editableAccessibilityText": false,
+                            "actionTarget": null,
+                            "accessibilityTextAttributes": [],
+                            "totalCount": null,
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+                        },
+                        "controlName": null,
+                        "navigationUrl": "https://www.linkedin.com/jobs/search?geoId=92000000&f_C=18410%2C13222408%2C14549199%2C3688218%2C15134564%2C544122%2C14597549%2C31070447%2C6678563%2C2338133%2C504782%2C13581510%2C99099",
+                        "title": {
+                            "textDirection": "USER_LOCALE",
+                            "text": "76 jobs",
+                            "attributesV2": [],
+                            "accessibilityTextAttributesV2": [],
+                            "accessibilityText": null,
+                            "$recipeTypes": [
+                                "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.bd9a707a5b119c1f331373113f57344a"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.search.SimpleInsight",
+                        "searchActionType": "SEE_JOBS_AT_COMPANY",
+                        "subtitleMaxNumLines": 1,
+                        "titleFontSize": null,
+                        "subtitle": null,
+                        "subtitleFontSize": null,
+                        "titleMaxNumLines": 1
+                    },
+                    "jobPostingFooterInsight": null,
+                    "socialActivityCountsInsight": null,
+                    "labelsInsight": null,
+                    "premiumCustomCtaInsight": null
+                }
+            ],
+            "badgeIcon": null,
+            "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_company:18410,SEARCH_SRP,DEFAULT)",
+            "showAdditionalCluster": false,
+            "ringStatus": null,
+            "primarySubtitle": {
+                "textDirection": "USER_LOCALE",
+                "text": "Financial Services • Dubai, Dubai",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "badgeText": null,
+            "trackingId": "43KFHA3gT62nKpDA0BAn2Q==",
+            "summary": {
+                "textDirection": "USER_LOCALE",
+                "text": "Dubai Holding is a diversified global investment company that continues to power Dubai’s growth across 10 sectors, including Real Estate, Hospitality, Leisure...",
+                "attributesV2": [
+                    {
+                        "start": 0,
+                        "length": 5,
+                        "detailData": {
+                            "jobPostingName": null,
+                            "hyperlink": null,
+                            "profileFamiliarName": null,
+                            "color": null,
+                            "companyName": null,
+                            "icon": null,
+                            "epoch": null,
+                            "systemImage": null,
+                            "textLink": null,
+                            "listItemStyle": null,
+                            "groupName": null,
+                            "hyperlinkOpenExternally": null,
+                            "listStyle": null,
+                            "profileFullName": null,
+                            "stringFieldReference": null,
+                            "learningCourseName": null,
+                            "profileMention": null,
+                            "style": "BOLD",
+                            "schoolName": null,
+                            "hashtag": null
+                        },
+                        "$recipeTypes": [
+                            "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+                        ],
+                        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+                    }
+                ],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "addEntityToSearchHistory": true,
+            "actorNavigationUrl": null,
+            "image": {
+                "attributes": [
+                    {
+                        "scalingType": null,
+                        "detailData": {
+                            "profilePictureWithoutFrame": null,
+                            "profilePictureWithRingStatus": null,
+                            "companyLogo": null,
+                            "icon": null,
+                            "systemImage": null,
+                            "nonEntityGroupLogo": null,
+                            "vectorImage": null,
+                            "nonEntityProfessionalEventLogo": null,
+                            "profilePicture": null,
+                            "imageUrl": null,
+                            "professionalEventLogo": null,
+                            "nonEntityCompanyLogo": {
+                                "*company": "urn:li:fsd_company:18410",
+                                "$recipeTypes": [
+                                    "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c"
+                                ],
+                                "vectorImage": {
+                                    "digitalmediaAsset": null,
+                                    "attribution": null,
+                                    "c2paManifestData": null,
+                                    "$recipeTypes": [
+                                        "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9"
+                                    ],
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "$recipeTypes": [
+                                                "com.linkedin.f0f435b4425ee2990eba8f0a4d614944"
+                                            ],
+                                            "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D560BAQE4IV6sILWCqA/company-logo_100_100/company-logo_100_100/0/1665581822230/dubai_holding_logo?e=1748476800&v=beta&t=z0UVceInbGLesTNqM5ZZJivhCwFgCkjvycO0Cq_lsjo",
+                                            "expiresAt": 1748476800000,
+                                            "height": 100,
+                                            "$type": "com.linkedin.common.VectorArtifact"
+                                        }
+                                    ],
+                                    "rootUrl": "",
+                                    "$type": "com.linkedin.common.VectorImage"
+                                },
+                                "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+                            },
+                            "nonEntitySchoolLogo": null,
+                            "groupLogo": null,
+                            "schoolLogo": null,
+                            "ghostImage": null,
+                            "nonEntityProfilePicture": null
+                        },
+                        "tintColor": null,
+                        "$recipeTypes": [
+                            "com.linkedin.eb94fbb1518f790c4545aafdf571c64e"
+                        ],
+                        "tapTargets": [],
+                        "displayAspectRatio": null,
+                        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+                    }
+                ],
+                "editableAccessibilityText": false,
+                "actionTarget": null,
+                "accessibilityTextAttributes": [],
+                "totalCount": null,
+                "accessibilityText": "Dubai Holding",
+                "$recipeTypes": [
+                    "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+            },
+            "secondarySubtitle": {
+                "textDirection": "USER_LOCALE",
+                "text": "537K followers",
+                "attributesV2": [],
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null,
+                "$recipeTypes": [
+                    "com.linkedin.6a224ca38654a84754a1eb3e97c0f846"
+                ],
+                "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+            },
+            "navigationUrl": "https://www.linkedin.com/company/dubai-holding/",
+            "entityEmbeddedObject": null,
+            "unreadIndicatorDetails": null,
+            "$recipeTypes": [
+                "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109"
+            ],
+            "target": null,
+            "$type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+            "actorTrackingUrn": null,
+            "navigationContext": {
+                "openExternally": false,
+                "$recipeTypes": [
+                    "com.linkedin.55ee9afd4182671fe7e271f615659525"
+                ],
+                "url": "https://www.linkedin.com/company/dubai-holding/",
+                "$type": "com.linkedin.voyager.dash.search.NavigationContext"
+            }
+        },
+        {
+            "entityUrn": "urn:li:fsd_feedbackCard:SRP_FEEDBACK_COMPANIES",
+            "$recipeTypes": [
+                "com.linkedin.2d3e7b4bccc9c85f103b0dc9fdfd3669"
+            ],
+            "trackingId": "cÐë$½H¹F\u000b\u0010\u0002'ç",
+            "$type": "com.linkedin.voyager.dash.search.FeedbackCard"
+        },
+        {
+            "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:37530211,COMPANIES,SEARCH_SRP)",
+            "$recipeTypes": [
+                "com.linkedin.92ece182782ae4412e712925cd97f9fe"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+        },
+        {
+            "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:271832,COMPANIES,SEARCH_SRP)",
+            "$recipeTypes": [
+                "com.linkedin.92ece182782ae4412e712925cd97f9fe"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+        },
+        {
+            "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:18410,COMPANIES,SEARCH_SRP)",
+            "$recipeTypes": [
+                "com.linkedin.92ece182782ae4412e712925cd97f9fe"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+        },
+        {
+            "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:14631800,COMPANIES,SEARCH_SRP)",
+            "$recipeTypes": [
+                "com.linkedin.92ece182782ae4412e712925cd97f9fe"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+        },
+        {
+            "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:35804,COMPANIES,SEARCH_SRP)",
+            "$recipeTypes": [
+                "com.linkedin.92ece182782ae4412e712925cd97f9fe"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+        },
+        {
+            "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:28697566,COMPANIES,SEARCH_SRP)",
+            "$recipeTypes": [
+                "com.linkedin.92ece182782ae4412e712925cd97f9fe"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+        },
+        {
+            "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:3688218,COMPANIES,SEARCH_SRP)",
+            "$recipeTypes": [
+                "com.linkedin.92ece182782ae4412e712925cd97f9fe"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+        },
+        {
+            "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:142074,COMPANIES,SEARCH_SRP)",
+            "$recipeTypes": [
+                "com.linkedin.92ece182782ae4412e712925cd97f9fe"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+        },
+        {
+            "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:68562546,COMPANIES,SEARCH_SRP)",
+            "$recipeTypes": [
+                "com.linkedin.92ece182782ae4412e712925cd97f9fe"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+        },
+        {
+            "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:10998,COMPANIES,SEARCH_SRP)",
+            "$recipeTypes": [
+                "com.linkedin.92ece182782ae4412e712925cd97f9fe"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+        }
+    ]
+}

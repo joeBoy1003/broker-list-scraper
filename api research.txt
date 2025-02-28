@@ -1,0 +1,24 @@
+we can get total employees:
+	data[included][0][premiumCompanyInsightCardHiresWrapper][elements][0][companyInsights][highlightsInsights][headcountGrowth][(last index of array)][employeeCount]
+
+
+we can get title of company from the data:
+	data[data][data][organizationDashViewWrapperByOrganizationalPageAndContext][elements][0][nestedComponents][0][component][header][heading][text]
+*** (the heading is "Insights on "+ company name)
+
+
+we can get location info:
+	from the following api:
+		https://www.linkedin.com/voyager/api/graphql?includeWebMetadata=true&variables=(universalName:dubai-islamic-bank)&queryId=voyagerOrganizationDashCompanies.9907aa2e96789c8c1ed6ca06bb3bd33b
+ 	
+		data[included][0][groupedLocations][0][locations][0][address]
+			in the value, you can get city, country, geographicArea, line1, line2, postalCode, description(caompany name)
+
+
+
+
+https://www.linkedin.com/voyager/api/graphql?includeWebMetadata=true&variables=(lazyLoadedActionsUrns:List(urn%3Ali%3Afsd_lazyLoadedActions%3A%28urn%3Ali%3Afsd_company%3A11425%2CCOMPANIES%2CSEARCH_SRP%29,urn%3Ali%3Afsd_lazyLoadedActions%3A%28urn%3Ali%3Afsd_company%3A11448%2CCOMPANIES%2CSEARCH_SRP%29,urn%3Ali%3Afsd_lazyLoadedActions%3A%28urn%3Ali%3Afsd_company%3A164987%2CCOMPANIES%2CSEARCH_SRP%29,urn%3Ali%3Afsd_lazyLoadedActions%3A%28urn%3Ali%3Afsd_company%3A1767%2CCOMPANIES%2CSEARCH_SRP%29,urn%3Ali%3Afsd_lazyLoadedActions%3A%28urn%3Ali%3Afsd_company%3A252398%2CCOMPANIES%2CSEARCH_SRP%29,urn%3Ali%3Afsd_lazyLoadedActions%3A%28urn%3Ali%3Afsd_company%3A40118%2CCOMPANIES%2CSEARCH_SRP%29,urn%3Ali%3Afsd_lazyLoadedActions%3A%28urn%3Ali%3Afsd_company%3A4783%2CCOMPANIES%2CSEARCH_SRP%29,urn%3Ali%3Afsd_lazyLoadedActions%3A%28urn%3Ali%3Afsd_company%3A5154%2CCOMPANIES%2CSEARCH_SRP%29,urn%3Ali%3Afsd_lazyLoadedActions%3A%28urn%3Ali%3Afsd_company%3A5632%2CCOMPANIES%2CSEARCH_SRP%29,urn%3Ali%3Afsd_lazyLoadedActions%3A%28urn%3Ali%3Afsd_company%3A7542%2CCOMPANIES%2CSEARCH_SRP%29))&queryId=voyagerSearchDashLazyLoadedActions.3f84d813ee589186bca531e39d88db8d
+
+IFC - International Finance Corporation
+urn:li:fsd_company:4783
+com.linkedin.657413f1f9d78200239211d152acf7f5

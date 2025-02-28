@@ -1,0 +1,1361 @@
+{
+    "data": {
+        "data": {
+            "searchDashFilterClustersByFilters": {
+                "$recipeTypes": [
+                    "com.linkedin.2fd03d909a99b53e7be71e638e9f7232"
+                ],
+                "elements": [
+                    {
+                        "secondaryFilterGroups": [
+                            {
+                                "filters": [
+                                    {
+                                        "viewImpressionEventName": null,
+                                        "appliedCount": 1,
+                                        "displayName": {
+                                            "textDirection": "USER_LOCALE",
+                                            "text": "Show me only",
+                                            "attributesV2": [],
+                                            "accessibilityTextAttributesV2": [],
+                                            "accessibilityText": null,
+                                            "$recipeTypes": [
+                                                "com.linkedin.d736cac0aa3de4df614f00638a0ac3d4"
+                                            ],
+                                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                                        },
+                                        "secondaryFilterValues": [
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "People",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "PEOPLE",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Jobs",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "JOBS",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Posts",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "CONTENT",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Companies",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "COMPANIES",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": true,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Products",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "PRODUCTS",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Groups",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "GROUPS",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Services",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "SERVICES",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Events",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "EVENTS",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Courses",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "LEARNING",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Schools",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "SCHOOLS",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            }
+                                        ],
+                                        "highlighted": true,
+                                        "filterClickControlName": null,
+                                        "typeaheadFilterQuery": null,
+                                        "parameterName": "resultType",
+                                        "startIcon": null,
+                                        "typeaheadHint": null,
+                                        "typeaheadType": null,
+                                        "title": null,
+                                        "$recipeTypes": [
+                                            "com.linkedin.836dd139d0435569408bc496e40784d5"
+                                        ],
+                                        "$type": "com.linkedin.voyager.dash.search.SearchFilterViewModel",
+                                        "flatten": false,
+                                        "searchActionType": null,
+                                        "primaryFilterValues": [],
+                                        "filterApplyControlName": null,
+                                        "renderType": "NAVIGATION",
+                                        "trackingId": "lYfLY9kQQYGrMASJ+OFVSQ=="
+                                    }
+                                ],
+                                "title": "Show me only",
+                                "$recipeTypes": [
+                                    "com.linkedin.e611142041a463a8a351315aae77d6de"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchFilterGroupViewModel"
+                            },
+                            {
+                                "filters": [
+                                    {
+                                        "viewImpressionEventName": null,
+                                        "appliedCount": 2,
+                                        "secondaryFilterValues": [
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "EMEA",
+                                                "count": 4348,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "91000007",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Asia",
+                                                "count": 4315,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "102393603",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "MENA",
+                                                "count": 4242,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "91000008",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Dubai, United Arab Emirates",
+                                                "count": 3973,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "106204383",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": true,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Abu Dhabi Emirate, United Arab Emirates",
+                                                "count": 0,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "103720977",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": true,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            }
+                                        ],
+                                        "displayName": {
+                                            "textDirection": "USER_LOCALE",
+                                            "text": "Locations",
+                                            "attributesV2": [],
+                                            "accessibilityTextAttributesV2": [],
+                                            "accessibilityText": null,
+                                            "$recipeTypes": [
+                                                "com.linkedin.d736cac0aa3de4df614f00638a0ac3d4"
+                                            ],
+                                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                                        },
+                                        "highlighted": true,
+                                        "filterClickControlName": null,
+                                        "typeaheadFilterQuery": null,
+                                        "typeaheadType": "GEO",
+                                        "typeaheadHint": "Add a location",
+                                        "parameterName": "companyHqGeo",
+                                        "startIcon": null,
+                                        "title": null,
+                                        "$recipeTypes": [
+                                            "com.linkedin.836dd139d0435569408bc496e40784d5"
+                                        ],
+                                        "$type": "com.linkedin.voyager.dash.search.SearchFilterViewModel",
+                                        "flatten": false,
+                                        "searchActionType": null,
+                                        "filterApplyControlName": null,
+                                        "primaryFilterValues": [],
+                                        "renderType": "MULTI_SELECT",
+                                        "trackingId": "gjxWBLieSnewvYkDe7DqsA=="
+                                    }
+                                ],
+                                "title": "Locations",
+                                "$recipeTypes": [
+                                    "com.linkedin.e611142041a463a8a351315aae77d6de"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchFilterGroupViewModel"
+                            },
+                            {
+                                "filters": [
+                                    {
+                                        "viewImpressionEventName": null,
+                                        "appliedCount": 0,
+                                        "secondaryFilterValues": [
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Professional Services",
+                                                "count": 787,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "1810",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Real Estate and Equipment Rental Services",
+                                                "count": 458,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "1757",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Real Estate",
+                                                "count": 455,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "44",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Accommodation and Food Services",
+                                                "count": 416,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "2190",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Administrative and Support Services",
+                                                "count": 405,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "1912",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            }
+                                        ],
+                                        "displayName": {
+                                            "textDirection": "USER_LOCALE",
+                                            "text": "Industry",
+                                            "attributesV2": [],
+                                            "accessibilityTextAttributesV2": [],
+                                            "accessibilityText": null,
+                                            "$recipeTypes": [
+                                                "com.linkedin.d736cac0aa3de4df614f00638a0ac3d4"
+                                            ],
+                                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                                        },
+                                        "highlighted": false,
+                                        "filterClickControlName": null,
+                                        "typeaheadFilterQuery": null,
+                                        "typeaheadType": "INDUSTRY",
+                                        "typeaheadHint": "Add an industry",
+                                        "parameterName": "industryCompanyVertical",
+                                        "startIcon": null,
+                                        "title": null,
+                                        "$recipeTypes": [
+                                            "com.linkedin.836dd139d0435569408bc496e40784d5"
+                                        ],
+                                        "$type": "com.linkedin.voyager.dash.search.SearchFilterViewModel",
+                                        "flatten": false,
+                                        "searchActionType": null,
+                                        "filterApplyControlName": null,
+                                        "primaryFilterValues": [],
+                                        "renderType": "MULTI_SELECT",
+                                        "trackingId": "WGuziDo2Ra6+eDKK8e54Xw=="
+                                    }
+                                ],
+                                "title": "Industry",
+                                "$recipeTypes": [
+                                    "com.linkedin.e611142041a463a8a351315aae77d6de"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchFilterGroupViewModel"
+                            },
+                            {
+                                "filters": [
+                                    {
+                                        "viewImpressionEventName": null,
+                                        "appliedCount": 0,
+                                        "secondaryFilterValues": [
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "1-10 employees",
+                                                "count": 0,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "B",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "11-50 employees",
+                                                "count": 0,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "C",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "51-200 employees",
+                                                "count": 0,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "D",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "201-500 employees",
+                                                "count": 0,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "E",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "501-1000 employees",
+                                                "count": 0,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "F",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "1001-5000 employees",
+                                                "count": 0,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "G",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "5001-10,000 employees",
+                                                "count": 0,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "H",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "10,001+ employees",
+                                                "count": 0,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "I",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            }
+                                        ],
+                                        "displayName": {
+                                            "textDirection": "USER_LOCALE",
+                                            "text": "Company size",
+                                            "attributesV2": [],
+                                            "accessibilityTextAttributesV2": [],
+                                            "accessibilityText": null,
+                                            "$recipeTypes": [
+                                                "com.linkedin.d736cac0aa3de4df614f00638a0ac3d4"
+                                            ],
+                                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                                        },
+                                        "highlighted": false,
+                                        "filterClickControlName": null,
+                                        "typeaheadFilterQuery": null,
+                                        "parameterName": "companySize",
+                                        "startIcon": null,
+                                        "typeaheadHint": null,
+                                        "typeaheadType": null,
+                                        "title": null,
+                                        "$recipeTypes": [
+                                            "com.linkedin.836dd139d0435569408bc496e40784d5"
+                                        ],
+                                        "$type": "com.linkedin.voyager.dash.search.SearchFilterViewModel",
+                                        "flatten": false,
+                                        "searchActionType": null,
+                                        "filterApplyControlName": null,
+                                        "primaryFilterValues": [],
+                                        "renderType": "MULTI_SELECT",
+                                        "trackingId": "apkX5q14SnGEhk0+MaNEdQ=="
+                                    }
+                                ],
+                                "title": "Company size",
+                                "$recipeTypes": [
+                                    "com.linkedin.e611142041a463a8a351315aae77d6de"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchFilterGroupViewModel"
+                            },
+                            {
+                                "filters": [
+                                    {
+                                        "viewImpressionEventName": null,
+                                        "appliedCount": 0,
+                                        "secondaryFilterValues": [
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Yes",
+                                                "count": 0,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "1",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            }
+                                        ],
+                                        "displayName": {
+                                            "textDirection": "USER_LOCALE",
+                                            "text": "Job listings on LinkedIn",
+                                            "attributesV2": [],
+                                            "accessibilityTextAttributesV2": [],
+                                            "accessibilityText": null,
+                                            "$recipeTypes": [
+                                                "com.linkedin.d736cac0aa3de4df614f00638a0ac3d4"
+                                            ],
+                                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                                        },
+                                        "highlighted": false,
+                                        "filterClickControlName": null,
+                                        "typeaheadFilterQuery": null,
+                                        "parameterName": "hasJobs",
+                                        "startIcon": null,
+                                        "typeaheadHint": null,
+                                        "typeaheadType": null,
+                                        "title": null,
+                                        "$recipeTypes": [
+                                            "com.linkedin.836dd139d0435569408bc496e40784d5"
+                                        ],
+                                        "$type": "com.linkedin.voyager.dash.search.SearchFilterViewModel",
+                                        "flatten": false,
+                                        "searchActionType": null,
+                                        "filterApplyControlName": null,
+                                        "primaryFilterValues": [],
+                                        "renderType": "MULTI_SELECT",
+                                        "trackingId": "ME5vBoxcTgO1EjKTmB+sEQ=="
+                                    }
+                                ],
+                                "title": "Job listings on LinkedIn",
+                                "$recipeTypes": [
+                                    "com.linkedin.e611142041a463a8a351315aae77d6de"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchFilterGroupViewModel"
+                            },
+                            {
+                                "filters": [
+                                    {
+                                        "viewImpressionEventName": null,
+                                        "appliedCount": 0,
+                                        "secondaryFilterValues": [
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "1st",
+                                                "count": 0,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "F",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            }
+                                        ],
+                                        "displayName": {
+                                            "textDirection": "USER_LOCALE",
+                                            "text": "Connections",
+                                            "attributesV2": [],
+                                            "accessibilityTextAttributesV2": [],
+                                            "accessibilityText": null,
+                                            "$recipeTypes": [
+                                                "com.linkedin.d736cac0aa3de4df614f00638a0ac3d4"
+                                            ],
+                                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                                        },
+                                        "highlighted": false,
+                                        "filterClickControlName": null,
+                                        "typeaheadFilterQuery": null,
+                                        "parameterName": "network",
+                                        "startIcon": null,
+                                        "typeaheadHint": null,
+                                        "typeaheadType": null,
+                                        "title": null,
+                                        "$recipeTypes": [
+                                            "com.linkedin.836dd139d0435569408bc496e40784d5"
+                                        ],
+                                        "$type": "com.linkedin.voyager.dash.search.SearchFilterViewModel",
+                                        "flatten": true,
+                                        "searchActionType": null,
+                                        "filterApplyControlName": null,
+                                        "primaryFilterValues": [],
+                                        "renderType": "MULTI_SELECT",
+                                        "trackingId": "0pTI1+0YTrCwGme0m8H/qQ=="
+                                    }
+                                ],
+                                "title": "Connections",
+                                "$recipeTypes": [
+                                    "com.linkedin.e611142041a463a8a351315aae77d6de"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchFilterGroupViewModel"
+                            }
+                        ],
+                        "primaryFilterGroups": [
+                            {
+                                "filters": [
+                                    {
+                                        "viewImpressionEventName": null,
+                                        "appliedCount": 1,
+                                        "displayName": {
+                                            "textDirection": "USER_LOCALE",
+                                            "text": "Show me",
+                                            "attributesV2": [],
+                                            "accessibilityTextAttributesV2": [],
+                                            "accessibilityText": null,
+                                            "$recipeTypes": [
+                                                "com.linkedin.d736cac0aa3de4df614f00638a0ac3d4"
+                                            ],
+                                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                                        },
+                                        "secondaryFilterValues": [
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "All",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "ALL",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "People",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "PEOPLE",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Jobs",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "JOBS",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Posts",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "CONTENT",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Companies",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "COMPANIES",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": true,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Products",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "PRODUCTS",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Groups",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "GROUPS",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Services",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "SERVICES",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Events",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "EVENTS",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Courses",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "LEARNING",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Schools",
+                                                "count": null,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "SCHOOLS",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            }
+                                        ],
+                                        "highlighted": true,
+                                        "filterClickControlName": null,
+                                        "typeaheadFilterQuery": null,
+                                        "parameterName": "resultType",
+                                        "startIcon": null,
+                                        "typeaheadHint": null,
+                                        "typeaheadType": null,
+                                        "title": null,
+                                        "$recipeTypes": [
+                                            "com.linkedin.836dd139d0435569408bc496e40784d5"
+                                        ],
+                                        "$type": "com.linkedin.voyager.dash.search.SearchFilterViewModel",
+                                        "flatten": false,
+                                        "searchActionType": null,
+                                        "primaryFilterValues": [],
+                                        "filterApplyControlName": null,
+                                        "renderType": "NAVIGATION",
+                                        "trackingId": "KQ194IxaSe63ATUz0/P99A=="
+                                    }
+                                ],
+                                "title": "Show me",
+                                "$recipeTypes": [
+                                    "com.linkedin.e611142041a463a8a351315aae77d6de"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchFilterGroupViewModel"
+                            },
+                            {
+                                "filters": [
+                                    {
+                                        "viewImpressionEventName": null,
+                                        "appliedCount": 2,
+                                        "secondaryFilterValues": [
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "EMEA",
+                                                "count": 4348,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "91000007",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Asia",
+                                                "count": 4315,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "102393603",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "MENA",
+                                                "count": 4242,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "91000008",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Dubai, United Arab Emirates",
+                                                "count": 3973,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "106204383",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": true,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Abu Dhabi Emirate, United Arab Emirates",
+                                                "count": 0,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "103720977",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": true,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            }
+                                        ],
+                                        "displayName": {
+                                            "textDirection": "USER_LOCALE",
+                                            "text": "Locations",
+                                            "attributesV2": [],
+                                            "accessibilityTextAttributesV2": [],
+                                            "accessibilityText": null,
+                                            "$recipeTypes": [
+                                                "com.linkedin.d736cac0aa3de4df614f00638a0ac3d4"
+                                            ],
+                                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                                        },
+                                        "highlighted": true,
+                                        "filterClickControlName": null,
+                                        "typeaheadFilterQuery": null,
+                                        "typeaheadType": "GEO",
+                                        "typeaheadHint": "Add a location",
+                                        "parameterName": "companyHqGeo",
+                                        "startIcon": null,
+                                        "title": null,
+                                        "$recipeTypes": [
+                                            "com.linkedin.836dd139d0435569408bc496e40784d5"
+                                        ],
+                                        "$type": "com.linkedin.voyager.dash.search.SearchFilterViewModel",
+                                        "flatten": false,
+                                        "searchActionType": null,
+                                        "filterApplyControlName": null,
+                                        "primaryFilterValues": [],
+                                        "renderType": "MULTI_SELECT",
+                                        "trackingId": "gjxWBLieSnewvYkDe7DqsA=="
+                                    }
+                                ],
+                                "title": "Locations",
+                                "$recipeTypes": [
+                                    "com.linkedin.e611142041a463a8a351315aae77d6de"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchFilterGroupViewModel"
+                            },
+                            {
+                                "filters": [
+                                    {
+                                        "viewImpressionEventName": null,
+                                        "appliedCount": 0,
+                                        "secondaryFilterValues": [
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Professional Services",
+                                                "count": 787,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "1810",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Real Estate and Equipment Rental Services",
+                                                "count": 458,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "1757",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Real Estate",
+                                                "count": 455,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "44",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Accommodation and Food Services",
+                                                "count": 416,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "2190",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "Administrative and Support Services",
+                                                "count": 405,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "1912",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            }
+                                        ],
+                                        "displayName": {
+                                            "textDirection": "USER_LOCALE",
+                                            "text": "Industry",
+                                            "attributesV2": [],
+                                            "accessibilityTextAttributesV2": [],
+                                            "accessibilityText": null,
+                                            "$recipeTypes": [
+                                                "com.linkedin.d736cac0aa3de4df614f00638a0ac3d4"
+                                            ],
+                                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                                        },
+                                        "highlighted": false,
+                                        "filterClickControlName": null,
+                                        "typeaheadFilterQuery": null,
+                                        "typeaheadType": "INDUSTRY",
+                                        "typeaheadHint": "Add an industry",
+                                        "parameterName": "industryCompanyVertical",
+                                        "startIcon": null,
+                                        "title": null,
+                                        "$recipeTypes": [
+                                            "com.linkedin.836dd139d0435569408bc496e40784d5"
+                                        ],
+                                        "$type": "com.linkedin.voyager.dash.search.SearchFilterViewModel",
+                                        "flatten": false,
+                                        "searchActionType": null,
+                                        "filterApplyControlName": null,
+                                        "primaryFilterValues": [],
+                                        "renderType": "MULTI_SELECT",
+                                        "trackingId": "WGuziDo2Ra6+eDKK8e54Xw=="
+                                    }
+                                ],
+                                "title": "Industry",
+                                "$recipeTypes": [
+                                    "com.linkedin.e611142041a463a8a351315aae77d6de"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchFilterGroupViewModel"
+                            },
+                            {
+                                "filters": [
+                                    {
+                                        "viewImpressionEventName": null,
+                                        "appliedCount": 0,
+                                        "secondaryFilterValues": [
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "1-10 employees",
+                                                "count": 0,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "B",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "11-50 employees",
+                                                "count": 0,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "C",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "51-200 employees",
+                                                "count": 0,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "D",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "201-500 employees",
+                                                "count": 0,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "E",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "501-1000 employees",
+                                                "count": 0,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "F",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "1001-5000 employees",
+                                                "count": 0,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "G",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "5001-10,000 employees",
+                                                "count": 0,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "H",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            },
+                                            {
+                                                "image": null,
+                                                "default": false,
+                                                "tooltipText": null,
+                                                "displayName": "10,001+ employees",
+                                                "count": 0,
+                                                "icon": null,
+                                                "disabled": false,
+                                                "value": "I",
+                                                "$recipeTypes": [
+                                                    "com.linkedin.07f513ceb90bc75d3b400cd481858a38"
+                                                ],
+                                                "selected": false,
+                                                "$type": "com.linkedin.voyager.dash.search.SearchFilterValue"
+                                            }
+                                        ],
+                                        "displayName": {
+                                            "textDirection": "USER_LOCALE",
+                                            "text": "Company size",
+                                            "attributesV2": [],
+                                            "accessibilityTextAttributesV2": [],
+                                            "accessibilityText": null,
+                                            "$recipeTypes": [
+                                                "com.linkedin.d736cac0aa3de4df614f00638a0ac3d4"
+                                            ],
+                                            "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+                                        },
+                                        "highlighted": false,
+                                        "filterClickControlName": null,
+                                        "typeaheadFilterQuery": null,
+                                        "parameterName": "companySize",
+                                        "startIcon": null,
+                                        "typeaheadHint": null,
+                                        "typeaheadType": null,
+                                        "title": null,
+                                        "$recipeTypes": [
+                                            "com.linkedin.836dd139d0435569408bc496e40784d5"
+                                        ],
+                                        "$type": "com.linkedin.voyager.dash.search.SearchFilterViewModel",
+                                        "flatten": false,
+                                        "searchActionType": null,
+                                        "filterApplyControlName": null,
+                                        "primaryFilterValues": [],
+                                        "renderType": "MULTI_SELECT",
+                                        "trackingId": "apkX5q14SnGEhk0+MaNEdQ=="
+                                    }
+                                ],
+                                "title": "Company size",
+                                "$recipeTypes": [
+                                    "com.linkedin.e611142041a463a8a351315aae77d6de"
+                                ],
+                                "$type": "com.linkedin.voyager.dash.search.SearchFilterGroupViewModel"
+                            }
+                        ],
+                        "appliedCount": 4,
+                        "icon": null,
+                        "subsequentRefresh": true,
+                        "primaryFilters": [],
+                        "title": "Filters",
+                        "secondaryFilters": [],
+                        "$recipeTypes": [
+                            "com.linkedin.432f5eb701513541c9f7764c17a72cb9"
+                        ],
+                        "showAdvanceFilter": true,
+                        "$type": "com.linkedin.voyager.dash.search.SearchFilterCluster"
+                    }
+                ],
+                "$type": "com.linkedin.restli.common.CollectionResponse"
+            },
+            "$recipeTypes": [
+                "com.linkedin.2bb9eff2b413ec7d4f3408870f41e82e"
+            ],
+            "$type": "com.linkedin.2bb9eff2b413ec7d4f3408870f41e82e"
+        }
+    },
+    "included": []
+}

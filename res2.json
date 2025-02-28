@@ -1,0 +1,1094 @@
+{
+    "data": {
+        "data": {
+            "*searchDashLazyLoadedActionsByIds": [
+                "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:10998,COMPANIES,SEARCH_SRP)",
+                "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:142074,COMPANIES,SEARCH_SRP)",
+                "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:14631800,COMPANIES,SEARCH_SRP)",
+                "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:18410,COMPANIES,SEARCH_SRP)",
+                "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:271832,COMPANIES,SEARCH_SRP)",
+                "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:28697566,COMPANIES,SEARCH_SRP)",
+                "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:35804,COMPANIES,SEARCH_SRP)",
+                "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:3688218,COMPANIES,SEARCH_SRP)",
+                "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:37530211,COMPANIES,SEARCH_SRP)",
+                "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:68562546,COMPANIES,SEARCH_SRP)"
+            ],
+            "$recipeTypes": [
+                "com.linkedin.ce8f3f873e8a376bd2f261fce8a9d0a0"
+            ],
+            "$type": "com.linkedin.ce8f3f873e8a376bd2f261fce8a9d0a0"
+        }
+    },
+    "included": [
+        {
+            "followeeCount": null,
+            "entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:10998",
+            "following": false,
+            "preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:10998",
+            "trackingUrn": null,
+            "followingType": "DEFAULT",
+            "followerCount": 769392,
+            "$recipeTypes": [
+                "com.linkedin.20268ec9707c0ae9a32df6e603ed0401"
+            ],
+            "$type": "com.linkedin.voyager.dash.feed.FollowingState"
+        },
+        {
+            "followeeCount": null,
+            "entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:68562546",
+            "following": false,
+            "preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:68562546",
+            "trackingUrn": null,
+            "followingType": "DEFAULT",
+            "followerCount": 1081810,
+            "$recipeTypes": [
+                "com.linkedin.20268ec9707c0ae9a32df6e603ed0401"
+            ],
+            "$type": "com.linkedin.voyager.dash.feed.FollowingState"
+        },
+        {
+            "followeeCount": null,
+            "entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:142074",
+            "following": false,
+            "preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:142074",
+            "trackingUrn": null,
+            "followingType": "DEFAULT",
+            "followerCount": 411834,
+            "$recipeTypes": [
+                "com.linkedin.20268ec9707c0ae9a32df6e603ed0401"
+            ],
+            "$type": "com.linkedin.voyager.dash.feed.FollowingState"
+        },
+        {
+            "followeeCount": null,
+            "entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:271832",
+            "following": false,
+            "preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:271832",
+            "trackingUrn": null,
+            "followingType": "DEFAULT",
+            "followerCount": 1149144,
+            "$recipeTypes": [
+                "com.linkedin.20268ec9707c0ae9a32df6e603ed0401"
+            ],
+            "$type": "com.linkedin.voyager.dash.feed.FollowingState"
+        },
+        {
+            "followeeCount": null,
+            "entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:35804",
+            "following": false,
+            "preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:35804",
+            "trackingUrn": null,
+            "followingType": "DEFAULT",
+            "followerCount": 631128,
+            "$recipeTypes": [
+                "com.linkedin.20268ec9707c0ae9a32df6e603ed0401"
+            ],
+            "$type": "com.linkedin.voyager.dash.feed.FollowingState"
+        },
+        {
+            "followeeCount": null,
+            "entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:3688218",
+            "following": false,
+            "preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:3688218",
+            "trackingUrn": null,
+            "followingType": "DEFAULT",
+            "followerCount": 293502,
+            "$recipeTypes": [
+                "com.linkedin.20268ec9707c0ae9a32df6e603ed0401"
+            ],
+            "$type": "com.linkedin.voyager.dash.feed.FollowingState"
+        },
+        {
+            "followeeCount": null,
+            "entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:37530211",
+            "following": false,
+            "preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:37530211",
+            "trackingUrn": null,
+            "followingType": "DEFAULT",
+            "followerCount": 915202,
+            "$recipeTypes": [
+                "com.linkedin.20268ec9707c0ae9a32df6e603ed0401"
+            ],
+            "$type": "com.linkedin.voyager.dash.feed.FollowingState"
+        },
+        {
+            "followeeCount": null,
+            "entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:28697566",
+            "following": false,
+            "preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:28697566",
+            "trackingUrn": null,
+            "followingType": "DEFAULT",
+            "followerCount": 987148,
+            "$recipeTypes": [
+                "com.linkedin.20268ec9707c0ae9a32df6e603ed0401"
+            ],
+            "$type": "com.linkedin.voyager.dash.feed.FollowingState"
+        },
+        {
+            "followeeCount": null,
+            "entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:18410",
+            "following": false,
+            "preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:18410",
+            "trackingUrn": null,
+            "followingType": "DEFAULT",
+            "followerCount": 536721,
+            "$recipeTypes": [
+                "com.linkedin.20268ec9707c0ae9a32df6e603ed0401"
+            ],
+            "$type": "com.linkedin.voyager.dash.feed.FollowingState"
+        },
+        {
+            "followeeCount": null,
+            "entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:14631800",
+            "following": false,
+            "preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:14631800",
+            "trackingUrn": null,
+            "followingType": "DEFAULT",
+            "followerCount": 409829,
+            "$recipeTypes": [
+                "com.linkedin.20268ec9707c0ae9a32df6e603ed0401"
+            ],
+            "$type": "com.linkedin.voyager.dash.feed.FollowingState"
+        },
+        {
+            "name": "Dubai Airports",
+            "entityUrn": "urn:li:fsd_company:271832",
+            "$recipeTypes": [
+                "com.linkedin.657413f1f9d78200239211d152acf7f5"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "name": "Dubai Islamic Bank",
+            "entityUrn": "urn:li:fsd_company:10998",
+            "$recipeTypes": [
+                "com.linkedin.657413f1f9d78200239211d152acf7f5"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "name": "Dubai Department of Economy and Tourism",
+            "entityUrn": "urn:li:fsd_company:142074",
+            "$recipeTypes": [
+                "com.linkedin.657413f1f9d78200239211d152acf7f5"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "name": "Dubai Vacancy | Dubai Jobs | Gulf Careers | Gulf Jobs",
+            "entityUrn": "urn:li:fsd_company:28697566",
+            "$recipeTypes": [
+                "com.linkedin.657413f1f9d78200239211d152acf7f5"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "name": "Dubai Holding",
+            "entityUrn": "urn:li:fsd_company:18410",
+            "$recipeTypes": [
+                "com.linkedin.657413f1f9d78200239211d152acf7f5"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "name": "Dubai Vacancy | Dubai Jobs | Gulf Careers",
+            "entityUrn": "urn:li:fsd_company:14631800",
+            "$recipeTypes": [
+                "com.linkedin.657413f1f9d78200239211d152acf7f5"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "name": "Dubai Electricity & Water Authority - DEWA",
+            "entityUrn": "urn:li:fsd_company:35804",
+            "$recipeTypes": [
+                "com.linkedin.657413f1f9d78200239211d152acf7f5"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "name": "Dubai Vacancy | Dubai Jobs | Gulf Careers",
+            "entityUrn": "urn:li:fsd_company:37530211",
+            "$recipeTypes": [
+                "com.linkedin.657413f1f9d78200239211d152acf7f5"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "name": "Dubai Properties (DP)",
+            "entityUrn": "urn:li:fsd_company:3688218",
+            "$recipeTypes": [
+                "com.linkedin.657413f1f9d78200239211d152acf7f5"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "name": "Jobs In Dubai - applydubjob.com",
+            "entityUrn": "urn:li:fsd_company:68562546",
+            "$recipeTypes": [
+                "com.linkedin.657413f1f9d78200239211d152acf7f5"
+            ],
+            "$type": "com.linkedin.voyager.dash.organization.Company"
+        },
+        {
+            "entityUrn": "urn:li:fsd_directionalEntityRelationship:urn:li:fsd_company:28697566",
+            "invitation": null,
+            "relationshipData": {
+                "follow": {
+                    "metadata": {
+                        "memberToMemberFollow": null,
+                        "memberToCompanyFollow": {
+                            "*company": "urn:li:fsd_company:28697566",
+                            "$recipeTypes": [
+                                "com.linkedin.fe89b38febe6ad9c517c3be66688831d"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.relationships.MemberToCompanyFollowMetadata"
+                        }
+                    },
+                    "*followingState": "urn:li:fsd_followingState:urn:li:fsd_company:28697566",
+                    "$recipeTypes": [
+                        "com.linkedin.a49548591dfc96233d3c0e48bd7315cc"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.relationships.FollowRelationship"
+                }
+            },
+            "$recipeTypes": [
+                "com.linkedin.b8c242ebdc78cd111dd3cf5842854d0b"
+            ],
+            "$type": "com.linkedin.voyager.dash.relationships.DirectionalEntityRelationship"
+        },
+        {
+            "entityUrn": "urn:li:fsd_directionalEntityRelationship:urn:li:fsd_company:271832",
+            "invitation": null,
+            "relationshipData": {
+                "follow": {
+                    "metadata": {
+                        "memberToMemberFollow": null,
+                        "memberToCompanyFollow": {
+                            "*company": "urn:li:fsd_company:271832",
+                            "$recipeTypes": [
+                                "com.linkedin.fe89b38febe6ad9c517c3be66688831d"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.relationships.MemberToCompanyFollowMetadata"
+                        }
+                    },
+                    "*followingState": "urn:li:fsd_followingState:urn:li:fsd_company:271832",
+                    "$recipeTypes": [
+                        "com.linkedin.a49548591dfc96233d3c0e48bd7315cc"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.relationships.FollowRelationship"
+                }
+            },
+            "$recipeTypes": [
+                "com.linkedin.b8c242ebdc78cd111dd3cf5842854d0b"
+            ],
+            "$type": "com.linkedin.voyager.dash.relationships.DirectionalEntityRelationship"
+        },
+        {
+            "entityUrn": "urn:li:fsd_directionalEntityRelationship:urn:li:fsd_company:35804",
+            "invitation": null,
+            "relationshipData": {
+                "follow": {
+                    "metadata": {
+                        "memberToMemberFollow": null,
+                        "memberToCompanyFollow": {
+                            "*company": "urn:li:fsd_company:35804",
+                            "$recipeTypes": [
+                                "com.linkedin.fe89b38febe6ad9c517c3be66688831d"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.relationships.MemberToCompanyFollowMetadata"
+                        }
+                    },
+                    "*followingState": "urn:li:fsd_followingState:urn:li:fsd_company:35804",
+                    "$recipeTypes": [
+                        "com.linkedin.a49548591dfc96233d3c0e48bd7315cc"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.relationships.FollowRelationship"
+                }
+            },
+            "$recipeTypes": [
+                "com.linkedin.b8c242ebdc78cd111dd3cf5842854d0b"
+            ],
+            "$type": "com.linkedin.voyager.dash.relationships.DirectionalEntityRelationship"
+        },
+        {
+            "entityUrn": "urn:li:fsd_directionalEntityRelationship:urn:li:fsd_company:3688218",
+            "invitation": null,
+            "relationshipData": {
+                "follow": {
+                    "metadata": {
+                        "memberToMemberFollow": null,
+                        "memberToCompanyFollow": {
+                            "*company": "urn:li:fsd_company:3688218",
+                            "$recipeTypes": [
+                                "com.linkedin.fe89b38febe6ad9c517c3be66688831d"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.relationships.MemberToCompanyFollowMetadata"
+                        }
+                    },
+                    "*followingState": "urn:li:fsd_followingState:urn:li:fsd_company:3688218",
+                    "$recipeTypes": [
+                        "com.linkedin.a49548591dfc96233d3c0e48bd7315cc"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.relationships.FollowRelationship"
+                }
+            },
+            "$recipeTypes": [
+                "com.linkedin.b8c242ebdc78cd111dd3cf5842854d0b"
+            ],
+            "$type": "com.linkedin.voyager.dash.relationships.DirectionalEntityRelationship"
+        },
+        {
+            "entityUrn": "urn:li:fsd_directionalEntityRelationship:urn:li:fsd_company:14631800",
+            "invitation": null,
+            "relationshipData": {
+                "follow": {
+                    "metadata": {
+                        "memberToMemberFollow": null,
+                        "memberToCompanyFollow": {
+                            "*company": "urn:li:fsd_company:14631800",
+                            "$recipeTypes": [
+                                "com.linkedin.fe89b38febe6ad9c517c3be66688831d"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.relationships.MemberToCompanyFollowMetadata"
+                        }
+                    },
+                    "*followingState": "urn:li:fsd_followingState:urn:li:fsd_company:14631800",
+                    "$recipeTypes": [
+                        "com.linkedin.a49548591dfc96233d3c0e48bd7315cc"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.relationships.FollowRelationship"
+                }
+            },
+            "$recipeTypes": [
+                "com.linkedin.b8c242ebdc78cd111dd3cf5842854d0b"
+            ],
+            "$type": "com.linkedin.voyager.dash.relationships.DirectionalEntityRelationship"
+        },
+        {
+            "entityUrn": "urn:li:fsd_directionalEntityRelationship:urn:li:fsd_company:142074",
+            "invitation": null,
+            "relationshipData": {
+                "follow": {
+                    "metadata": {
+                        "memberToMemberFollow": null,
+                        "memberToCompanyFollow": {
+                            "*company": "urn:li:fsd_company:142074",
+                            "$recipeTypes": [
+                                "com.linkedin.fe89b38febe6ad9c517c3be66688831d"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.relationships.MemberToCompanyFollowMetadata"
+                        }
+                    },
+                    "*followingState": "urn:li:fsd_followingState:urn:li:fsd_company:142074",
+                    "$recipeTypes": [
+                        "com.linkedin.a49548591dfc96233d3c0e48bd7315cc"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.relationships.FollowRelationship"
+                }
+            },
+            "$recipeTypes": [
+                "com.linkedin.b8c242ebdc78cd111dd3cf5842854d0b"
+            ],
+            "$type": "com.linkedin.voyager.dash.relationships.DirectionalEntityRelationship"
+        },
+        {
+            "entityUrn": "urn:li:fsd_directionalEntityRelationship:urn:li:fsd_company:18410",
+            "invitation": null,
+            "relationshipData": {
+                "follow": {
+                    "metadata": {
+                        "memberToMemberFollow": null,
+                        "memberToCompanyFollow": {
+                            "*company": "urn:li:fsd_company:18410",
+                            "$recipeTypes": [
+                                "com.linkedin.fe89b38febe6ad9c517c3be66688831d"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.relationships.MemberToCompanyFollowMetadata"
+                        }
+                    },
+                    "*followingState": "urn:li:fsd_followingState:urn:li:fsd_company:18410",
+                    "$recipeTypes": [
+                        "com.linkedin.a49548591dfc96233d3c0e48bd7315cc"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.relationships.FollowRelationship"
+                }
+            },
+            "$recipeTypes": [
+                "com.linkedin.b8c242ebdc78cd111dd3cf5842854d0b"
+            ],
+            "$type": "com.linkedin.voyager.dash.relationships.DirectionalEntityRelationship"
+        },
+        {
+            "entityUrn": "urn:li:fsd_directionalEntityRelationship:urn:li:fsd_company:68562546",
+            "invitation": null,
+            "relationshipData": {
+                "follow": {
+                    "metadata": {
+                        "memberToMemberFollow": null,
+                        "memberToCompanyFollow": {
+                            "*company": "urn:li:fsd_company:68562546",
+                            "$recipeTypes": [
+                                "com.linkedin.fe89b38febe6ad9c517c3be66688831d"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.relationships.MemberToCompanyFollowMetadata"
+                        }
+                    },
+                    "*followingState": "urn:li:fsd_followingState:urn:li:fsd_company:68562546",
+                    "$recipeTypes": [
+                        "com.linkedin.a49548591dfc96233d3c0e48bd7315cc"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.relationships.FollowRelationship"
+                }
+            },
+            "$recipeTypes": [
+                "com.linkedin.b8c242ebdc78cd111dd3cf5842854d0b"
+            ],
+            "$type": "com.linkedin.voyager.dash.relationships.DirectionalEntityRelationship"
+        },
+        {
+            "entityUrn": "urn:li:fsd_directionalEntityRelationship:urn:li:fsd_company:10998",
+            "invitation": null,
+            "relationshipData": {
+                "follow": {
+                    "metadata": {
+                        "memberToMemberFollow": null,
+                        "memberToCompanyFollow": {
+                            "*company": "urn:li:fsd_company:10998",
+                            "$recipeTypes": [
+                                "com.linkedin.fe89b38febe6ad9c517c3be66688831d"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.relationships.MemberToCompanyFollowMetadata"
+                        }
+                    },
+                    "*followingState": "urn:li:fsd_followingState:urn:li:fsd_company:10998",
+                    "$recipeTypes": [
+                        "com.linkedin.a49548591dfc96233d3c0e48bd7315cc"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.relationships.FollowRelationship"
+                }
+            },
+            "$recipeTypes": [
+                "com.linkedin.b8c242ebdc78cd111dd3cf5842854d0b"
+            ],
+            "$type": "com.linkedin.voyager.dash.relationships.DirectionalEntityRelationship"
+        },
+        {
+            "entityUrn": "urn:li:fsd_directionalEntityRelationship:urn:li:fsd_company:37530211",
+            "invitation": null,
+            "relationshipData": {
+                "follow": {
+                    "metadata": {
+                        "memberToMemberFollow": null,
+                        "memberToCompanyFollow": {
+                            "*company": "urn:li:fsd_company:37530211",
+                            "$recipeTypes": [
+                                "com.linkedin.fe89b38febe6ad9c517c3be66688831d"
+                            ],
+                            "$type": "com.linkedin.voyager.dash.relationships.MemberToCompanyFollowMetadata"
+                        }
+                    },
+                    "*followingState": "urn:li:fsd_followingState:urn:li:fsd_company:37530211",
+                    "$recipeTypes": [
+                        "com.linkedin.a49548591dfc96233d3c0e48bd7315cc"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.relationships.FollowRelationship"
+                }
+            },
+            "$recipeTypes": [
+                "com.linkedin.b8c242ebdc78cd111dd3cf5842854d0b"
+            ],
+            "$type": "com.linkedin.voyager.dash.relationships.DirectionalEntityRelationship"
+        },
+        {
+            "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:37530211,COMPANIES,SEARCH_SRP)",
+            "primaryActions": [
+                {
+                    "trackingUrn": null,
+                    "controlName": null,
+                    "icon": null,
+                    "actionRenderStyle": "TEXT",
+                    "$recipeTypes": [
+                        "com.linkedin.858b2831856fc09fecff9bbfa87eb8a4"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.search.EntityAction",
+                    "searchActionType": "FOLLOW",
+                    "actionBannerFeedback": null,
+                    "buttonCategory": null,
+                    "text": null,
+                    "actionDetails": {
+                        "magicWandAction": null,
+                        "notificationSubscribeAction": null,
+                        "shareViaLinkAction": null,
+                        "embedHTMLAction": null,
+                        "statefulFollowAction": {
+                            "actionDataModel": {
+                                "connectionOrInvitation": null,
+                                "*memberToEntityRelationship": "urn:li:fsd_directionalEntityRelationship:urn:li:fsd_company:37530211",
+                                "relationshipActionData": null,
+                                "follow": null
+                            },
+                            "$recipeTypes": [
+                                "com.linkedin.edc4e3574513ce3adb07dd1c00f6e179"
+                            ],
+                            "emphasisStyle": "COMPLEMENTARY",
+                            "$type": "com.linkedin.voyager.dash.common.ux.button.StatefulButtonModel"
+                        },
+                        "primaryProfileAction": null,
+                        "removeConnectionAction": null,
+                        "navigationAction": null,
+                        "followAction": null,
+                        "saveAction": null,
+                        "upsellAction": null,
+                        "newsletterSubscribeAction": null,
+                        "addLearningCourseToProfileAction": null,
+                        "closeProjectAction": null,
+                        "primaryProfileActionV2": null,
+                        "shareViaPostAction": null,
+                        "leaveGroupAction": null,
+                        "reportAction": null,
+                        "messagePageAction": null,
+                        "shareViaMessageAction": null
+                    },
+                    "actionConfirmationDialog": null
+                }
+            ],
+            "overflowActions": [],
+            "$recipeTypes": [
+                "com.linkedin.9ea0b39926f5d7e9543e177eb2bc00d3"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+        },
+        {
+            "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:271832,COMPANIES,SEARCH_SRP)",
+            "primaryActions": [
+                {
+                    "trackingUrn": null,
+                    "controlName": null,
+                    "icon": null,
+                    "actionRenderStyle": "TEXT",
+                    "$recipeTypes": [
+                        "com.linkedin.858b2831856fc09fecff9bbfa87eb8a4"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.search.EntityAction",
+                    "searchActionType": "FOLLOW",
+                    "actionBannerFeedback": null,
+                    "buttonCategory": null,
+                    "text": null,
+                    "actionDetails": {
+                        "magicWandAction": null,
+                        "notificationSubscribeAction": null,
+                        "shareViaLinkAction": null,
+                        "embedHTMLAction": null,
+                        "statefulFollowAction": {
+                            "actionDataModel": {
+                                "connectionOrInvitation": null,
+                                "*memberToEntityRelationship": "urn:li:fsd_directionalEntityRelationship:urn:li:fsd_company:271832",
+                                "relationshipActionData": null,
+                                "follow": null
+                            },
+                            "$recipeTypes": [
+                                "com.linkedin.edc4e3574513ce3adb07dd1c00f6e179"
+                            ],
+                            "emphasisStyle": "COMPLEMENTARY",
+                            "$type": "com.linkedin.voyager.dash.common.ux.button.StatefulButtonModel"
+                        },
+                        "primaryProfileAction": null,
+                        "removeConnectionAction": null,
+                        "navigationAction": null,
+                        "followAction": null,
+                        "saveAction": null,
+                        "upsellAction": null,
+                        "newsletterSubscribeAction": null,
+                        "addLearningCourseToProfileAction": null,
+                        "closeProjectAction": null,
+                        "primaryProfileActionV2": null,
+                        "shareViaPostAction": null,
+                        "leaveGroupAction": null,
+                        "reportAction": null,
+                        "messagePageAction": null,
+                        "shareViaMessageAction": null
+                    },
+                    "actionConfirmationDialog": null
+                }
+            ],
+            "overflowActions": [],
+            "$recipeTypes": [
+                "com.linkedin.9ea0b39926f5d7e9543e177eb2bc00d3"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+        },
+        {
+            "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:18410,COMPANIES,SEARCH_SRP)",
+            "primaryActions": [
+                {
+                    "trackingUrn": null,
+                    "controlName": null,
+                    "icon": null,
+                    "actionRenderStyle": "TEXT",
+                    "$recipeTypes": [
+                        "com.linkedin.858b2831856fc09fecff9bbfa87eb8a4"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.search.EntityAction",
+                    "searchActionType": "FOLLOW",
+                    "actionBannerFeedback": null,
+                    "buttonCategory": null,
+                    "text": null,
+                    "actionDetails": {
+                        "magicWandAction": null,
+                        "notificationSubscribeAction": null,
+                        "shareViaLinkAction": null,
+                        "embedHTMLAction": null,
+                        "statefulFollowAction": {
+                            "actionDataModel": {
+                                "connectionOrInvitation": null,
+                                "*memberToEntityRelationship": "urn:li:fsd_directionalEntityRelationship:urn:li:fsd_company:18410",
+                                "relationshipActionData": null,
+                                "follow": null
+                            },
+                            "$recipeTypes": [
+                                "com.linkedin.edc4e3574513ce3adb07dd1c00f6e179"
+                            ],
+                            "emphasisStyle": "COMPLEMENTARY",
+                            "$type": "com.linkedin.voyager.dash.common.ux.button.StatefulButtonModel"
+                        },
+                        "primaryProfileAction": null,
+                        "removeConnectionAction": null,
+                        "navigationAction": null,
+                        "followAction": null,
+                        "saveAction": null,
+                        "upsellAction": null,
+                        "newsletterSubscribeAction": null,
+                        "addLearningCourseToProfileAction": null,
+                        "closeProjectAction": null,
+                        "primaryProfileActionV2": null,
+                        "shareViaPostAction": null,
+                        "leaveGroupAction": null,
+                        "reportAction": null,
+                        "messagePageAction": null,
+                        "shareViaMessageAction": null
+                    },
+                    "actionConfirmationDialog": null
+                }
+            ],
+            "overflowActions": [],
+            "$recipeTypes": [
+                "com.linkedin.9ea0b39926f5d7e9543e177eb2bc00d3"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+        },
+        {
+            "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:14631800,COMPANIES,SEARCH_SRP)",
+            "primaryActions": [
+                {
+                    "trackingUrn": null,
+                    "controlName": null,
+                    "icon": null,
+                    "actionRenderStyle": "TEXT",
+                    "$recipeTypes": [
+                        "com.linkedin.858b2831856fc09fecff9bbfa87eb8a4"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.search.EntityAction",
+                    "searchActionType": "FOLLOW",
+                    "actionBannerFeedback": null,
+                    "buttonCategory": null,
+                    "text": null,
+                    "actionDetails": {
+                        "magicWandAction": null,
+                        "notificationSubscribeAction": null,
+                        "shareViaLinkAction": null,
+                        "embedHTMLAction": null,
+                        "statefulFollowAction": {
+                            "actionDataModel": {
+                                "connectionOrInvitation": null,
+                                "*memberToEntityRelationship": "urn:li:fsd_directionalEntityRelationship:urn:li:fsd_company:14631800",
+                                "relationshipActionData": null,
+                                "follow": null
+                            },
+                            "$recipeTypes": [
+                                "com.linkedin.edc4e3574513ce3adb07dd1c00f6e179"
+                            ],
+                            "emphasisStyle": "COMPLEMENTARY",
+                            "$type": "com.linkedin.voyager.dash.common.ux.button.StatefulButtonModel"
+                        },
+                        "primaryProfileAction": null,
+                        "removeConnectionAction": null,
+                        "navigationAction": null,
+                        "followAction": null,
+                        "saveAction": null,
+                        "upsellAction": null,
+                        "newsletterSubscribeAction": null,
+                        "addLearningCourseToProfileAction": null,
+                        "closeProjectAction": null,
+                        "primaryProfileActionV2": null,
+                        "shareViaPostAction": null,
+                        "leaveGroupAction": null,
+                        "reportAction": null,
+                        "messagePageAction": null,
+                        "shareViaMessageAction": null
+                    },
+                    "actionConfirmationDialog": null
+                }
+            ],
+            "overflowActions": [],
+            "$recipeTypes": [
+                "com.linkedin.9ea0b39926f5d7e9543e177eb2bc00d3"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+        },
+        {
+            "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:35804,COMPANIES,SEARCH_SRP)",
+            "primaryActions": [
+                {
+                    "trackingUrn": null,
+                    "controlName": null,
+                    "icon": null,
+                    "actionRenderStyle": "TEXT",
+                    "$recipeTypes": [
+                        "com.linkedin.858b2831856fc09fecff9bbfa87eb8a4"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.search.EntityAction",
+                    "searchActionType": "FOLLOW",
+                    "actionBannerFeedback": null,
+                    "buttonCategory": null,
+                    "text": null,
+                    "actionDetails": {
+                        "magicWandAction": null,
+                        "notificationSubscribeAction": null,
+                        "shareViaLinkAction": null,
+                        "embedHTMLAction": null,
+                        "statefulFollowAction": {
+                            "actionDataModel": {
+                                "connectionOrInvitation": null,
+                                "*memberToEntityRelationship": "urn:li:fsd_directionalEntityRelationship:urn:li:fsd_company:35804",
+                                "relationshipActionData": null,
+                                "follow": null
+                            },
+                            "$recipeTypes": [
+                                "com.linkedin.edc4e3574513ce3adb07dd1c00f6e179"
+                            ],
+                            "emphasisStyle": "COMPLEMENTARY",
+                            "$type": "com.linkedin.voyager.dash.common.ux.button.StatefulButtonModel"
+                        },
+                        "primaryProfileAction": null,
+                        "removeConnectionAction": null,
+                        "navigationAction": null,
+                        "followAction": null,
+                        "saveAction": null,
+                        "upsellAction": null,
+                        "newsletterSubscribeAction": null,
+                        "addLearningCourseToProfileAction": null,
+                        "closeProjectAction": null,
+                        "primaryProfileActionV2": null,
+                        "shareViaPostAction": null,
+                        "leaveGroupAction": null,
+                        "reportAction": null,
+                        "messagePageAction": null,
+                        "shareViaMessageAction": null
+                    },
+                    "actionConfirmationDialog": null
+                }
+            ],
+            "overflowActions": [],
+            "$recipeTypes": [
+                "com.linkedin.9ea0b39926f5d7e9543e177eb2bc00d3"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+        },
+        {
+            "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:28697566,COMPANIES,SEARCH_SRP)",
+            "primaryActions": [
+                {
+                    "trackingUrn": null,
+                    "controlName": null,
+                    "icon": null,
+                    "actionRenderStyle": "TEXT",
+                    "$recipeTypes": [
+                        "com.linkedin.858b2831856fc09fecff9bbfa87eb8a4"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.search.EntityAction",
+                    "searchActionType": "FOLLOW",
+                    "actionBannerFeedback": null,
+                    "buttonCategory": null,
+                    "text": null,
+                    "actionDetails": {
+                        "magicWandAction": null,
+                        "notificationSubscribeAction": null,
+                        "shareViaLinkAction": null,
+                        "embedHTMLAction": null,
+                        "statefulFollowAction": {
+                            "actionDataModel": {
+                                "connectionOrInvitation": null,
+                                "*memberToEntityRelationship": "urn:li:fsd_directionalEntityRelationship:urn:li:fsd_company:28697566",
+                                "relationshipActionData": null,
+                                "follow": null
+                            },
+                            "$recipeTypes": [
+                                "com.linkedin.edc4e3574513ce3adb07dd1c00f6e179"
+                            ],
+                            "emphasisStyle": "COMPLEMENTARY",
+                            "$type": "com.linkedin.voyager.dash.common.ux.button.StatefulButtonModel"
+                        },
+                        "primaryProfileAction": null,
+                        "removeConnectionAction": null,
+                        "navigationAction": null,
+                        "followAction": null,
+                        "saveAction": null,
+                        "upsellAction": null,
+                        "newsletterSubscribeAction": null,
+                        "addLearningCourseToProfileAction": null,
+                        "closeProjectAction": null,
+                        "primaryProfileActionV2": null,
+                        "shareViaPostAction": null,
+                        "leaveGroupAction": null,
+                        "reportAction": null,
+                        "messagePageAction": null,
+                        "shareViaMessageAction": null
+                    },
+                    "actionConfirmationDialog": null
+                }
+            ],
+            "overflowActions": [],
+            "$recipeTypes": [
+                "com.linkedin.9ea0b39926f5d7e9543e177eb2bc00d3"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+        },
+        {
+            "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:3688218,COMPANIES,SEARCH_SRP)",
+            "primaryActions": [
+                {
+                    "trackingUrn": null,
+                    "controlName": null,
+                    "icon": null,
+                    "actionRenderStyle": "TEXT",
+                    "$recipeTypes": [
+                        "com.linkedin.858b2831856fc09fecff9bbfa87eb8a4"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.search.EntityAction",
+                    "searchActionType": "FOLLOW",
+                    "actionBannerFeedback": null,
+                    "buttonCategory": null,
+                    "text": null,
+                    "actionDetails": {
+                        "magicWandAction": null,
+                        "notificationSubscribeAction": null,
+                        "shareViaLinkAction": null,
+                        "embedHTMLAction": null,
+                        "statefulFollowAction": {
+                            "actionDataModel": {
+                                "connectionOrInvitation": null,
+                                "*memberToEntityRelationship": "urn:li:fsd_directionalEntityRelationship:urn:li:fsd_company:3688218",
+                                "relationshipActionData": null,
+                                "follow": null
+                            },
+                            "$recipeTypes": [
+                                "com.linkedin.edc4e3574513ce3adb07dd1c00f6e179"
+                            ],
+                            "emphasisStyle": "COMPLEMENTARY",
+                            "$type": "com.linkedin.voyager.dash.common.ux.button.StatefulButtonModel"
+                        },
+                        "primaryProfileAction": null,
+                        "removeConnectionAction": null,
+                        "navigationAction": null,
+                        "followAction": null,
+                        "saveAction": null,
+                        "upsellAction": null,
+                        "newsletterSubscribeAction": null,
+                        "addLearningCourseToProfileAction": null,
+                        "closeProjectAction": null,
+                        "primaryProfileActionV2": null,
+                        "shareViaPostAction": null,
+                        "leaveGroupAction": null,
+                        "reportAction": null,
+                        "messagePageAction": null,
+                        "shareViaMessageAction": null
+                    },
+                    "actionConfirmationDialog": null
+                }
+            ],
+            "overflowActions": [],
+            "$recipeTypes": [
+                "com.linkedin.9ea0b39926f5d7e9543e177eb2bc00d3"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+        },
+        {
+            "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:142074,COMPANIES,SEARCH_SRP)",
+            "primaryActions": [
+                {
+                    "trackingUrn": null,
+                    "controlName": null,
+                    "icon": null,
+                    "actionRenderStyle": "TEXT",
+                    "$recipeTypes": [
+                        "com.linkedin.858b2831856fc09fecff9bbfa87eb8a4"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.search.EntityAction",
+                    "searchActionType": "FOLLOW",
+                    "actionBannerFeedback": null,
+                    "buttonCategory": null,
+                    "text": null,
+                    "actionDetails": {
+                        "magicWandAction": null,
+                        "notificationSubscribeAction": null,
+                        "shareViaLinkAction": null,
+                        "embedHTMLAction": null,
+                        "statefulFollowAction": {
+                            "actionDataModel": {
+                                "connectionOrInvitation": null,
+                                "*memberToEntityRelationship": "urn:li:fsd_directionalEntityRelationship:urn:li:fsd_company:142074",
+                                "relationshipActionData": null,
+                                "follow": null
+                            },
+                            "$recipeTypes": [
+                                "com.linkedin.edc4e3574513ce3adb07dd1c00f6e179"
+                            ],
+                            "emphasisStyle": "COMPLEMENTARY",
+                            "$type": "com.linkedin.voyager.dash.common.ux.button.StatefulButtonModel"
+                        },
+                        "primaryProfileAction": null,
+                        "removeConnectionAction": null,
+                        "navigationAction": null,
+                        "followAction": null,
+                        "saveAction": null,
+                        "upsellAction": null,
+                        "newsletterSubscribeAction": null,
+                        "addLearningCourseToProfileAction": null,
+                        "closeProjectAction": null,
+                        "primaryProfileActionV2": null,
+                        "shareViaPostAction": null,
+                        "leaveGroupAction": null,
+                        "reportAction": null,
+                        "messagePageAction": null,
+                        "shareViaMessageAction": null
+                    },
+                    "actionConfirmationDialog": null
+                }
+            ],
+            "overflowActions": [],
+            "$recipeTypes": [
+                "com.linkedin.9ea0b39926f5d7e9543e177eb2bc00d3"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+        },
+        {
+            "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:68562546,COMPANIES,SEARCH_SRP)",
+            "primaryActions": [
+                {
+                    "trackingUrn": null,
+                    "controlName": null,
+                    "icon": null,
+                    "actionRenderStyle": "TEXT",
+                    "$recipeTypes": [
+                        "com.linkedin.858b2831856fc09fecff9bbfa87eb8a4"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.search.EntityAction",
+                    "searchActionType": "FOLLOW",
+                    "actionBannerFeedback": null,
+                    "buttonCategory": null,
+                    "text": null,
+                    "actionDetails": {
+                        "magicWandAction": null,
+                        "notificationSubscribeAction": null,
+                        "shareViaLinkAction": null,
+                        "embedHTMLAction": null,
+                        "statefulFollowAction": {
+                            "actionDataModel": {
+                                "connectionOrInvitation": null,
+                                "*memberToEntityRelationship": "urn:li:fsd_directionalEntityRelationship:urn:li:fsd_company:68562546",
+                                "relationshipActionData": null,
+                                "follow": null
+                            },
+                            "$recipeTypes": [
+                                "com.linkedin.edc4e3574513ce3adb07dd1c00f6e179"
+                            ],
+                            "emphasisStyle": "COMPLEMENTARY",
+                            "$type": "com.linkedin.voyager.dash.common.ux.button.StatefulButtonModel"
+                        },
+                        "primaryProfileAction": null,
+                        "removeConnectionAction": null,
+                        "navigationAction": null,
+                        "followAction": null,
+                        "saveAction": null,
+                        "upsellAction": null,
+                        "newsletterSubscribeAction": null,
+                        "addLearningCourseToProfileAction": null,
+                        "closeProjectAction": null,
+                        "primaryProfileActionV2": null,
+                        "shareViaPostAction": null,
+                        "leaveGroupAction": null,
+                        "reportAction": null,
+                        "messagePageAction": null,
+                        "shareViaMessageAction": null
+                    },
+                    "actionConfirmationDialog": null
+                }
+            ],
+            "overflowActions": [],
+            "$recipeTypes": [
+                "com.linkedin.9ea0b39926f5d7e9543e177eb2bc00d3"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+        },
+        {
+            "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_company:10998,COMPANIES,SEARCH_SRP)",
+            "primaryActions": [
+                {
+                    "trackingUrn": null,
+                    "controlName": null,
+                    "icon": null,
+                    "actionRenderStyle": "TEXT",
+                    "$recipeTypes": [
+                        "com.linkedin.858b2831856fc09fecff9bbfa87eb8a4"
+                    ],
+                    "$type": "com.linkedin.voyager.dash.search.EntityAction",
+                    "searchActionType": "FOLLOW",
+                    "actionBannerFeedback": null,
+                    "buttonCategory": null,
+                    "text": null,
+                    "actionDetails": {
+                        "magicWandAction": null,
+                        "notificationSubscribeAction": null,
+                        "shareViaLinkAction": null,
+                        "embedHTMLAction": null,
+                        "statefulFollowAction": {
+                            "actionDataModel": {
+                                "connectionOrInvitation": null,
+                                "*memberToEntityRelationship": "urn:li:fsd_directionalEntityRelationship:urn:li:fsd_company:10998",
+                                "relationshipActionData": null,
+                                "follow": null
+                            },
+                            "$recipeTypes": [
+                                "com.linkedin.edc4e3574513ce3adb07dd1c00f6e179"
+                            ],
+                            "emphasisStyle": "COMPLEMENTARY",
+                            "$type": "com.linkedin.voyager.dash.common.ux.button.StatefulButtonModel"
+                        },
+                        "primaryProfileAction": null,
+                        "removeConnectionAction": null,
+                        "navigationAction": null,
+                        "followAction": null,
+                        "saveAction": null,
+                        "upsellAction": null,
+                        "newsletterSubscribeAction": null,
+                        "addLearningCourseToProfileAction": null,
+                        "closeProjectAction": null,
+                        "primaryProfileActionV2": null,
+                        "shareViaPostAction": null,
+                        "leaveGroupAction": null,
+                        "reportAction": null,
+                        "messagePageAction": null,
+                        "shareViaMessageAction": null
+                    },
+                    "actionConfirmationDialog": null
+                }
+            ],
+            "overflowActions": [],
+            "$recipeTypes": [
+                "com.linkedin.9ea0b39926f5d7e9543e177eb2bc00d3"
+            ],
+            "$type": "com.linkedin.voyager.dash.search.LazyLoadedActions"
+        }
+    ]
+}

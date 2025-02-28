@@ -1,0 +1,100 @@
+Request URL:
+https://www.linkedin.com/voyager/api/graphql?includeWebMetadata=true&variables=(userMatchHistoryCookie:AQI0GyBP8LANjAAAAZVE26AeQ0gca3JtxqCNvCPOMM2GMs0_tiDnsl5arPpiFkIhBOQENf-VKUNW_pKHi_aMw044eU8Aeyxk0ehE4VU5okIVxj1y8jz9P2QjTfoK8_TQRGTybC_euJhvXC7HALVJjVIxWhk3br_y6agO9_v18jrKevY8RUNT-vTtyLXT4axj9Oxopjdiqq07KATAUXb-G6hnED-DSrCRdcJozxJCFMnoqRnyYlQmP9KQpAb0SqJkrmR6ag7vBY445NHwWPYqI768p6NSq_7ZDpz-varMlmGI5Q-3N8jk7qHRhZ_zPDZPIi3BLHR-gZYKsLKBoh2NsvOZ1NTcudQMPdH6WSyuzJ3QNjYU8A)&queryId=voyagerFeedDashThirdPartyIdSyncs.e9d3044f7ad311ff359561b405629210
+Request Method:
+GET
+Status Code:
+200 OK
+Remote Address:
+13.107.42.14:443
+Referrer Policy:
+strict-origin-when-cross-origin
+cache-control:
+no-cache, no-store
+content-encoding:
+gzip
+content-length:
+790
+content-security-policy:
+default-src 'none'; frame-ancestors 'none'; form-action 'none'
+content-type:
+application/vnd.linkedin.normalized+json+2.1; charset=UTF-8
+date:
+Thu, 27 Feb 2025 00:45:21 GMT
+expires:
+Thu, 01 Jan 1970 00:00:00 GMT
+pragma:
+no-cache
+strict-transport-security:
+max-age=31536000
+x-cache:
+CONFIG_NOCACHE
+x-content-type-options:
+nosniff
+x-frame-options:
+sameorigin
+x-li-content-length:
+790
+x-li-fabric:
+prod-ltx1
+x-li-pop:
+afd-prod-ltx1-x
+x-li-proto:
+http/2
+x-li-server-info:
+521cbb09c82fe3c0365207be1be2682ac407fec59f7c9175c12090ee6567fce7
+x-li-server-time:
+48
+x-li-service-worker-blacklist:
+control
+x-li-uuid:
+AAYvFQE7ze3ri+olnko4Wg==
+x-msedge-ref:
+Ref A: 83065EE73F92449486A1273CEC770253 Ref B: LAXEDGE1909 Ref C: 2025-02-27T00:45:21Z
+x-restli-protocol-version:
+2.0.0
+:authority:
+www.linkedin.com
+:method:
+GET
+:path:
+/voyager/api/graphql?includeWebMetadata=true&variables=(userMatchHistoryCookie:AQI0GyBP8LANjAAAAZVE26AeQ0gca3JtxqCNvCPOMM2GMs0_tiDnsl5arPpiFkIhBOQENf-VKUNW_pKHi_aMw044eU8Aeyxk0ehE4VU5okIVxj1y8jz9P2QjTfoK8_TQRGTybC_euJhvXC7HALVJjVIxWhk3br_y6agO9_v18jrKevY8RUNT-vTtyLXT4axj9Oxopjdiqq07KATAUXb-G6hnED-DSrCRdcJozxJCFMnoqRnyYlQmP9KQpAb0SqJkrmR6ag7vBY445NHwWPYqI768p6NSq_7ZDpz-varMlmGI5Q-3N8jk7qHRhZ_zPDZPIi3BLHR-gZYKsLKBoh2NsvOZ1NTcudQMPdH6WSyuzJ3QNjYU8A)&queryId=voyagerFeedDashThirdPartyIdSyncs.e9d3044f7ad311ff359561b405629210
+:scheme:
+https
+accept:
+application/vnd.linkedin.normalized+json+2.1
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-US,en;q=0.9
+cookie:
+AMCVS_14215E3D5995C57C0A495C55%40AdobeOrg=1; li_sugr=bb83cb9c-17ac-4fc2-8c84-d018e302ef34; bcookie="v=2&942aa132-0c5d-4d56-81dd-b023be113d18"; bscookie="v=1&20241223121757cbc86b21-f5fa-428e-8831-5cee98107f45AQGDw5xuLjnKcYl0ml0-eONJOh6HARe5"; aam_uuid=64656676408721600044396227995436398073; g_state={"i_l":0}; li_rm=AQHMANKeMR2UEQAAAZRrJxbAATippHr9FKRwQ0iy0bli5-u7oebvAt4iOKEM46rR42khN0kFy_fI3RDv84uavv4pVucSxdAey1Zw-ezajD4Og21yfgwylos7; AMCV_14215E3D5995C57C0A495C55%40AdobeOrg=-637568504%7CMCIDTS%7C20124%7CMCMID%7C64462049978319321114453397221100996146%7CMCAAMLH-1739298855%7C3%7CMCAAMB-1739298855%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1738701255s%7CNONE%7CvVersion%7C5.1.1; liap=true; JSESSIONID="ajax:4048042056122993237"; li_theme=light; li_theme_set=app; _guid=7bd51f84-ded4-4589-af45-07bb584aa817; dfpfpt=ad050ca6af4549d78b8a436e995e335b; li_at=AQEDAQD3LyQDNqepAAABlNI-oZ0AAAGVaOZHw00Ae2lqqW10-jj1urKVmtjLd0JE29qTO0WmqY9pD5lcWmeYccRr-nNrn7SrxX8sZXOEOg6j2mdOBm8clH4mb5ue6iCCFQzfs-Fq5U621InZNdDSf0dv; timezone=America/New_York; AnalyticsSyncHistory=AQJAPnDyRLkYUQAAAZVE2hqCCpV1KXhB6dWEYu2H-3XgGy9hrhwKss7DsGQwobHuwi3q2EosnDblrArFnizkgA; lms_ads=AQEeC9BtTjF1egAAAZVE2hv4xgB72PbgPTyZckLue9azhQoHJOKj1K40VQBSafoH7KX3qZSbRhl0idntkPanxHfQE2B5nYdR; lms_analytics=AQEeC9BtTjF1egAAAZVE2hv4xgB72PbgPTyZckLue9azhQoHJOKj1K40VQBSafoH7KX3qZSbRhl0idntkPanxHfQE2B5nYdR; __cf_bm=pzk84DiobGoVWffr8r4wiUNd6If8TotPtYL6sBTu4Ws-1740616906-1.0.1.1-p8ET4aL1M3k767suAUqV_8twJ7I.T1Qq0oiLdufn4aAS1X08fZSJnlBLT51zGMi5aaf1iQCZwvrulHP2FTxoxg; fptctx2=taBcrIH61PuCVH7eNCyH0B9zcK90d%252bIeoo1r5v7Zc25zWE6JQO3M56qxWXSdF9YypEXr5tx%252b2qj0BclvpyPTJg6EVfETCd96W2aDwAvsr9GqBn%252bLhRhia5jdNClrs%252bOVuuEf8mH406qIMhFozkNBnRvgNem%252fTzQcLYSPiP50Ruk%252fC0g4OrJJjJwnuJq8aI0tRzJo%252bkHYebPSljPsc3QsJwqanA%252fRAfDS9KiGyKEEsfSB50ceiFJ%252bxYtHLH2dJ%252fyCMoWvIDkgXZ8aM6TMFQHfHSjBmqpayOb69Z177GKXE6WPZ2m9I9Obe5Uu1u%252bwF1h8VkJlvPYtna9NOH%252f56it4keKW2GXTH1K9%252fU2i%252bk0yPRE%253d; lang="v=2&lang=en-us"; UserMatchHistory=AQI0GyBP8LANjAAAAZVE26AeQ0gca3JtxqCNvCPOMM2GMs0_tiDnsl5arPpiFkIhBOQENf-VKUNW_pKHi_aMw044eU8Aeyxk0ehE4VU5okIVxj1y8jz9P2QjTfoK8_TQRGTybC_euJhvXC7HALVJjVIxWhk3br_y6agO9_v18jrKevY8RUNT-vTtyLXT4axj9Oxopjdiqq07KATAUXb-G6hnED-DSrCRdcJozxJCFMnoqRnyYlQmP9KQpAb0SqJkrmR6ag7vBY445NHwWPYqI768p6NSq_7ZDpz-varMlmGI5Q-3N8jk7qHRhZ_zPDZPIi3BLHR-gZYKsLKBoh2NsvOZ1NTcudQMPdH6WSyuzJ3QNjYU8A; lidc="b=TB60:s=T:r=T:a=T:p=T:g=4066:u=388:x=1:i=1740617004:t=1740637319:v=2:sig=AQEhHj1cHLN4NrOcrNVL03_YlYOGC_mW"
+csrf-token:
+ajax:4048042056122993237
+priority:
+u=1, i
+referer:
+https://www.linkedin.com/search/results/companies/?companyHqGeo=%5B%22103720977%22%2C%22106204383%22%5D&industryCompanyVertical=%5B%2243%22%2C%2245%22%2C%2241%22%5D&keywords=dubai&origin=FACETED_SEARCH&sid=ePb
+sec-ch-prefers-color-scheme:
+dark
+sec-ch-ua:
+"Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+same-origin
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+x-li-lang:
+en_US
+x-li-page-instance:
+urn:li:page:d_flagship3_search_srp_companies;vIYigVhIT3SzX+IiiDmZPQ==
+x-li-track:
+{"clientVersion":"1.13.31296","mpVersion":"1.13.31296","osName":"web","timezoneOffset":-5,"timezone":"America/New_York","deviceFormFactor":"DESKTOP","mpName":"voyager-web","displayDensity":1.25,"displayWidth":1920,"displayHeight":1080}
+x-restli-protocol-version:
+2.0.0
