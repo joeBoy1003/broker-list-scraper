@@ -20,7 +20,7 @@ with open('linkedin_cookies.json', 'r') as f:
 cookies = {cookie['name']: cookie['value'] for cookie in linkedin_cookies}
 
 def fetch_companies_list(start=0):
-    url = f"https://www.linkedin.com/voyager/api/graphql?variables=(start:{start},origin:FACETED_SEARCH,query:(flagshipSearchIntent:SEARCH_SRP,queryParameters:List((key:companyHqGeo,value:List(103720977,106204383)),(key:industryCompanyVertical,value:List(43,41,45)),(key:resultType,value:List(COMPANIES))),includeFiltersInResponse:false))&queryId=voyagerSearchDashClusters.92cc53470cef3c578ab1d34676d5320c"
+    url = f"https://www.linkedin.com/voyager/api/graphql?variables=(start:{start},origin:FACETED_SEARCH,query:(flagshipSearchIntent:SEARCH_SRP,queryParameters:List((key:companyHqGeo,value:List(103720977,106204383)),(key:industryCompanyVertical,value:List(1737,1770,1696,43,41,45)),(key:resultType,value:List(COMPANIES))),includeFiltersInResponse:false))&queryId=voyagerSearchDashClusters.92cc53470cef3c578ab1d34676d5320c"
 
     response = requests.get(url, headers=headers, cookies=cookies)
     if response.status_code == 200:
@@ -43,66 +43,74 @@ def fetch_companies_list(start=0):
         print(f"Response Content: {response.content}")
         return 0, []
 
-def fetch_company_details(company_urn):
-    try:
-        print(f"Starting fetch for {company_urn}")
-        encoded_urn = urllib.parse.quote(company_urn, safe='')
-        url = f"https://www.linkedin.com/voyager/api/graphql?includeWebMetadata=true&variables=(organizationalPageUrn:{encoded_urn},context:ORGANIZATIONAL_PAGE_MEMBER_HOME)&queryId=voyagerOrganizationDashViewWrapper.37e905692bf95ef899e1723453cd0085"
-        response = requests.get(url, headers=headers, cookies=cookies)
-        if response.status_code == 200:
-            data = response.json()
-            details = {}
-            # Extract total employees
-            try:
-                total_employees = data['included'][0]['premiumCompanyInsightCardHiresWrapper']['elements'][0]['companyInsights']['highlightsInsights']['headcountGrowth'][-1]['employeeCount']
-            except (KeyError, IndexError):
-                total_employees = None
+def fetch_company_details(universal_name, company_name):
+    url = f"https://www.linkedin.com/voyager/api/graphql?includeWebMetadata=true&variables=(universalName:{universal_name})&queryId=voyagerOrganizationDashCompanies.00f354be1dd02e328635b27fbeb6cbea"
+    response = requests.get(url, headers=headers, cookies=cookies)
+    
+    if response.status_code == 200:
+        data = response.json()
+        included = data.get('included', [])  # Fix: Look inside 'included' list
 
-            # Extract company title
-            try:
-                company_name = data['data']['data']['organizationDashViewWrapperByOrganizationalPageAndContext']['elements'][0]['nestedComponents'][0]['component']['header']['heading']['text'].replace("Insights on ", "")
-            except (KeyError, IndexError):
-                company_name = None
+        company_info = None
+        for entry in included:
+            if 'specialities' in entry:  # Find the correct object
+                company_info = entry
+                break
 
-            details['company_name'] = company_name.encode('utf-8').decode('unicode_escape')
-            details['total_employees'] = total_employees
+        if company_info:
+            specialities = company_info.get('specialities', [])  # Extract specialities correctly
+            headquarters = company_info.get('headquarter', {}).get('address', {})
+            employee_count = company_info.get('employeeCount', {})
+            website_url = company_info.get('websiteUrl', '')
 
-            # Save details to file immediately
-            with open('company_details.json', 'a') as outfile:
-                json.dump(details, outfile)
+            location = {
+                'city': headquarters.get('city', ''),
+                'geographicArea': headquarters.get('geographicArea', ''),
+                'country': headquarters.get('country', '')
+            }
+
+            result = {
+                'name': company_name,
+                'specialities': specialities,
+                'headquarters': location,
+                'employee_count': employee_count,
+                'website_url': website_url
+            }
+
+            print("Fetched company info: ", result)
+
+            # Write result to file
+            with open('company_details_output.json', 'a') as outfile:
+                json.dump(result, outfile)
                 outfile.write('\n')
 
-            print(json.dumps(details, indent=4))  # Print details as they are fetched
-        else:
-            print(f"Failed to fetch company details: {response.status_code}")
-            print(f"Response Headers: {response.headers}")
-            print(f"Response Content: {response.content}")
-    except Exception as e:
-        print(f"Exception occurred while fetching details for {company_urn}: {e}")
-    finally:
-        print(f"Finished fetch for {company_urn}")
+            return result
+
+    print(f"Failed to fetch details for {company_name}")
+    return None
 
 def main():
-    fetch_companies_list(0)
+    start = 0
 
-    # start = 0
+    while True:
+        total, included = fetch_companies_list(start)
+        print(total)
+        if not included:
+            break
 
-    # while True:
-    #     total, included = fetch_companies_list(start)
-    #     if not included:
-    #         break
+        print(f"Fetched {len(included)} companies, fetching details sequentially...")
 
-    #     print(f"Fetched {len(included)} companies, fetching details sequentially...")
+        for company in included:
+            company_universal_name = company['universalName']
+            company_name = company['name']
+            fetch_company_details(company_universal_name, company_name)
+            print(f"Company: {company['name']}")
 
-    #     for company in included:
-    #         company_urn = company['entityUrn'].replace("fsd_company:", "fsd_organizationalPage:")
-    #         fetch_company_details(company_urn)
+        start += len(included)
+        print(f"Fetched {start} of {total} companies")
 
-    #     start += len(included)
-    #     print(f"Fetched {start} of {total} companies")
-
-    #     if start >= total:
-    #         break
+        if start >= 10:
+            break
 
 if __name__ == "__main__":
     main()
